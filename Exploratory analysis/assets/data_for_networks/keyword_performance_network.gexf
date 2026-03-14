@@ -1,0 +1,1297 @@
+<?xml version="1.0" ?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2">
+  <graph defaultedgetype="undirected">
+    <attributes class="node">
+      <attribute id="0" title="avg_rating" type="float"/>
+      <attribute id="1" title="avg_votes" type="float"/>
+      <attribute id="2" title="movie_count" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="flashback" label="flashback">
+        <attvalues>
+          <attvalue for="0" value="6.53"/>
+          <attvalue for="1" value="94334.0"/>
+          <attvalue for="2" value="463"/>
+        </attvalues>
+      </node>
+      <node id="title spoken by character" label="title spoken by character">
+        <attvalues>
+          <attvalue for="0" value="6.67"/>
+          <attvalue for="1" value="107721.0"/>
+          <attvalue for="2" value="368"/>
+        </attvalues>
+      </node>
+      <node id="psychotronic film" label="psychotronic film">
+        <attvalues>
+          <attvalue for="0" value="6.08"/>
+          <attvalue for="1" value="70156.0"/>
+          <attvalue for="2" value="336"/>
+        </attvalues>
+      </node>
+      <node id="kiss" label="kiss">
+        <attvalues>
+          <attvalue for="0" value="6.69"/>
+          <attvalue for="1" value="84963.0"/>
+          <attvalue for="2" value="419"/>
+        </attvalues>
+      </node>
+      <node id="england" label="england">
+        <attvalues>
+          <attvalue for="0" value="6.71"/>
+          <attvalue for="1" value="90310.0"/>
+          <attvalue for="2" value="211"/>
+        </attvalues>
+      </node>
+      <node id="blood" label="blood">
+        <attvalues>
+          <attvalue for="0" value="6.46"/>
+          <attvalue for="1" value="94760.0"/>
+          <attvalue for="2" value="550"/>
+        </attvalues>
+      </node>
+      <node id="cell phone" label="cell phone">
+        <attvalues>
+          <attvalue for="0" value="6.47"/>
+          <attvalue for="1" value="91444.0"/>
+          <attvalue for="2" value="206"/>
+        </attvalues>
+      </node>
+      <node id="betrayal" label="betrayal">
+        <attvalues>
+          <attvalue for="0" value="6.6"/>
+          <attvalue for="1" value="118454.0"/>
+          <attvalue for="2" value="246"/>
+        </attvalues>
+      </node>
+      <node id="dog" label="dog">
+        <attvalues>
+          <attvalue for="0" value="6.64"/>
+          <attvalue for="1" value="81631.0"/>
+          <attvalue for="2" value="357"/>
+        </attvalues>
+      </node>
+      <node id="female protagonist" label="female protagonist">
+        <attvalues>
+          <attvalue for="0" value="6.48"/>
+          <attvalue for="1" value="67178.0"/>
+          <attvalue for="2" value="271"/>
+        </attvalues>
+      </node>
+      <node id="female frontal nudity" label="female frontal nudity">
+        <attvalues>
+          <attvalue for="0" value="6.38"/>
+          <attvalue for="1" value="71769.0"/>
+          <attvalue for="2" value="282"/>
+        </attvalues>
+      </node>
+      <node id="pistol" label="pistol">
+        <attvalues>
+          <attvalue for="0" value="6.5"/>
+          <attvalue for="1" value="111308.0"/>
+          <attvalue for="2" value="273"/>
+        </attvalues>
+      </node>
+      <node id="hotel" label="hotel">
+        <attvalues>
+          <attvalue for="0" value="6.69"/>
+          <attvalue for="1" value="117900.0"/>
+          <attvalue for="2" value="208"/>
+        </attvalues>
+      </node>
+      <node id="beating" label="beating">
+        <attvalues>
+          <attvalue for="0" value="6.69"/>
+          <attvalue for="1" value="109760.0"/>
+          <attvalue for="2" value="225"/>
+        </attvalues>
+      </node>
+      <node id="brutality" label="brutality">
+        <attvalues>
+          <attvalue for="0" value="6.55"/>
+          <attvalue for="1" value="119993.0"/>
+          <attvalue for="2" value="194"/>
+        </attvalues>
+      </node>
+      <node id="independent film" label="independent film">
+        <attvalues>
+          <attvalue for="0" value="6.3"/>
+          <attvalue for="1" value="47214.0"/>
+          <attvalue for="2" value="400"/>
+        </attvalues>
+      </node>
+      <node id="boyfriend girlfriend relationship" label="boyfriend girlfriend relationship">
+        <attvalues>
+          <attvalue for="0" value="6.54"/>
+          <attvalue for="1" value="71098.0"/>
+          <attvalue for="2" value="217"/>
+        </attvalues>
+      </node>
+      <node id="blood splatter" label="blood splatter">
+        <attvalues>
+          <attvalue for="0" value="6.38"/>
+          <attvalue for="1" value="125788.0"/>
+          <attvalue for="2" value="228"/>
+        </attvalues>
+      </node>
+      <node id="corpse" label="corpse">
+        <attvalues>
+          <attvalue for="0" value="6.47"/>
+          <attvalue for="1" value="106481.0"/>
+          <attvalue for="2" value="312"/>
+        </attvalues>
+      </node>
+      <node id="church" label="church">
+        <attvalues>
+          <attvalue for="0" value="6.6"/>
+          <attvalue for="1" value="76893.0"/>
+          <attvalue for="2" value="189"/>
+        </attvalues>
+      </node>
+      <node id="husband wife relationship" label="husband wife relationship">
+        <attvalues>
+          <attvalue for="0" value="6.66"/>
+          <attvalue for="1" value="72107.0"/>
+          <attvalue for="2" value="528"/>
+        </attvalues>
+      </node>
+      <node id="shot in the chest" label="shot in the chest">
+        <attvalues>
+          <attvalue for="0" value="6.42"/>
+          <attvalue for="1" value="133724.0"/>
+          <attvalue for="2" value="217"/>
+        </attvalues>
+      </node>
+      <node id="suicide" label="suicide">
+        <attvalues>
+          <attvalue for="0" value="6.51"/>
+          <attvalue for="1" value="71586.0"/>
+          <attvalue for="2" value="235"/>
+        </attvalues>
+      </node>
+      <node id="chase" label="chase">
+        <attvalues>
+          <attvalue for="0" value="6.47"/>
+          <attvalue for="1" value="105574.0"/>
+          <attvalue for="2" value="283"/>
+        </attvalues>
+      </node>
+      <node id="mother son relationship" label="mother son relationship">
+        <attvalues>
+          <attvalue for="0" value="6.79"/>
+          <attvalue for="1" value="85349.0"/>
+          <attvalue for="2" value="354"/>
+        </attvalues>
+      </node>
+      <node id="marriage" label="marriage">
+        <attvalues>
+          <attvalue for="0" value="6.91"/>
+          <attvalue for="1" value="94744.0"/>
+          <attvalue for="2" value="195"/>
+        </attvalues>
+      </node>
+      <node id="drunkenness" label="drunkenness">
+        <attvalues>
+          <attvalue for="0" value="6.84"/>
+          <attvalue for="1" value="94233.0"/>
+          <attvalue for="2" value="234"/>
+        </attvalues>
+      </node>
+      <node id="shot in the head" label="shot in the head">
+        <attvalues>
+          <attvalue for="0" value="6.5"/>
+          <attvalue for="1" value="133321.0"/>
+          <attvalue for="2" value="209"/>
+        </attvalues>
+      </node>
+      <node id="shot to death" label="shot to death">
+        <attvalues>
+          <attvalue for="0" value="6.54"/>
+          <attvalue for="1" value="122835.0"/>
+          <attvalue for="2" value="291"/>
+        </attvalues>
+      </node>
+      <node id="fire" label="fire">
+        <attvalues>
+          <attvalue for="0" value="6.55"/>
+          <attvalue for="1" value="114158.0"/>
+          <attvalue for="2" value="267"/>
+        </attvalues>
+      </node>
+      <node id="female rear nudity" label="female rear nudity">
+        <attvalues>
+          <attvalue for="0" value="6.31"/>
+          <attvalue for="1" value="66432.0"/>
+          <attvalue for="2" value="346"/>
+        </attvalues>
+      </node>
+      <node id="sex" label="sex">
+        <attvalues>
+          <attvalue for="0" value="6.41"/>
+          <attvalue for="1" value="58117.0"/>
+          <attvalue for="2" value="228"/>
+        </attvalues>
+      </node>
+      <node id="character name in title" label="character name in title">
+        <attvalues>
+          <attvalue for="0" value="6.5"/>
+          <attvalue for="1" value="82056.0"/>
+          <attvalue for="2" value="227"/>
+        </attvalues>
+      </node>
+      <node id="based on true story" label="based on true story">
+        <attvalues>
+          <attvalue for="0" value="6.91"/>
+          <attvalue for="1" value="90814.0"/>
+          <attvalue for="2" value="201"/>
+        </attvalues>
+      </node>
+      <node id="father daughter relationship" label="father daughter relationship">
+        <attvalues>
+          <attvalue for="0" value="6.63"/>
+          <attvalue for="1" value="81174.0"/>
+          <attvalue for="2" value="374"/>
+        </attvalues>
+      </node>
+      <node id="mother daughter relationship" label="mother daughter relationship">
+        <attvalues>
+          <attvalue for="0" value="6.71"/>
+          <attvalue for="1" value="70927.0"/>
+          <attvalue for="2" value="292"/>
+        </attvalues>
+      </node>
+      <node id="money" label="money">
+        <attvalues>
+          <attvalue for="0" value="6.78"/>
+          <attvalue for="1" value="72225.0"/>
+          <attvalue for="2" value="196"/>
+        </attvalues>
+      </node>
+      <node id="explosion" label="explosion">
+        <attvalues>
+          <attvalue for="0" value="6.46"/>
+          <attvalue for="1" value="128236.0"/>
+          <attvalue for="2" value="294"/>
+        </attvalues>
+      </node>
+      <node id="jealousy" label="jealousy">
+        <attvalues>
+          <attvalue for="0" value="6.72"/>
+          <attvalue for="1" value="63472.0"/>
+          <attvalue for="2" value="195"/>
+        </attvalues>
+      </node>
+      <node id="rescue" label="rescue">
+        <attvalues>
+          <attvalue for="0" value="6.44"/>
+          <attvalue for="1" value="136204.0"/>
+          <attvalue for="2" value="218"/>
+        </attvalues>
+      </node>
+      <node id="friend" label="friend">
+        <attvalues>
+          <attvalue for="0" value="6.75"/>
+          <attvalue for="1" value="73967.0"/>
+          <attvalue for="2" value="239"/>
+        </attvalues>
+      </node>
+      <node id="crying" label="crying">
+        <attvalues>
+          <attvalue for="0" value="6.82"/>
+          <attvalue for="1" value="84785.0"/>
+          <attvalue for="2" value="266"/>
+        </attvalues>
+      </node>
+      <node id="rain" label="rain">
+        <attvalues>
+          <attvalue for="0" value="6.73"/>
+          <attvalue for="1" value="84672.0"/>
+          <attvalue for="2" value="236"/>
+        </attvalues>
+      </node>
+      <node id="male rear nudity" label="male rear nudity">
+        <attvalues>
+          <attvalue for="0" value="6.32"/>
+          <attvalue for="1" value="57130.0"/>
+          <attvalue for="2" value="221"/>
+        </attvalues>
+      </node>
+      <node id="female nudity" label="female nudity">
+        <attvalues>
+          <attvalue for="0" value="6.37"/>
+          <attvalue for="1" value="66467.0"/>
+          <attvalue for="2" value="586"/>
+        </attvalues>
+      </node>
+      <node id="photograph" label="photograph">
+        <attvalues>
+          <attvalue for="0" value="6.72"/>
+          <attvalue for="1" value="86057.0"/>
+          <attvalue for="2" value="343"/>
+        </attvalues>
+      </node>
+      <node id="female topless nudity" label="female topless nudity">
+        <attvalues>
+          <attvalue for="0" value="6.18"/>
+          <attvalue for="1" value="45719.0"/>
+          <attvalue for="2" value="320"/>
+        </attvalues>
+      </node>
+      <node id="gun" label="gun">
+        <attvalues>
+          <attvalue for="0" value="6.65"/>
+          <attvalue for="1" value="102954.0"/>
+          <attvalue for="2" value="289"/>
+        </attvalues>
+      </node>
+      <node id="doctor" label="doctor">
+        <attvalues>
+          <attvalue for="0" value="6.65"/>
+          <attvalue for="1" value="81741.0"/>
+          <attvalue for="2" value="256"/>
+        </attvalues>
+      </node>
+      <node id="escape" label="escape">
+        <attvalues>
+          <attvalue for="0" value="6.53"/>
+          <attvalue for="1" value="109265.0"/>
+          <attvalue for="2" value="296"/>
+        </attvalues>
+      </node>
+      <node id="slow motion scene" label="slow motion scene">
+        <attvalues>
+          <attvalue for="0" value="6.49"/>
+          <attvalue for="1" value="130290.0"/>
+          <attvalue for="2" value="266"/>
+        </attvalues>
+      </node>
+      <node id="deception" label="deception">
+        <attvalues>
+          <attvalue for="0" value="6.56"/>
+          <attvalue for="1" value="124960.0"/>
+          <attvalue for="2" value="259"/>
+        </attvalues>
+      </node>
+      <node id="gore" label="gore">
+        <attvalues>
+          <attvalue for="0" value="6.18"/>
+          <attvalue for="1" value="95388.0"/>
+          <attvalue for="2" value="214"/>
+        </attvalues>
+      </node>
+      <node id="held at gunpoint" label="held at gunpoint">
+        <attvalues>
+          <attvalue for="0" value="6.43"/>
+          <attvalue for="1" value="125602.0"/>
+          <attvalue for="2" value="194"/>
+        </attvalues>
+      </node>
+      <node id="drinking" label="drinking">
+        <attvalues>
+          <attvalue for="0" value="6.84"/>
+          <attvalue for="1" value="54547.0"/>
+          <attvalue for="2" value="190"/>
+        </attvalues>
+      </node>
+      <node id="bare chested male" label="bare chested male">
+        <attvalues>
+          <attvalue for="0" value="6.45"/>
+          <attvalue for="1" value="64650.0"/>
+          <attvalue for="2" value="298"/>
+        </attvalues>
+      </node>
+      <node id="murder" label="murder">
+        <attvalues>
+          <attvalue for="0" value="6.47"/>
+          <attvalue for="1" value="89584.0"/>
+          <attvalue for="2" value="682"/>
+        </attvalues>
+      </node>
+      <node id="nudity" label="nudity">
+        <attvalues>
+          <attvalue for="0" value="6.42"/>
+          <attvalue for="1" value="58973.0"/>
+          <attvalue for="2" value="285"/>
+        </attvalues>
+      </node>
+      <node id="father son relationship" label="father son relationship">
+        <attvalues>
+          <attvalue for="0" value="6.83"/>
+          <attvalue for="1" value="98183.0"/>
+          <attvalue for="2" value="376"/>
+        </attvalues>
+      </node>
+      <node id="beach" label="beach">
+        <attvalues>
+          <attvalue for="0" value="6.61"/>
+          <attvalue for="1" value="73215.0"/>
+          <attvalue for="2" value="214"/>
+        </attvalues>
+      </node>
+      <node id="bar" label="bar">
+        <attvalues>
+          <attvalue for="0" value="6.72"/>
+          <attvalue for="1" value="99697.0"/>
+          <attvalue for="2" value="189"/>
+        </attvalues>
+      </node>
+      <node id="boy" label="boy">
+        <attvalues>
+          <attvalue for="0" value="6.77"/>
+          <attvalue for="1" value="81739.0"/>
+          <attvalue for="2" value="229"/>
+        </attvalues>
+      </node>
+      <node id="female full frontal nudity" label="female full frontal nudity">
+        <attvalues>
+          <attvalue for="0" value="6.32"/>
+          <attvalue for="1" value="63491.0"/>
+          <attvalue for="2" value="292"/>
+        </attvalues>
+      </node>
+      <node id="police" label="police">
+        <attvalues>
+          <attvalue for="0" value="6.61"/>
+          <attvalue for="1" value="80727.0"/>
+          <attvalue for="2" value="298"/>
+        </attvalues>
+      </node>
+      <node id="revenge" label="revenge">
+        <attvalues>
+          <attvalue for="0" value="6.51"/>
+          <attvalue for="1" value="110272.0"/>
+          <attvalue for="2" value="290"/>
+        </attvalues>
+      </node>
+      <node id="family relationships" label="family relationships">
+        <attvalues>
+          <attvalue for="0" value="6.81"/>
+          <attvalue for="1" value="76246.0"/>
+          <attvalue for="2" value="277"/>
+        </attvalues>
+      </node>
+      <node id="kidnapping" label="kidnapping">
+        <attvalues>
+          <attvalue for="0" value="6.41"/>
+          <attvalue for="1" value="102213.0"/>
+          <attvalue for="2" value="246"/>
+        </attvalues>
+      </node>
+      <node id="mirror" label="mirror">
+        <attvalues>
+          <attvalue for="0" value="6.71"/>
+          <attvalue for="1" value="78582.0"/>
+          <attvalue for="2" value="194"/>
+        </attvalues>
+      </node>
+      <node id="fight" label="fight">
+        <attvalues>
+          <attvalue for="0" value="6.54"/>
+          <attvalue for="1" value="90903.0"/>
+          <attvalue for="2" value="294"/>
+        </attvalues>
+      </node>
+      <node id="restaurant" label="restaurant">
+        <attvalues>
+          <attvalue for="0" value="6.81"/>
+          <attvalue for="1" value="99269.0"/>
+          <attvalue for="2" value="206"/>
+        </attvalues>
+      </node>
+      <node id="brother sister relationship" label="brother sister relationship">
+        <attvalues>
+          <attvalue for="0" value="6.71"/>
+          <attvalue for="1" value="75074.0"/>
+          <attvalue for="2" value="215"/>
+        </attvalues>
+      </node>
+      <node id="surprise ending" label="surprise ending">
+        <attvalues>
+          <attvalue for="0" value="6.39"/>
+          <attvalue for="1" value="136138.0"/>
+          <attvalue for="2" value="283"/>
+        </attvalues>
+      </node>
+      <node id="f rated" label="f rated">
+        <attvalues>
+          <attvalue for="0" value="6.71"/>
+          <attvalue for="1" value="58900.0"/>
+          <attvalue for="2" value="199"/>
+        </attvalues>
+      </node>
+      <node id="dead body" label="dead body">
+        <attvalues>
+          <attvalue for="0" value="6.57"/>
+          <attvalue for="1" value="77190.0"/>
+          <attvalue for="2" value="217"/>
+        </attvalues>
+      </node>
+      <node id="telephone call" label="telephone call">
+        <attvalues>
+          <attvalue for="0" value="6.78"/>
+          <attvalue for="1" value="74422.0"/>
+          <attvalue for="2" value="317"/>
+        </attvalues>
+      </node>
+      <node id="punched in the face" label="punched in the face">
+        <attvalues>
+          <attvalue for="0" value="6.45"/>
+          <attvalue for="1" value="121264.0"/>
+          <attvalue for="2" value="214"/>
+        </attvalues>
+      </node>
+      <node id="hospital" label="hospital">
+        <attvalues>
+          <attvalue for="0" value="6.67"/>
+          <attvalue for="1" value="89128.0"/>
+          <attvalue for="2" value="267"/>
+        </attvalues>
+      </node>
+      <node id="dancing" label="dancing">
+        <attvalues>
+          <attvalue for="0" value="6.8"/>
+          <attvalue for="1" value="73796.0"/>
+          <attvalue for="2" value="296"/>
+        </attvalues>
+      </node>
+      <node id="london england" label="london england">
+        <attvalues>
+          <attvalue for="0" value="6.59"/>
+          <attvalue for="1" value="72331.0"/>
+          <attvalue for="2" value="289"/>
+        </attvalues>
+      </node>
+      <node id="love" label="love">
+        <attvalues>
+          <attvalue for="0" value="6.73"/>
+          <attvalue for="1" value="72924.0"/>
+          <attvalue for="2" value="274"/>
+        </attvalues>
+      </node>
+      <node id="based on novel" label="based on novel">
+        <attvalues>
+          <attvalue for="0" value="6.65"/>
+          <attvalue for="1" value="74859.0"/>
+          <attvalue for="2" value="413"/>
+        </attvalues>
+      </node>
+      <node id="death" label="death">
+        <attvalues>
+          <attvalue for="0" value="6.55"/>
+          <attvalue for="1" value="84415.0"/>
+          <attvalue for="2" value="603"/>
+        </attvalues>
+      </node>
+      <node id="male nudity" label="male nudity">
+        <attvalues>
+          <attvalue for="0" value="6.45"/>
+          <attvalue for="1" value="59257.0"/>
+          <attvalue for="2" value="322"/>
+        </attvalues>
+      </node>
+      <node id="cigarette smoking" label="cigarette smoking">
+        <attvalues>
+          <attvalue for="0" value="6.77"/>
+          <attvalue for="1" value="82323.0"/>
+          <attvalue for="2" value="434"/>
+        </attvalues>
+      </node>
+      <node id="one word title" label="one word title">
+        <attvalues>
+          <attvalue for="0" value="6.46"/>
+          <attvalue for="1" value="83802.0"/>
+          <attvalue for="2" value="311"/>
+        </attvalues>
+      </node>
+      <node id="shootout" label="shootout">
+        <attvalues>
+          <attvalue for="0" value="6.54"/>
+          <attvalue for="1" value="115940.0"/>
+          <attvalue for="2" value="203"/>
+        </attvalues>
+      </node>
+      <node id="singer" label="singer">
+        <attvalues>
+          <attvalue for="0" value="6.94"/>
+          <attvalue for="1" value="71753.0"/>
+          <attvalue for="2" value="206"/>
+        </attvalues>
+      </node>
+      <node id="knife" label="knife">
+        <attvalues>
+          <attvalue for="0" value="6.5"/>
+          <attvalue for="1" value="112316.0"/>
+          <attvalue for="2" value="292"/>
+        </attvalues>
+      </node>
+      <node id="torture" label="torture">
+        <attvalues>
+          <attvalue for="0" value="6.58"/>
+          <attvalue for="1" value="102170.0"/>
+          <attvalue for="2" value="208"/>
+        </attvalues>
+      </node>
+      <node id="sex scene" label="sex scene">
+        <attvalues>
+          <attvalue for="0" value="6.42"/>
+          <attvalue for="1" value="84987.0"/>
+          <attvalue for="2" value="305"/>
+        </attvalues>
+      </node>
+      <node id="violence" label="violence">
+        <attvalues>
+          <attvalue for="0" value="6.43"/>
+          <attvalue for="1" value="94516.0"/>
+          <attvalue for="2" value="496"/>
+        </attvalues>
+      </node>
+      <node id="friendship" label="friendship">
+        <attvalues>
+          <attvalue for="0" value="6.87"/>
+          <attvalue for="1" value="109874.0"/>
+          <attvalue for="2" value="349"/>
+        </attvalues>
+      </node>
+      <node id="fear" label="fear">
+        <attvalues>
+          <attvalue for="0" value="6.56"/>
+          <attvalue for="1" value="91966.0"/>
+          <attvalue for="2" value="278"/>
+        </attvalues>
+      </node>
+      <node id="singing" label="singing">
+        <attvalues>
+          <attvalue for="0" value="6.93"/>
+          <attvalue for="1" value="88315.0"/>
+          <attvalue for="2" value="254"/>
+        </attvalues>
+      </node>
+      <node id="train" label="train">
+        <attvalues>
+          <attvalue for="0" value="6.92"/>
+          <attvalue for="1" value="106162.0"/>
+          <attvalue for="2" value="228"/>
+        </attvalues>
+      </node>
+      <node id="party" label="party">
+        <attvalues>
+          <attvalue for="0" value="6.65"/>
+          <attvalue for="1" value="77129.0"/>
+          <attvalue for="2" value="211"/>
+        </attvalues>
+      </node>
+      <node id="police officer" label="police officer">
+        <attvalues>
+          <attvalue for="0" value="6.61"/>
+          <attvalue for="1" value="97299.0"/>
+          <attvalue for="2" value="209"/>
+        </attvalues>
+      </node>
+      <node id="slapped in the face" label="slapped in the face">
+        <attvalues>
+          <attvalue for="0" value="6.71"/>
+          <attvalue for="1" value="72376.0"/>
+          <attvalue for="2" value="206"/>
+        </attvalues>
+      </node>
+      <node id="voice over narration" label="voice over narration">
+        <attvalues>
+          <attvalue for="0" value="6.68"/>
+          <attvalue for="1" value="97233.0"/>
+          <attvalue for="2" value="229"/>
+        </attvalues>
+      </node>
+      <node id="cult film" label="cult film">
+        <attvalues>
+          <attvalue for="0" value="6.72"/>
+          <attvalue for="1" value="144428.0"/>
+          <attvalue for="2" value="272"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="kwe_22" source="bar" target="death" weight="112"/>
+      <edge id="kwe_67" source="bar" target="murder" weight="114"/>
+      <edge id="kwe_104" source="bare chested male" target="blood" weight="116"/>
+      <edge id="kwe_120" source="bare chested male" target="death" weight="119"/>
+      <edge id="kwe_136" source="bare chested male" target="female nudity" weight="119"/>
+      <edge id="kwe_165" source="bare chested male" target="murder" weight="132"/>
+      <edge id="kwe_217" source="based on novel" target="death" weight="145"/>
+      <edge id="kwe_233" source="based on novel" target="female nudity" weight="127"/>
+      <edge id="kwe_239" source="based on novel" target="flashback" weight="136"/>
+      <edge id="kwe_247" source="based on novel" target="husband wife relationship" weight="138"/>
+      <edge id="kwe_251" source="based on novel" target="kiss" weight="122"/>
+      <edge id="kwe_262" source="based on novel" target="murder" weight="166"/>
+      <edge id="kwe_486" source="beating" target="blood" weight="153"/>
+      <edge id="kwe_496" source="beating" target="cigarette smoking" weight="116"/>
+      <edge id="kwe_502" source="beating" target="death" weight="157"/>
+      <edge id="kwe_524" source="beating" target="flashback" weight="111"/>
+      <edge id="kwe_547" source="beating" target="murder" weight="162"/>
+      <edge id="kwe_577" source="beating" target="violence" weight="151"/>
+      <edge id="kwe_579" source="betrayal" target="blood" weight="142"/>
+      <edge id="kwe_595" source="betrayal" target="death" weight="147"/>
+      <edge id="kwe_596" source="betrayal" target="deception" weight="122"/>
+      <edge id="kwe_602" source="betrayal" target="escape" weight="116"/>
+      <edge id="kwe_603" source="betrayal" target="explosion" weight="111"/>
+      <edge id="kwe_617" source="betrayal" target="flashback" weight="119"/>
+      <edge id="kwe_640" source="betrayal" target="murder" weight="177"/>
+      <edge id="kwe_645" source="betrayal" target="pistol" weight="115"/>
+      <edge id="kwe_659" source="betrayal" target="shot to death" weight="121"/>
+      <edge id="kwe_665" source="betrayal" target="surprise ending" weight="113"/>
+      <edge id="kwe_670" source="betrayal" target="violence" weight="146"/>
+      <edge id="kwe_672" source="blood" target="blood splatter" weight="195"/>
+      <edge id="kwe_676" source="blood" target="brutality" weight="155"/>
+      <edge id="kwe_679" source="blood" target="chase" weight="175"/>
+      <edge id="kwe_681" source="blood" target="cigarette smoking" weight="212"/>
+      <edge id="kwe_682" source="blood" target="corpse" weight="227"/>
+      <edge id="kwe_683" source="blood" target="crying" weight="139"/>
+      <edge id="kwe_684" source="blood" target="cult film" weight="152"/>
+      <edge id="kwe_686" source="blood" target="dead body" weight="138"/>
+      <edge id="kwe_687" source="blood" target="death" weight="352"/>
+      <edge id="kwe_688" source="blood" target="deception" weight="139"/>
+      <edge id="kwe_689" source="blood" target="doctor" weight="119"/>
+      <edge id="kwe_690" source="blood" target="dog" weight="166"/>
+      <edge id="kwe_694" source="blood" target="escape" weight="169"/>
+      <edge id="kwe_695" source="blood" target="explosion" weight="163"/>
+      <edge id="kwe_698" source="blood" target="father daughter relationship" weight="149"/>
+      <edge id="kwe_699" source="blood" target="father son relationship" weight="152"/>
+      <edge id="kwe_700" source="blood" target="fear" weight="182"/>
+      <edge id="kwe_701" source="blood" target="female frontal nudity" weight="125"/>
+      <edge id="kwe_702" source="blood" target="female full frontal nudity" weight="124"/>
+      <edge id="kwe_703" source="blood" target="female nudity" weight="242"/>
+      <edge id="kwe_705" source="blood" target="female rear nudity" weight="139"/>
+      <edge id="kwe_706" source="blood" target="female topless nudity" weight="138"/>
+      <edge id="kwe_707" source="blood" target="fight" weight="158"/>
+      <edge id="kwe_708" source="blood" target="fire" weight="161"/>
+      <edge id="kwe_709" source="blood" target="flashback" weight="226"/>
+      <edge id="kwe_711" source="blood" target="friendship" weight="139"/>
+      <edge id="kwe_712" source="blood" target="gore" weight="187"/>
+      <edge id="kwe_713" source="blood" target="gun" weight="181"/>
+      <edge id="kwe_714" source="blood" target="held at gunpoint" weight="122"/>
+      <edge id="kwe_715" source="blood" target="hospital" weight="141"/>
+      <edge id="kwe_717" source="blood" target="husband wife relationship" weight="199"/>
+      <edge id="kwe_718" source="blood" target="independent film" weight="176"/>
+      <edge id="kwe_720" source="blood" target="kidnapping" weight="143"/>
+      <edge id="kwe_721" source="blood" target="kiss" weight="184"/>
+      <edge id="kwe_722" source="blood" target="knife" weight="197"/>
+      <edge id="kwe_725" source="blood" target="male nudity" weight="136"/>
+      <edge id="kwe_730" source="blood" target="mother daughter relationship" weight="115"/>
+      <edge id="kwe_731" source="blood" target="mother son relationship" weight="129"/>
+      <edge id="kwe_732" source="blood" target="murder" weight="374"/>
+      <edge id="kwe_733" source="blood" target="nudity" weight="133"/>
+      <edge id="kwe_734" source="blood" target="one word title" weight="118"/>
+      <edge id="kwe_736" source="blood" target="photograph" weight="170"/>
+      <edge id="kwe_737" source="blood" target="pistol" weight="169"/>
+      <edge id="kwe_738" source="blood" target="police" weight="135"/>
+      <edge id="kwe_739" source="blood" target="police officer" weight="125"/>
+      <edge id="kwe_740" source="blood" target="psychotronic film" weight="167"/>
+      <edge id="kwe_741" source="blood" target="punched in the face" weight="137"/>
+      <edge id="kwe_742" source="blood" target="rain" weight="115"/>
+      <edge id="kwe_743" source="blood" target="rescue" weight="123"/>
+      <edge id="kwe_745" source="blood" target="revenge" weight="168"/>
+      <edge id="kwe_747" source="blood" target="sex scene" weight="138"/>
+      <edge id="kwe_748" source="blood" target="shootout" weight="120"/>
+      <edge id="kwe_749" source="blood" target="shot in the chest" weight="149"/>
+      <edge id="kwe_750" source="blood" target="shot in the head" weight="146"/>
+      <edge id="kwe_751" source="blood" target="shot to death" weight="187"/>
+      <edge id="kwe_755" source="blood" target="slow motion scene" weight="155"/>
+      <edge id="kwe_756" source="blood" target="suicide" weight="118"/>
+      <edge id="kwe_757" source="blood" target="surprise ending" weight="173"/>
+      <edge id="kwe_758" source="blood" target="telephone call" weight="146"/>
+      <edge id="kwe_759" source="blood" target="title spoken by character" weight="140"/>
+      <edge id="kwe_760" source="blood" target="torture" weight="124"/>
+      <edge id="kwe_762" source="blood" target="violence" weight="335"/>
+      <edge id="kwe_767" source="blood splatter" target="brutality" weight="113"/>
+      <edge id="kwe_773" source="blood splatter" target="corpse" weight="132"/>
+      <edge id="kwe_778" source="blood splatter" target="death" weight="169"/>
+      <edge id="kwe_786" source="blood splatter" target="explosion" weight="111"/>
+      <edge id="kwe_803" source="blood splatter" target="gore" weight="124"/>
+      <edge id="kwe_823" source="blood splatter" target="murder" weight="186"/>
+      <edge id="kwe_828" source="blood splatter" target="pistol" weight="125"/>
+      <edge id="kwe_840" source="blood splatter" target="shot in the chest" weight="121"/>
+      <edge id="kwe_841" source="blood splatter" target="shot in the head" weight="116"/>
+      <edge id="kwe_842" source="blood splatter" target="shot to death" weight="138"/>
+      <edge id="kwe_848" source="blood splatter" target="surprise ending" weight="116"/>
+      <edge id="kwe_853" source="blood splatter" target="violence" weight="181"/>
+      <edge id="kwe_868" source="boy" target="death" weight="114"/>
+      <edge id="kwe_880" source="boy" target="father son relationship" weight="113"/>
+      <edge id="kwe_898" source="boy" target="husband wife relationship" weight="122"/>
+      <edge id="kwe_912" source="boy" target="mother son relationship" weight="113"/>
+      <edge id="kwe_1132" source="brutality" target="death" weight="150"/>
+      <edge id="kwe_1177" source="brutality" target="murder" weight="163"/>
+      <edge id="kwe_1207" source="brutality" target="violence" weight="167"/>
+      <edge id="kwe_1218" source="cell phone" target="death" weight="116"/>
+      <edge id="kwe_1263" source="cell phone" target="murder" weight="114"/>
+      <edge id="kwe_1381" source="chase" target="cigarette smoking" weight="117"/>
+      <edge id="kwe_1382" source="chase" target="corpse" weight="123"/>
+      <edge id="kwe_1387" source="chase" target="death" weight="190"/>
+      <edge id="kwe_1388" source="chase" target="deception" weight="111"/>
+      <edge id="kwe_1394" source="chase" target="escape" weight="146"/>
+      <edge id="kwe_1395" source="chase" target="explosion" weight="124"/>
+      <edge id="kwe_1400" source="chase" target="fear" weight="119"/>
+      <edge id="kwe_1407" source="chase" target="fight" weight="113"/>
+      <edge id="kwe_1409" source="chase" target="flashback" weight="128"/>
+      <edge id="kwe_1413" source="chase" target="gun" weight="112"/>
+      <edge id="kwe_1422" source="chase" target="knife" weight="129"/>
+      <edge id="kwe_1432" source="chase" target="murder" weight="211"/>
+      <edge id="kwe_1437" source="chase" target="pistol" weight="132"/>
+      <edge id="kwe_1443" source="chase" target="rescue" weight="111"/>
+      <edge id="kwe_1451" source="chase" target="shot to death" weight="121"/>
+      <edge id="kwe_1457" source="chase" target="surprise ending" weight="122"/>
+      <edge id="kwe_1462" source="chase" target="violence" weight="173"/>
+      <edge id="kwe_1547" source="cigarette smoking" target="corpse" weight="134"/>
+      <edge id="kwe_1548" source="cigarette smoking" target="crying" weight="136"/>
+      <edge id="kwe_1550" source="cigarette smoking" target="dancing" weight="134"/>
+      <edge id="kwe_1551" source="cigarette smoking" target="dead body" weight="111"/>
+      <edge id="kwe_1552" source="cigarette smoking" target="death" weight="254"/>
+      <edge id="kwe_1555" source="cigarette smoking" target="dog" weight="139"/>
+      <edge id="kwe_1557" source="cigarette smoking" target="drunkenness" weight="121"/>
+      <edge id="kwe_1559" source="cigarette smoking" target="escape" weight="112"/>
+      <edge id="kwe_1563" source="cigarette smoking" target="father daughter relationship" weight="129"/>
+      <edge id="kwe_1564" source="cigarette smoking" target="father son relationship" weight="164"/>
+      <edge id="kwe_1565" source="cigarette smoking" target="fear" weight="121"/>
+      <edge id="kwe_1568" source="cigarette smoking" target="female nudity" weight="188"/>
+      <edge id="kwe_1572" source="cigarette smoking" target="fight" weight="124"/>
+      <edge id="kwe_1574" source="cigarette smoking" target="flashback" weight="165"/>
+      <edge id="kwe_1576" source="cigarette smoking" target="friendship" weight="143"/>
+      <edge id="kwe_1578" source="cigarette smoking" target="gun" weight="135"/>
+      <edge id="kwe_1580" source="cigarette smoking" target="hospital" weight="111"/>
+      <edge id="kwe_1582" source="cigarette smoking" target="husband wife relationship" weight="202"/>
+      <edge id="kwe_1583" source="cigarette smoking" target="independent film" weight="116"/>
+      <edge id="kwe_1586" source="cigarette smoking" target="kiss" weight="175"/>
+      <edge id="kwe_1587" source="cigarette smoking" target="knife" weight="124"/>
+      <edge id="kwe_1594" source="cigarette smoking" target="money" weight="112"/>
+      <edge id="kwe_1595" source="cigarette smoking" target="mother daughter relationship" weight="125"/>
+      <edge id="kwe_1596" source="cigarette smoking" target="mother son relationship" weight="145"/>
+      <edge id="kwe_1597" source="cigarette smoking" target="murder" weight="251"/>
+      <edge id="kwe_1601" source="cigarette smoking" target="photograph" weight="169"/>
+      <edge id="kwe_1602" source="cigarette smoking" target="pistol" weight="118"/>
+      <edge id="kwe_1603" source="cigarette smoking" target="police" weight="120"/>
+      <edge id="kwe_1606" source="cigarette smoking" target="punched in the face" weight="112"/>
+      <edge id="kwe_1607" source="cigarette smoking" target="rain" weight="114"/>
+      <edge id="kwe_1609" source="cigarette smoking" target="restaurant" weight="120"/>
+      <edge id="kwe_1616" source="cigarette smoking" target="shot to death" weight="125"/>
+      <edge id="kwe_1618" source="cigarette smoking" target="singing" weight="115"/>
+      <edge id="kwe_1620" source="cigarette smoking" target="slow motion scene" weight="121"/>
+      <edge id="kwe_1623" source="cigarette smoking" target="telephone call" weight="179"/>
+      <edge id="kwe_1624" source="cigarette smoking" target="title spoken by character" weight="135"/>
+      <edge id="kwe_1627" source="cigarette smoking" target="violence" weight="182"/>
+      <edge id="kwe_1632" source="corpse" target="dead body" weight="121"/>
+      <edge id="kwe_1633" source="corpse" target="death" weight="224"/>
+      <edge id="kwe_1634" source="corpse" target="deception" weight="113"/>
+      <edge id="kwe_1640" source="corpse" target="escape" weight="130"/>
+      <edge id="kwe_1641" source="corpse" target="explosion" weight="120"/>
+      <edge id="kwe_1646" source="corpse" target="fear" weight="125"/>
+      <edge id="kwe_1649" source="corpse" target="female nudity" weight="132"/>
+      <edge id="kwe_1654" source="corpse" target="fire" weight="120"/>
+      <edge id="kwe_1655" source="corpse" target="flashback" weight="142"/>
+      <edge id="kwe_1663" source="corpse" target="husband wife relationship" weight="118"/>
+      <edge id="kwe_1664" source="corpse" target="independent film" weight="112"/>
+      <edge id="kwe_1668" source="corpse" target="knife" weight="131"/>
+      <edge id="kwe_1678" source="corpse" target="murder" weight="251"/>
+      <edge id="kwe_1682" source="corpse" target="photograph" weight="118"/>
+      <edge id="kwe_1683" source="corpse" target="pistol" weight="127"/>
+      <edge id="kwe_1686" source="corpse" target="psychotronic film" weight="112"/>
+      <edge id="kwe_1691" source="corpse" target="revenge" weight="114"/>
+      <edge id="kwe_1695" source="corpse" target="shot in the chest" weight="114"/>
+      <edge id="kwe_1697" source="corpse" target="shot to death" weight="140"/>
+      <edge id="kwe_1703" source="corpse" target="surprise ending" weight="142"/>
+      <edge id="kwe_1708" source="corpse" target="violence" weight="192"/>
+      <edge id="kwe_1713" source="crying" target="death" weight="149"/>
+      <edge id="kwe_1725" source="crying" target="father son relationship" weight="115"/>
+      <edge id="kwe_1729" source="crying" target="female nudity" weight="118"/>
+      <edge id="kwe_1735" source="crying" target="flashback" weight="111"/>
+      <edge id="kwe_1737" source="crying" target="friendship" weight="120"/>
+      <edge id="kwe_1743" source="crying" target="husband wife relationship" weight="146"/>
+      <edge id="kwe_1747" source="crying" target="kiss" weight="138"/>
+      <edge id="kwe_1757" source="crying" target="mother son relationship" weight="115"/>
+      <edge id="kwe_1758" source="crying" target="murder" weight="117"/>
+      <edge id="kwe_1762" source="crying" target="photograph" weight="116"/>
+      <edge id="kwe_1784" source="crying" target="telephone call" weight="113"/>
+      <edge id="kwe_1792" source="cult film" target="death" weight="143"/>
+      <edge id="kwe_1837" source="cult film" target="murder" weight="162"/>
+      <edge id="kwe_1867" source="cult film" target="violence" weight="138"/>
+      <edge id="kwe_1870" source="dancing" target="death" weight="138"/>
+      <edge id="kwe_1886" source="dancing" target="female nudity" weight="112"/>
+      <edge id="kwe_1892" source="dancing" target="flashback" weight="112"/>
+      <edge id="kwe_1894" source="dancing" target="friendship" weight="116"/>
+      <edge id="kwe_1900" source="dancing" target="husband wife relationship" weight="140"/>
+      <edge id="kwe_1904" source="dancing" target="kiss" weight="157"/>
+      <edge id="kwe_1914" source="dancing" target="mother son relationship" weight="112"/>
+      <edge id="kwe_1915" source="dancing" target="murder" weight="128"/>
+      <edge id="kwe_1936" source="dancing" target="singing" weight="130"/>
+      <edge id="kwe_1947" source="dead body" target="death" weight="151"/>
+      <edge id="kwe_1992" source="dead body" target="murder" weight="162"/>
+      <edge id="kwe_2022" source="dead body" target="violence" weight="121"/>
+      <edge id="kwe_2024" source="death" target="deception" weight="153"/>
+      <edge id="kwe_2025" source="death" target="doctor" weight="140"/>
+      <edge id="kwe_2026" source="death" target="dog" weight="178"/>
+      <edge id="kwe_2028" source="death" target="drunkenness" weight="114"/>
+      <edge id="kwe_2030" source="death" target="escape" weight="199"/>
+      <edge id="kwe_2031" source="death" target="explosion" weight="189"/>
+      <edge id="kwe_2033" source="death" target="family relationships" weight="111"/>
+      <edge id="kwe_2034" source="death" target="father daughter relationship" weight="158"/>
+      <edge id="kwe_2035" source="death" target="father son relationship" weight="178"/>
+      <edge id="kwe_2036" source="death" target="fear" weight="197"/>
+      <edge id="kwe_2037" source="death" target="female frontal nudity" weight="135"/>
+      <edge id="kwe_2038" source="death" target="female full frontal nudity" weight="123"/>
+      <edge id="kwe_2039" source="death" target="female nudity" weight="243"/>
+      <edge id="kwe_2041" source="death" target="female rear nudity" weight="148"/>
+      <edge id="kwe_2042" source="death" target="female topless nudity" weight="127"/>
+      <edge id="kwe_2043" source="death" target="fight" weight="177"/>
+      <edge id="kwe_2044" source="death" target="fire" weight="179"/>
+      <edge id="kwe_2045" source="death" target="flashback" weight="258"/>
+      <edge id="kwe_2046" source="death" target="friend" weight="127"/>
+      <edge id="kwe_2047" source="death" target="friendship" weight="165"/>
+      <edge id="kwe_2048" source="death" target="gore" weight="152"/>
+      <edge id="kwe_2049" source="death" target="gun" weight="183"/>
+      <edge id="kwe_2050" source="death" target="held at gunpoint" weight="128"/>
+      <edge id="kwe_2051" source="death" target="hospital" weight="141"/>
+      <edge id="kwe_2053" source="death" target="husband wife relationship" weight="237"/>
+      <edge id="kwe_2054" source="death" target="independent film" weight="178"/>
+      <edge id="kwe_2056" source="death" target="kidnapping" weight="145"/>
+      <edge id="kwe_2057" source="death" target="kiss" weight="205"/>
+      <edge id="kwe_2058" source="death" target="knife" weight="208"/>
+      <edge id="kwe_2060" source="death" target="love" weight="126"/>
+      <edge id="kwe_2061" source="death" target="male nudity" weight="134"/>
+      <edge id="kwe_2064" source="death" target="mirror" weight="115"/>
+      <edge id="kwe_2065" source="death" target="money" weight="121"/>
+      <edge id="kwe_2066" source="death" target="mother daughter relationship" weight="133"/>
+      <edge id="kwe_2067" source="death" target="mother son relationship" weight="168"/>
+      <edge id="kwe_2068" source="death" target="murder" weight="408"/>
+      <edge id="kwe_2069" source="death" target="nudity" weight="141"/>
+      <edge id="kwe_2070" source="death" target="one word title" weight="126"/>
+      <edge id="kwe_2072" source="death" target="photograph" weight="221"/>
+      <edge id="kwe_2073" source="death" target="pistol" weight="175"/>
+      <edge id="kwe_2074" source="death" target="police" weight="164"/>
+      <edge id="kwe_2075" source="death" target="police officer" weight="131"/>
+      <edge id="kwe_2076" source="death" target="psychotronic film" weight="139"/>
+      <edge id="kwe_2077" source="death" target="punched in the face" weight="135"/>
+      <edge id="kwe_2078" source="death" target="rain" weight="139"/>
+      <edge id="kwe_2079" source="death" target="rescue" weight="134"/>
+      <edge id="kwe_2080" source="death" target="restaurant" weight="118"/>
+      <edge id="kwe_2081" source="death" target="revenge" weight="173"/>
+      <edge id="kwe_2082" source="death" target="sex" weight="121"/>
+      <edge id="kwe_2083" source="death" target="sex scene" weight="143"/>
+      <edge id="kwe_2084" source="death" target="shootout" weight="129"/>
+      <edge id="kwe_2085" source="death" target="shot in the chest" weight="160"/>
+      <edge id="kwe_2086" source="death" target="shot in the head" weight="145"/>
+      <edge id="kwe_2087" source="death" target="shot to death" weight="198"/>
+      <edge id="kwe_2089" source="death" target="singing" weight="126"/>
+      <edge id="kwe_2090" source="death" target="slapped in the face" weight="124"/>
+      <edge id="kwe_2091" source="death" target="slow motion scene" weight="164"/>
+      <edge id="kwe_2092" source="death" target="suicide" weight="136"/>
+      <edge id="kwe_2093" source="death" target="surprise ending" weight="175"/>
+      <edge id="kwe_2094" source="death" target="telephone call" weight="170"/>
+      <edge id="kwe_2095" source="death" target="title spoken by character" weight="168"/>
+      <edge id="kwe_2096" source="death" target="torture" weight="119"/>
+      <edge id="kwe_2097" source="death" target="train" weight="113"/>
+      <edge id="kwe_2098" source="death" target="violence" weight="320"/>
+      <edge id="kwe_2105" source="deception" target="escape" weight="126"/>
+      <edge id="kwe_2120" source="deception" target="flashback" weight="124"/>
+      <edge id="kwe_2125" source="deception" target="held at gunpoint" weight="113"/>
+      <edge id="kwe_2143" source="deception" target="murder" weight="180"/>
+      <edge id="kwe_2160" source="deception" target="shot in the chest" weight="112"/>
+      <edge id="kwe_2162" source="deception" target="shot to death" weight="119"/>
+      <edge id="kwe_2168" source="deception" target="surprise ending" weight="130"/>
+      <edge id="kwe_2173" source="deception" target="violence" weight="150"/>
+      <edge id="kwe_2194" source="doctor" target="flashback" weight="116"/>
+      <edge id="kwe_2202" source="doctor" target="husband wife relationship" weight="120"/>
+      <edge id="kwe_2217" source="doctor" target="murder" weight="130"/>
+      <edge id="kwe_2256" source="dog" target="father daughter relationship" weight="119"/>
+      <edge id="kwe_2261" source="dog" target="female nudity" weight="114"/>
+      <edge id="kwe_2267" source="dog" target="flashback" weight="142"/>
+      <edge id="kwe_2269" source="dog" target="friendship" weight="111"/>
+      <edge id="kwe_2275" source="dog" target="husband wife relationship" weight="153"/>
+      <edge id="kwe_2279" source="dog" target="kiss" weight="136"/>
+      <edge id="kwe_2289" source="dog" target="mother son relationship" weight="112"/>
+      <edge id="kwe_2290" source="dog" target="murder" weight="172"/>
+      <edge id="kwe_2294" source="dog" target="photograph" weight="128"/>
+      <edge id="kwe_2316" source="dog" target="telephone call" weight="113"/>
+      <edge id="kwe_2320" source="dog" target="violence" weight="139"/>
+      <edge id="kwe_2347" source="drinking" target="husband wife relationship" weight="116"/>
+      <edge id="kwe_2404" source="drunkenness" target="female nudity" weight="114"/>
+      <edge id="kwe_2418" source="drunkenness" target="husband wife relationship" weight="113"/>
+      <edge id="kwe_2433" source="drunkenness" target="murder" weight="120"/>
+      <edge id="kwe_2494" source="england" target="london england" weight="118"/>
+      <edge id="kwe_2535" source="escape" target="explosion" weight="134"/>
+      <edge id="kwe_2540" source="escape" target="fear" weight="124"/>
+      <edge id="kwe_2547" source="escape" target="fight" weight="117"/>
+      <edge id="kwe_2549" source="escape" target="flashback" weight="136"/>
+      <edge id="kwe_2562" source="escape" target="knife" weight="132"/>
+      <edge id="kwe_2572" source="escape" target="murder" weight="200"/>
+      <edge id="kwe_2577" source="escape" target="pistol" weight="129"/>
+      <edge id="kwe_2583" source="escape" target="rescue" weight="134"/>
+      <edge id="kwe_2589" source="escape" target="shot in the chest" weight="116"/>
+      <edge id="kwe_2591" source="escape" target="shot to death" weight="129"/>
+      <edge id="kwe_2597" source="escape" target="surprise ending" weight="125"/>
+      <edge id="kwe_2602" source="escape" target="violence" weight="172"/>
+      <edge id="kwe_2616" source="explosion" target="fire" weight="127"/>
+      <edge id="kwe_2617" source="explosion" target="flashback" weight="124"/>
+      <edge id="kwe_2640" source="explosion" target="murder" weight="196"/>
+      <edge id="kwe_2645" source="explosion" target="pistol" weight="145"/>
+      <edge id="kwe_2651" source="explosion" target="rescue" weight="116"/>
+      <edge id="kwe_2656" source="explosion" target="shootout" weight="119"/>
+      <edge id="kwe_2657" source="explosion" target="shot in the chest" weight="117"/>
+      <edge id="kwe_2659" source="explosion" target="shot to death" weight="142"/>
+      <edge id="kwe_2665" source="explosion" target="surprise ending" weight="116"/>
+      <edge id="kwe_2670" source="explosion" target="violence" weight="175"/>
+      <edge id="kwe_2739" source="family relationships" target="father daughter relationship" weight="111"/>
+      <edge id="kwe_2740" source="family relationships" target="father son relationship" weight="126"/>
+      <edge id="kwe_2758" source="family relationships" target="husband wife relationship" weight="152"/>
+      <edge id="kwe_2772" source="family relationships" target="mother son relationship" weight="132"/>
+      <edge id="kwe_2805" source="father daughter relationship" target="father son relationship" weight="135"/>
+      <edge id="kwe_2809" source="father daughter relationship" target="female nudity" weight="133"/>
+      <edge id="kwe_2815" source="father daughter relationship" target="flashback" weight="152"/>
+      <edge id="kwe_2823" source="father daughter relationship" target="husband wife relationship" weight="192"/>
+      <edge id="kwe_2827" source="father daughter relationship" target="kiss" weight="137"/>
+      <edge id="kwe_2836" source="father daughter relationship" target="mother daughter relationship" weight="165"/>
+      <edge id="kwe_2837" source="father daughter relationship" target="mother son relationship" weight="127"/>
+      <edge id="kwe_2838" source="father daughter relationship" target="murder" weight="165"/>
+      <edge id="kwe_2842" source="father daughter relationship" target="photograph" weight="115"/>
+      <edge id="kwe_2868" source="father daughter relationship" target="violence" weight="127"/>
+      <edge id="kwe_2873" source="father son relationship" target="female nudity" weight="128"/>
+      <edge id="kwe_2879" source="father son relationship" target="flashback" weight="135"/>
+      <edge id="kwe_2881" source="father son relationship" target="friendship" weight="132"/>
+      <edge id="kwe_2887" source="father son relationship" target="husband wife relationship" weight="217"/>
+      <edge id="kwe_2891" source="father son relationship" target="kiss" weight="149"/>
+      <edge id="kwe_2900" source="father son relationship" target="mother daughter relationship" weight="118"/>
+      <edge id="kwe_2901" source="father son relationship" target="mother son relationship" weight="214"/>
+      <edge id="kwe_2902" source="father son relationship" target="murder" weight="163"/>
+      <edge id="kwe_2906" source="father son relationship" target="photograph" weight="146"/>
+      <edge id="kwe_2928" source="father son relationship" target="telephone call" weight="121"/>
+      <edge id="kwe_2932" source="father son relationship" target="violence" weight="140"/>
+      <edge id="kwe_2942" source="fear" target="flashback" weight="127"/>
+      <edge id="kwe_2950" source="fear" target="husband wife relationship" weight="121"/>
+      <edge id="kwe_2955" source="fear" target="knife" weight="112"/>
+      <edge id="kwe_2965" source="fear" target="murder" weight="183"/>
+      <edge id="kwe_2969" source="fear" target="photograph" weight="118"/>
+      <edge id="kwe_2995" source="fear" target="violence" weight="171"/>
+      <edge id="kwe_2997" source="female frontal nudity" target="female full frontal nudity" weight="200"/>
+      <edge id="kwe_2998" source="female frontal nudity" target="female nudity" weight="257"/>
+      <edge id="kwe_3000" source="female frontal nudity" target="female rear nudity" weight="186"/>
+      <edge id="kwe_3001" source="female frontal nudity" target="female topless nudity" weight="144"/>
+      <edge id="kwe_3020" source="female frontal nudity" target="male nudity" weight="118"/>
+      <edge id="kwe_3027" source="female frontal nudity" target="murder" weight="135"/>
+      <edge id="kwe_3028" source="female frontal nudity" target="nudity" weight="117"/>
+      <edge id="kwe_3042" source="female frontal nudity" target="sex scene" weight="128"/>
+      <edge id="kwe_3057" source="female frontal nudity" target="violence" weight="114"/>
+      <edge id="kwe_3059" source="female full frontal nudity" target="female nudity" weight="263"/>
+      <edge id="kwe_3061" source="female full frontal nudity" target="female rear nudity" weight="214"/>
+      <edge id="kwe_3062" source="female full frontal nudity" target="female topless nudity" weight="155"/>
+      <edge id="kwe_3081" source="female full frontal nudity" target="male nudity" weight="127"/>
+      <edge id="kwe_3088" source="female full frontal nudity" target="murder" weight="127"/>
+      <edge id="kwe_3089" source="female full frontal nudity" target="nudity" weight="130"/>
+      <edge id="kwe_3103" source="female full frontal nudity" target="sex scene" weight="124"/>
+      <edge id="kwe_3121" source="female nudity" target="female rear nudity" weight="306"/>
+      <edge id="kwe_3122" source="female nudity" target="female topless nudity" weight="272"/>
+      <edge id="kwe_3125" source="female nudity" target="flashback" weight="186"/>
+      <edge id="kwe_3127" source="female nudity" target="friendship" weight="111"/>
+      <edge id="kwe_3128" source="female nudity" target="gore" weight="117"/>
+      <edge id="kwe_3129" source="female nudity" target="gun" weight="123"/>
+      <edge id="kwe_3133" source="female nudity" target="husband wife relationship" weight="196"/>
+      <edge id="kwe_3134" source="female nudity" target="independent film" weight="144"/>
+      <edge id="kwe_3137" source="female nudity" target="kiss" weight="180"/>
+      <edge id="kwe_3140" source="female nudity" target="love" weight="111"/>
+      <edge id="kwe_3141" source="female nudity" target="male nudity" weight="213"/>
+      <edge id="kwe_3142" source="female nudity" target="male rear nudity" weight="128"/>
+      <edge id="kwe_3146" source="female nudity" target="mother daughter relationship" weight="113"/>
+      <edge id="kwe_3147" source="female nudity" target="mother son relationship" weight="122"/>
+      <edge id="kwe_3148" source="female nudity" target="murder" weight="260"/>
+      <edge id="kwe_3149" source="female nudity" target="nudity" weight="221"/>
+      <edge id="kwe_3150" source="female nudity" target="one word title" weight="116"/>
+      <edge id="kwe_3152" source="female nudity" target="photograph" weight="150"/>
+      <edge id="kwe_3156" source="female nudity" target="psychotronic film" weight="113"/>
+      <edge id="kwe_3162" source="female nudity" target="sex" weight="139"/>
+      <edge id="kwe_3163" source="female nudity" target="sex scene" weight="209"/>
+      <edge id="kwe_3167" source="female nudity" target="shot to death" weight="116"/>
+      <edge id="kwe_3174" source="female nudity" target="telephone call" weight="130"/>
+      <edge id="kwe_3175" source="female nudity" target="title spoken by character" weight="127"/>
+      <edge id="kwe_3178" source="female nudity" target="violence" weight="215"/>
+      <edge id="kwe_3239" source="female rear nudity" target="female topless nudity" weight="170"/>
+      <edge id="kwe_3242" source="female rear nudity" target="flashback" weight="115"/>
+      <edge id="kwe_3250" source="female rear nudity" target="husband wife relationship" weight="115"/>
+      <edge id="kwe_3258" source="female rear nudity" target="male nudity" weight="131"/>
+      <edge id="kwe_3265" source="female rear nudity" target="murder" weight="151"/>
+      <edge id="kwe_3266" source="female rear nudity" target="nudity" weight="140"/>
+      <edge id="kwe_3280" source="female rear nudity" target="sex scene" weight="148"/>
+      <edge id="kwe_3295" source="female rear nudity" target="violence" weight="130"/>
+      <edge id="kwe_3307" source="female topless nudity" target="husband wife relationship" weight="115"/>
+      <edge id="kwe_3315" source="female topless nudity" target="male nudity" weight="116"/>
+      <edge id="kwe_3322" source="female topless nudity" target="murder" weight="144"/>
+      <edge id="kwe_3323" source="female topless nudity" target="nudity" weight="124"/>
+      <edge id="kwe_3337" source="female topless nudity" target="sex scene" weight="130"/>
+      <edge id="kwe_3352" source="female topless nudity" target="violence" weight="123"/>
+      <edge id="kwe_3355" source="fight" target="flashback" weight="119"/>
+      <edge id="kwe_3363" source="fight" target="husband wife relationship" weight="116"/>
+      <edge id="kwe_3378" source="fight" target="murder" weight="175"/>
+      <edge id="kwe_3408" source="fight" target="violence" weight="162"/>
+      <edge id="kwe_3410" source="fire" target="flashback" weight="121"/>
+      <edge id="kwe_3433" source="fire" target="murder" weight="180"/>
+      <edge id="kwe_3463" source="fire" target="violence" weight="146"/>
+      <edge id="kwe_3466" source="flashback" target="friendship" weight="128"/>
+      <edge id="kwe_3468" source="flashback" target="gun" weight="122"/>
+      <edge id="kwe_3470" source="flashback" target="hospital" weight="113"/>
+      <edge id="kwe_3472" source="flashback" target="husband wife relationship" weight="184"/>
+      <edge id="kwe_3476" source="flashback" target="kiss" weight="157"/>
+      <edge id="kwe_3477" source="flashback" target="knife" weight="134"/>
+      <edge id="kwe_3486" source="flashback" target="mother son relationship" weight="142"/>
+      <edge id="kwe_3487" source="flashback" target="murder" weight="264"/>
+      <edge id="kwe_3491" source="flashback" target="photograph" weight="171"/>
+      <edge id="kwe_3492" source="flashback" target="pistol" weight="125"/>
+      <edge id="kwe_3493" source="flashback" target="police" weight="113"/>
+      <edge id="kwe_3500" source="flashback" target="revenge" weight="135"/>
+      <edge id="kwe_3506" source="flashback" target="shot to death" weight="129"/>
+      <edge id="kwe_3510" source="flashback" target="slow motion scene" weight="155"/>
+      <edge id="kwe_3512" source="flashback" target="surprise ending" weight="136"/>
+      <edge id="kwe_3513" source="flashback" target="telephone call" weight="130"/>
+      <edge id="kwe_3514" source="flashback" target="title spoken by character" weight="127"/>
+      <edge id="kwe_3517" source="flashback" target="violence" weight="210"/>
+      <edge id="kwe_3518" source="flashback" target="voice over narration" weight="124"/>
+      <edge id="kwe_3519" source="friend" target="friendship" weight="188"/>
+      <edge id="kwe_3525" source="friend" target="husband wife relationship" weight="115"/>
+      <edge id="kwe_3529" source="friend" target="kiss" weight="119"/>
+      <edge id="kwe_3577" source="friendship" target="husband wife relationship" weight="152"/>
+      <edge id="kwe_3581" source="friendship" target="kiss" weight="140"/>
+      <edge id="kwe_3591" source="friendship" target="mother son relationship" weight="138"/>
+      <edge id="kwe_3592" source="friendship" target="murder" weight="137"/>
+      <edge id="kwe_3596" source="friendship" target="photograph" weight="123"/>
+      <edge id="kwe_3622" source="friendship" target="violence" weight="127"/>
+      <edge id="kwe_3643" source="gore" target="murder" weight="169"/>
+      <edge id="kwe_3673" source="gore" target="violence" weight="167"/>
+      <edge id="kwe_3682" source="gun" target="kiss" weight="114"/>
+      <edge id="kwe_3683" source="gun" target="knife" weight="111"/>
+      <edge id="kwe_3693" source="gun" target="murder" weight="203"/>
+      <edge id="kwe_3698" source="gun" target="pistol" weight="129"/>
+      <edge id="kwe_3712" source="gun" target="shot to death" weight="127"/>
+      <edge id="kwe_3723" source="gun" target="violence" weight="176"/>
+      <edge id="kwe_3742" source="held at gunpoint" target="murder" weight="160"/>
+      <edge id="kwe_3747" source="held at gunpoint" target="pistol" weight="144"/>
+      <edge id="kwe_3759" source="held at gunpoint" target="shot in the chest" weight="121"/>
+      <edge id="kwe_3761" source="held at gunpoint" target="shot to death" weight="138"/>
+      <edge id="kwe_3767" source="held at gunpoint" target="surprise ending" weight="121"/>
+      <edge id="kwe_3772" source="held at gunpoint" target="violence" weight="129"/>
+      <edge id="kwe_3775" source="hospital" target="husband wife relationship" weight="127"/>
+      <edge id="kwe_3790" source="hospital" target="murder" weight="142"/>
+      <edge id="kwe_3820" source="hospital" target="violence" weight="115"/>
+      <edge id="kwe_3837" source="hotel" target="murder" weight="116"/>
+      <edge id="kwe_3869" source="husband wife relationship" target="independent film" weight="112"/>
+      <edge id="kwe_3872" source="husband wife relationship" target="kiss" weight="186"/>
+      <edge id="kwe_3874" source="husband wife relationship" target="london england" weight="111"/>
+      <edge id="kwe_3876" source="husband wife relationship" target="male nudity" weight="118"/>
+      <edge id="kwe_3878" source="husband wife relationship" target="marriage" weight="138"/>
+      <edge id="kwe_3880" source="husband wife relationship" target="money" weight="111"/>
+      <edge id="kwe_3881" source="husband wife relationship" target="mother daughter relationship" weight="169"/>
+      <edge id="kwe_3882" source="husband wife relationship" target="mother son relationship" weight="203"/>
+      <edge id="kwe_3883" source="husband wife relationship" target="murder" weight="229"/>
+      <edge id="kwe_3887" source="husband wife relationship" target="photograph" weight="169"/>
+      <edge id="kwe_3893" source="husband wife relationship" target="rain" weight="122"/>
+      <edge id="kwe_3895" source="husband wife relationship" target="restaurant" weight="112"/>
+      <edge id="kwe_3896" source="husband wife relationship" target="revenge" weight="118"/>
+      <edge id="kwe_3898" source="husband wife relationship" target="sex scene" weight="122"/>
+      <edge id="kwe_3904" source="husband wife relationship" target="singing" weight="121"/>
+      <edge id="kwe_3909" source="husband wife relationship" target="telephone call" weight="174"/>
+      <edge id="kwe_3910" source="husband wife relationship" target="title spoken by character" weight="127"/>
+      <edge id="kwe_3913" source="husband wife relationship" target="violence" weight="167"/>
+      <edge id="kwe_3928" source="independent film" target="murder" weight="194"/>
+      <edge id="kwe_3936" source="independent film" target="psychotronic film" weight="113"/>
+      <edge id="kwe_3953" source="independent film" target="surprise ending" weight="115"/>
+      <edge id="kwe_3958" source="independent film" target="violence" weight="169"/>
+      <edge id="kwe_4015" source="kidnapping" target="murder" weight="179"/>
+      <edge id="kwe_4020" source="kidnapping" target="pistol" weight="112"/>
+      <edge id="kwe_4034" source="kidnapping" target="shot to death" weight="111"/>
+      <edge id="kwe_4045" source="kidnapping" target="violence" weight="148"/>
+      <edge id="kwe_4049" source="kiss" target="love" weight="123"/>
+      <edge id="kwe_4055" source="kiss" target="mother daughter relationship" weight="112"/>
+      <edge id="kwe_4056" source="kiss" target="mother son relationship" weight="145"/>
+      <edge id="kwe_4057" source="kiss" target="murder" weight="180"/>
+      <edge id="kwe_4061" source="kiss" target="photograph" weight="145"/>
+      <edge id="kwe_4078" source="kiss" target="singing" weight="132"/>
+      <edge id="kwe_4083" source="kiss" target="telephone call" weight="144"/>
+      <edge id="kwe_4087" source="kiss" target="violence" weight="140"/>
+      <edge id="kwe_4098" source="knife" target="murder" weight="215"/>
+      <edge id="kwe_4102" source="knife" target="photograph" weight="112"/>
+      <edge id="kwe_4103" source="knife" target="pistol" weight="123"/>
+      <edge id="kwe_4111" source="knife" target="revenge" weight="112"/>
+      <edge id="kwe_4115" source="knife" target="shot in the chest" weight="112"/>
+      <edge id="kwe_4117" source="knife" target="shot to death" weight="125"/>
+      <edge id="kwe_4123" source="knife" target="surprise ending" weight="128"/>
+      <edge id="kwe_4128" source="knife" target="violence" weight="191"/>
+      <edge id="kwe_4138" source="london england" target="murder" weight="122"/>
+      <edge id="kwe_4209" source="male nudity" target="male rear nudity" weight="167"/>
+      <edge id="kwe_4215" source="male nudity" target="murder" weight="131"/>
+      <edge id="kwe_4216" source="male nudity" target="nudity" weight="148"/>
+      <edge id="kwe_4230" source="male nudity" target="sex scene" weight="130"/>
+      <edge id="kwe_4245" source="male nudity" target="violence" weight="115"/>
+      <edge id="kwe_4389" source="mother daughter relationship" target="mother son relationship" weight="127"/>
+      <edge id="kwe_4422" source="mother son relationship" target="murder" weight="143"/>
+      <edge id="kwe_4426" source="mother son relationship" target="photograph" weight="137"/>
+      <edge id="kwe_4448" source="mother son relationship" target="telephone call" weight="119"/>
+      <edge id="kwe_4452" source="mother son relationship" target="violence" weight="115"/>
+      <edge id="kwe_4454" source="murder" target="nudity" weight="135"/>
+      <edge id="kwe_4455" source="murder" target="one word title" weight="129"/>
+      <edge id="kwe_4457" source="murder" target="photograph" weight="194"/>
+      <edge id="kwe_4458" source="murder" target="pistol" weight="221"/>
+      <edge id="kwe_4459" source="murder" target="police" weight="184"/>
+      <edge id="kwe_4460" source="murder" target="police officer" weight="144"/>
+      <edge id="kwe_4461" source="murder" target="psychotronic film" weight="188"/>
+      <edge id="kwe_4462" source="murder" target="punched in the face" weight="154"/>
+      <edge id="kwe_4463" source="murder" target="rain" weight="122"/>
+      <edge id="kwe_4464" source="murder" target="rescue" weight="140"/>
+      <edge id="kwe_4466" source="murder" target="revenge" weight="206"/>
+      <edge id="kwe_4467" source="murder" target="sex" weight="115"/>
+      <edge id="kwe_4468" source="murder" target="sex scene" weight="148"/>
+      <edge id="kwe_4469" source="murder" target="shootout" weight="168"/>
+      <edge id="kwe_4470" source="murder" target="shot in the chest" weight="178"/>
+      <edge id="kwe_4471" source="murder" target="shot in the head" weight="181"/>
+      <edge id="kwe_4472" source="murder" target="shot to death" weight="238"/>
+      <edge id="kwe_4475" source="murder" target="slapped in the face" weight="127"/>
+      <edge id="kwe_4476" source="murder" target="slow motion scene" weight="171"/>
+      <edge id="kwe_4477" source="murder" target="suicide" weight="142"/>
+      <edge id="kwe_4478" source="murder" target="surprise ending" weight="211"/>
+      <edge id="kwe_4479" source="murder" target="telephone call" weight="162"/>
+      <edge id="kwe_4480" source="murder" target="title spoken by character" weight="170"/>
+      <edge id="kwe_4481" source="murder" target="torture" weight="146"/>
+      <edge id="kwe_4483" source="murder" target="violence" weight="348"/>
+      <edge id="kwe_4513" source="nudity" target="violence" weight="122"/>
+      <edge id="kwe_4539" source="one word title" target="title spoken by character" weight="126"/>
+      <edge id="kwe_4542" source="one word title" target="violence" weight="114"/>
+      <edge id="kwe_4590" source="photograph" target="slow motion scene" weight="112"/>
+      <edge id="kwe_4593" source="photograph" target="telephone call" weight="153"/>
+      <edge id="kwe_4597" source="photograph" target="violence" weight="152"/>
+      <edge id="kwe_4609" source="pistol" target="shootout" weight="139"/>
+      <edge id="kwe_4610" source="pistol" target="shot in the chest" weight="152"/>
+      <edge id="kwe_4611" source="pistol" target="shot in the head" weight="131"/>
+      <edge id="kwe_4612" source="pistol" target="shot to death" weight="178"/>
+      <edge id="kwe_4618" source="pistol" target="surprise ending" weight="120"/>
+      <edge id="kwe_4623" source="pistol" target="violence" weight="178"/>
+      <edge id="kwe_4625" source="police" target="police officer" weight="120"/>
+      <edge id="kwe_4648" source="police" target="violence" weight="131"/>
+      <edge id="kwe_4672" source="police officer" target="violence" weight="114"/>
+      <edge id="kwe_4695" source="psychotronic film" target="violence" weight="137"/>
+      <edge id="kwe_4717" source="punched in the face" target="violence" weight="131"/>
+      <edge id="kwe_4753" source="rescue" target="surprise ending" weight="111"/>
+      <edge id="kwe_4758" source="rescue" target="violence" weight="123"/>
+      <edge id="kwe_4795" source="revenge" target="violence" weight="169"/>
+      <edge id="kwe_4828" source="sex scene" target="violence" weight="118"/>
+      <edge id="kwe_4830" source="shootout" target="shot in the chest" weight="128"/>
+      <edge id="kwe_4832" source="shootout" target="shot to death" weight="140"/>
+      <edge id="kwe_4843" source="shootout" target="violence" weight="150"/>
+      <edge id="kwe_4845" source="shot in the chest" target="shot in the head" weight="137"/>
+      <edge id="kwe_4846" source="shot in the chest" target="shot to death" weight="175"/>
+      <edge id="kwe_4852" source="shot in the chest" target="surprise ending" weight="111"/>
+      <edge id="kwe_4857" source="shot in the chest" target="violence" weight="168"/>
+      <edge id="kwe_4859" source="shot in the head" target="shot to death" weight="147"/>
+      <edge id="kwe_4870" source="shot in the head" target="violence" weight="152"/>
+      <edge id="kwe_4875" source="shot to death" target="slow motion scene" weight="112"/>
+      <edge id="kwe_4877" source="shot to death" target="surprise ending" weight="121"/>
+      <edge id="kwe_4882" source="shot to death" target="violence" weight="201"/>
+      <edge id="kwe_4884" source="singer" target="singing" weight="163"/>
+      <edge id="kwe_4915" source="slow motion scene" target="surprise ending" weight="116"/>
+      <edge id="kwe_4920" source="slow motion scene" target="violence" weight="156"/>
+      <edge id="kwe_4933" source="surprise ending" target="violence" weight="171"/>
+      <edge id="kwe_4938" source="telephone call" target="violence" weight="128"/>
+      <edge id="kwe_4942" source="title spoken by character" target="violence" weight="129"/>
+      <edge id="kwe_4945" source="torture" target="violence" weight="132"/>
+    </edges>
+  </graph>
+</gexf>

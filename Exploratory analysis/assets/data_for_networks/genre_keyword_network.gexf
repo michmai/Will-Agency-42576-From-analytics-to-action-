@@ -1,0 +1,1245 @@
+<?xml version="1.0" ?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2">
+  <graph defaultedgetype="undirected">
+    <attributes class="node">
+      <attribute id="0" title="NodeType" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="G_Biography" label="Biography">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Comedy" label="Comedy">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Adult" label="Adult">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Music" label="Music">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Adventure" label="Adventure">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Sci-Fi" label="Sci-Fi">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Documentary" label="Documentary">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Action" label="Action">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_History" label="History">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Musical" label="Musical">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Western" label="Western">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Horror" label="Horror">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Drama" label="Drama">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Animation" label="Animation">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Film-Noir" label="Film-Noir">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_News" label="News">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Family" label="Family">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Fantasy" label="Fantasy">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Crime" label="Crime">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_War" label="War">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Mystery" label="Mystery">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Romance" label="Romance">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Sport" label="Sport">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="G_Thriller" label="Thriller">
+        <attvalues>
+          <attvalue for="0" value="Genre"/>
+        </attvalues>
+      </node>
+      <node id="K_murder" label="murder">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_death" label="death">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_female nudity" label="female nudity">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_blood" label="blood">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_husband wife relationship" label="husband wife relationship">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_violence" label="violence">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_flashback" label="flashback">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_cigarette smoking" label="cigarette smoking">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_kiss" label="kiss">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_based on novel" label="based on novel">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_independent film" label="independent film">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_father son relationship" label="father son relationship">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_father daughter relationship" label="father daughter relationship">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_title spoken by character" label="title spoken by character">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_dog" label="dog">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_mother son relationship" label="mother son relationship">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_friendship" label="friendship">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_female rear nudity" label="female rear nudity">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_photograph" label="photograph">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_psychotronic film" label="psychotronic film">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_male nudity" label="male nudity">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_female topless nudity" label="female topless nudity">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_telephone call" label="telephone call">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_corpse" label="corpse">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_one word title" label="one word title">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_sex scene" label="sex scene">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_bare chested male" label="bare chested male">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_police" label="police">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_dancing" label="dancing">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_escape" label="escape">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_fight" label="fight">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_explosion" label="explosion">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_mother daughter relationship" label="mother daughter relationship">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_knife" label="knife">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_female full frontal nudity" label="female full frontal nudity">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_shot to death" label="shot to death">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_revenge" label="revenge">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_london england" label="london england">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_gun" label="gun">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_nudity" label="nudity">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_chase" label="chase">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_surprise ending" label="surprise ending">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_female frontal nudity" label="female frontal nudity">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_fear" label="fear">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_family relationships" label="family relationships">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_love" label="love">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_pistol" label="pistol">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_cult film" label="cult film">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_female protagonist" label="female protagonist">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+      <node id="K_hospital" label="hospital">
+        <attvalues>
+          <attvalue for="0" value="Keyword"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="G_Drama" target="K_female nudity" weight="397"/>
+      <edge id="1" source="G_Drama" target="K_nudity" weight="193"/>
+      <edge id="2" source="G_Drama" target="K_male nudity" weight="243"/>
+      <edge id="3" source="G_Drama" target="K_family relationships" weight="214"/>
+      <edge id="4" source="G_Drama" target="K_bare chested male" weight="190"/>
+      <edge id="5" source="G_Drama" target="K_kiss" weight="292"/>
+      <edge id="6" source="G_Drama" target="K_hospital" weight="175"/>
+      <edge id="7" source="G_Drama" target="K_photograph" weight="227"/>
+      <edge id="8" source="G_Drama" target="K_dancing" weight="219"/>
+      <edge id="9" source="G_Drama" target="K_murder" weight="369"/>
+      <edge id="10" source="G_Drama" target="K_female protagonist" weight="185"/>
+      <edge id="11" source="G_Drama" target="K_cigarette smoking" weight="312"/>
+      <edge id="12" source="G_Drama" target="K_title spoken by character" weight="230"/>
+      <edge id="13" source="G_Horror" target="K_female nudity" weight="154"/>
+      <edge id="14" source="G_Horror" target="K_female topless nudity" weight="100"/>
+      <edge id="15" source="G_Thriller" target="K_female nudity" weight="208"/>
+      <edge id="16" source="G_Thriller" target="K_female topless nudity" weight="117"/>
+      <edge id="17" source="G_Comedy" target="K_corpse" weight="37"/>
+      <edge id="18" source="G_Comedy" target="K_photograph" weight="82"/>
+      <edge id="19" source="G_Comedy" target="K_telephone call" weight="99"/>
+      <edge id="20" source="G_Comedy" target="K_death" weight="90"/>
+      <edge id="21" source="G_Comedy" target="K_father son relationship" weight="95"/>
+      <edge id="22" source="G_Comedy" target="K_dancing" weight="96"/>
+      <edge id="23" source="G_Comedy" target="K_flashback" weight="91"/>
+      <edge id="24" source="G_Comedy" target="K_dog" weight="111"/>
+      <edge id="25" source="G_Comedy" target="K_kiss" weight="123"/>
+      <edge id="26" source="G_Comedy" target="K_friendship" weight="113"/>
+      <edge id="27" source="G_Comedy" target="K_based on novel" weight="79"/>
+      <edge id="28" source="G_Comedy" target="K_title spoken by character" weight="105"/>
+      <edge id="29" source="G_Action" target="K_psychotronic film" weight="75"/>
+      <edge id="30" source="G_Action" target="K_independent film" weight="79"/>
+      <edge id="31" source="G_Comedy" target="K_psychotronic film" weight="45"/>
+      <edge id="32" source="G_Comedy" target="K_independent film" weight="107"/>
+      <edge id="33" source="G_Comedy" target="K_family relationships" weight="81"/>
+      <edge id="34" source="G_Comedy" target="K_hospital" weight="65"/>
+      <edge id="35" source="G_Comedy" target="K_mother son relationship" weight="95"/>
+      <edge id="36" source="G_Comedy" target="K_mother daughter relationship" weight="66"/>
+      <edge id="37" source="G_Comedy" target="K_london england" weight="98"/>
+      <edge id="38" source="G_Comedy" target="K_cigarette smoking" weight="102"/>
+      <edge id="39" source="G_Drama" target="K_friendship" weight="257"/>
+      <edge id="40" source="G_Drama" target="K_telephone call" weight="226"/>
+      <edge id="41" source="G_Drama" target="K_mother son relationship" weight="272"/>
+      <edge id="42" source="G_Drama" target="K_mother daughter relationship" weight="225"/>
+      <edge id="43" source="G_Drama" target="K_london england" weight="172"/>
+      <edge id="44" source="G_Drama" target="K_death" weight="372"/>
+      <edge id="45" source="G_Drama" target="K_based on novel" weight="303"/>
+      <edge id="46" source="G_Comedy" target="K_male nudity" weight="73"/>
+      <edge id="47" source="G_Thriller" target="K_male nudity" weight="100"/>
+      <edge id="48" source="G_Horror" target="K_blood" weight="221"/>
+      <edge id="49" source="G_Horror" target="K_knife" weight="98"/>
+      <edge id="50" source="G_Horror" target="K_female frontal nudity" weight="83"/>
+      <edge id="51" source="G_Horror" target="K_corpse" weight="131"/>
+      <edge id="52" source="G_Horror" target="K_fear" weight="101"/>
+      <edge id="53" source="G_Horror" target="K_kiss" weight="65"/>
+      <edge id="54" source="G_Horror" target="K_psychotronic film" weight="204"/>
+      <edge id="55" source="G_Horror" target="K_murder" weight="220"/>
+      <edge id="56" source="G_Horror" target="K_revenge" weight="81"/>
+      <edge id="57" source="G_Sci-Fi" target="K_female frontal nudity" weight="26"/>
+      <edge id="58" source="G_Sci-Fi" target="K_knife" weight="34"/>
+      <edge id="59" source="G_Sci-Fi" target="K_corpse" weight="47"/>
+      <edge id="60" source="G_Sci-Fi" target="K_fear" weight="35"/>
+      <edge id="61" source="G_Sci-Fi" target="K_kiss" weight="35"/>
+      <edge id="62" source="G_Sci-Fi" target="K_psychotronic film" weight="80"/>
+      <edge id="63" source="G_Sci-Fi" target="K_female nudity" weight="49"/>
+      <edge id="64" source="G_Sci-Fi" target="K_murder" weight="74"/>
+      <edge id="65" source="G_Sci-Fi" target="K_revenge" weight="18"/>
+      <edge id="66" source="G_Drama" target="K_revenge" weight="150"/>
+      <edge id="67" source="G_Drama" target="K_father son relationship" weight="289"/>
+      <edge id="68" source="G_Drama" target="K_fight" weight="169"/>
+      <edge id="69" source="G_Drama" target="K_violence" weight="271"/>
+      <edge id="70" source="G_Drama" target="K_explosion" weight="123"/>
+      <edge id="71" source="G_Drama" target="K_blood" weight="314"/>
+      <edge id="72" source="G_Drama" target="K_fear" weight="146"/>
+      <edge id="73" source="G_Drama" target="K_husband wife relationship" weight="384"/>
+      <edge id="74" source="G_Drama" target="K_police" weight="176"/>
+      <edge id="75" source="G_Drama" target="K_knife" weight="144"/>
+      <edge id="76" source="G_Drama" target="K_one word title" weight="199"/>
+      <edge id="77" source="G_Romance" target="K_revenge" weight="41"/>
+      <edge id="78" source="G_Romance" target="K_father son relationship" weight="104"/>
+      <edge id="79" source="G_Romance" target="K_friendship" weight="106"/>
+      <edge id="80" source="G_Romance" target="K_death" weight="108"/>
+      <edge id="81" source="G_Romance" target="K_fight" weight="65"/>
+      <edge id="82" source="G_Romance" target="K_violence" weight="54"/>
+      <edge id="83" source="G_Romance" target="K_explosion" weight="31"/>
+      <edge id="84" source="G_Romance" target="K_blood" weight="74"/>
+      <edge id="85" source="G_Romance" target="K_murder" weight="73"/>
+      <edge id="86" source="G_Romance" target="K_photograph" weight="85"/>
+      <edge id="87" source="G_Romance" target="K_telephone call" weight="82"/>
+      <edge id="88" source="G_Romance" target="K_kiss" weight="166"/>
+      <edge id="89" source="G_Romance" target="K_fear" weight="37"/>
+      <edge id="90" source="G_Romance" target="K_bare chested male" weight="84"/>
+      <edge id="91" source="G_Romance" target="K_london england" weight="74"/>
+      <edge id="92" source="G_Romance" target="K_family relationships" weight="81"/>
+      <edge id="93" source="G_Romance" target="K_husband wife relationship" weight="148"/>
+      <edge id="94" source="G_Romance" target="K_police" weight="41"/>
+      <edge id="95" source="G_Romance" target="K_hospital" weight="60"/>
+      <edge id="96" source="G_Romance" target="K_knife" weight="26"/>
+      <edge id="97" source="G_Romance" target="K_mother son relationship" weight="93"/>
+      <edge id="98" source="G_Romance" target="K_one word title" weight="76"/>
+      <edge id="99" source="G_Comedy" target="K_bare chested male" weight="77"/>
+      <edge id="100" source="G_Crime" target="K_based on novel" weight="77"/>
+      <edge id="101" source="G_Crime" target="K_bare chested male" weight="56"/>
+      <edge id="102" source="G_Crime" target="K_london england" weight="66"/>
+      <edge id="103" source="G_Thriller" target="K_based on novel" weight="138"/>
+      <edge id="104" source="G_Thriller" target="K_bare chested male" weight="103"/>
+      <edge id="105" source="G_Thriller" target="K_london england" weight="97"/>
+      <edge id="106" source="G_Comedy" target="K_one word title" weight="57"/>
+      <edge id="107" source="G_Comedy" target="K_husband wife relationship" weight="135"/>
+      <edge id="108" source="G_Fantasy" target="K_one word title" weight="35"/>
+      <edge id="109" source="G_Fantasy" target="K_cigarette smoking" weight="20"/>
+      <edge id="110" source="G_Fantasy" target="K_husband wife relationship" weight="45"/>
+      <edge id="111" source="G_Fantasy" target="K_london england" weight="33"/>
+      <edge id="112" source="G_Romance" target="K_cigarette smoking" weight="92"/>
+      <edge id="113" source="G_Horror" target="K_death" weight="171"/>
+      <edge id="114" source="G_Horror" target="K_cult film" weight="83"/>
+      <edge id="115" source="G_Horror" target="K_one word title" weight="58"/>
+      <edge id="116" source="G_Horror" target="K_violence" weight="157"/>
+      <edge id="117" source="G_Crime" target="K_husband wife relationship" weight="102"/>
+      <edge id="118" source="G_Crime" target="K_father daughter relationship" weight="69"/>
+      <edge id="119" source="G_Crime" target="K_mother daughter relationship" weight="39"/>
+      <edge id="120" source="G_Crime" target="K_mother son relationship" weight="65"/>
+      <edge id="121" source="G_Crime" target="K_pistol" weight="104"/>
+      <edge id="122" source="G_Crime" target="K_photograph" weight="75"/>
+      <edge id="123" source="G_Crime" target="K_telephone call" weight="76"/>
+      <edge id="124" source="G_Crime" target="K_shot to death" weight="106"/>
+      <edge id="125" source="G_Crime" target="K_murder" weight="204"/>
+      <edge id="126" source="G_Crime" target="K_police" weight="128"/>
+      <edge id="127" source="G_Crime" target="K_female nudity" weight="114"/>
+      <edge id="128" source="G_Crime" target="K_female topless nudity" weight="59"/>
+      <edge id="129" source="G_Crime" target="K_sex scene" weight="60"/>
+      <edge id="130" source="G_Drama" target="K_father daughter relationship" weight="257"/>
+      <edge id="131" source="G_Drama" target="K_pistol" weight="125"/>
+      <edge id="132" source="G_Drama" target="K_shot to death" weight="156"/>
+      <edge id="133" source="G_Drama" target="K_female topless nudity" weight="219"/>
+      <edge id="134" source="G_Drama" target="K_sex scene" weight="221"/>
+      <edge id="135" source="G_Horror" target="K_female full frontal nudity" weight="78"/>
+      <edge id="136" source="G_Horror" target="K_male nudity" weight="61"/>
+      <edge id="137" source="G_Horror" target="K_bare chested male" weight="60"/>
+      <edge id="138" source="G_Horror" target="K_female rear nudity" weight="86"/>
+      <edge id="139" source="G_Horror" target="K_sex scene" weight="72"/>
+      <edge id="140" source="G_Horror" target="K_husband wife relationship" weight="95"/>
+      <edge id="141" source="G_Horror" target="K_telephone call" weight="61"/>
+      <edge id="142" source="G_Horror" target="K_nudity" weight="75"/>
+      <edge id="143" source="G_Horror" target="K_explosion" weight="60"/>
+      <edge id="144" source="G_Action" target="K_police" weight="75"/>
+      <edge id="145" source="G_Action" target="K_chase" weight="123"/>
+      <edge id="146" source="G_Action" target="K_fight" weight="106"/>
+      <edge id="147" source="G_Action" target="K_explosion" weight="144"/>
+      <edge id="148" source="G_Action" target="K_knife" weight="98"/>
+      <edge id="149" source="G_Action" target="K_pistol" weight="136"/>
+      <edge id="150" source="G_Action" target="K_shot to death" weight="125"/>
+      <edge id="151" source="G_Action" target="K_revenge" weight="97"/>
+      <edge id="152" source="G_Action" target="K_murder" weight="173"/>
+      <edge id="153" source="G_Action" target="K_death" weight="142"/>
+      <edge id="154" source="G_Action" target="K_violence" weight="155"/>
+      <edge id="155" source="G_Action" target="K_escape" weight="121"/>
+      <edge id="156" source="G_Action" target="K_blood" weight="129"/>
+      <edge id="157" source="G_Action" target="K_friendship" weight="41"/>
+      <edge id="158" source="G_Action" target="K_photograph" weight="61"/>
+      <edge id="159" source="G_Action" target="K_corpse" weight="96"/>
+      <edge id="160" source="G_Action" target="K_fear" weight="71"/>
+      <edge id="161" source="G_Action" target="K_gun" weight="97"/>
+      <edge id="162" source="G_Action" target="K_father daughter relationship" weight="46"/>
+      <edge id="163" source="G_Action" target="K_surprise ending" weight="107"/>
+      <edge id="164" source="G_Crime" target="K_chase" weight="90"/>
+      <edge id="165" source="G_Crime" target="K_fight" weight="67"/>
+      <edge id="166" source="G_Crime" target="K_explosion" weight="68"/>
+      <edge id="167" source="G_Crime" target="K_knife" weight="76"/>
+      <edge id="168" source="G_Crime" target="K_revenge" weight="86"/>
+      <edge id="169" source="G_Crime" target="K_death" weight="151"/>
+      <edge id="170" source="G_Crime" target="K_violence" weight="140"/>
+      <edge id="171" source="G_Crime" target="K_escape" weight="77"/>
+      <edge id="172" source="G_Crime" target="K_blood" weight="125"/>
+      <edge id="173" source="G_Crime" target="K_friendship" weight="56"/>
+      <edge id="174" source="G_Crime" target="K_corpse" weight="80"/>
+      <edge id="175" source="G_Crime" target="K_fear" weight="57"/>
+      <edge id="176" source="G_Crime" target="K_gun" weight="94"/>
+      <edge id="177" source="G_Crime" target="K_psychotronic film" weight="42"/>
+      <edge id="178" source="G_Crime" target="K_independent film" weight="76"/>
+      <edge id="179" source="G_Crime" target="K_surprise ending" weight="88"/>
+      <edge id="180" source="G_Thriller" target="K_police" weight="150"/>
+      <edge id="181" source="G_Thriller" target="K_chase" weight="155"/>
+      <edge id="182" source="G_Thriller" target="K_fight" weight="120"/>
+      <edge id="183" source="G_Thriller" target="K_explosion" weight="150"/>
+      <edge id="184" source="G_Thriller" target="K_knife" weight="158"/>
+      <edge id="185" source="G_Thriller" target="K_pistol" weight="164"/>
+      <edge id="186" source="G_Thriller" target="K_shot to death" weight="177"/>
+      <edge id="187" source="G_Thriller" target="K_revenge" weight="144"/>
+      <edge id="188" source="G_Thriller" target="K_murder" weight="363"/>
+      <edge id="189" source="G_Thriller" target="K_death" weight="278"/>
+      <edge id="190" source="G_Thriller" target="K_violence" weight="252"/>
+      <edge id="191" source="G_Thriller" target="K_escape" weight="147"/>
+      <edge id="192" source="G_Thriller" target="K_blood" weight="256"/>
+      <edge id="193" source="G_Thriller" target="K_friendship" weight="92"/>
+      <edge id="194" source="G_Thriller" target="K_photograph" weight="135"/>
+      <edge id="195" source="G_Thriller" target="K_corpse" weight="171"/>
+      <edge id="196" source="G_Thriller" target="K_fear" weight="136"/>
+      <edge id="197" source="G_Thriller" target="K_gun" weight="149"/>
+      <edge id="198" source="G_Thriller" target="K_psychotronic film" weight="128"/>
+      <edge id="199" source="G_Thriller" target="K_father daughter relationship" weight="118"/>
+      <edge id="200" source="G_Thriller" target="K_independent film" weight="154"/>
+      <edge id="201" source="G_Thriller" target="K_surprise ending" weight="185"/>
+      <edge id="202" source="G_Drama" target="K_psychotronic film" weight="97"/>
+      <edge id="203" source="G_Fantasy" target="K_female nudity" weight="45"/>
+      <edge id="204" source="G_Fantasy" target="K_psychotronic film" weight="66"/>
+      <edge id="205" source="G_Fantasy" target="K_female topless nudity" weight="25"/>
+      <edge id="206" source="G_Fantasy" target="K_blood" weight="63"/>
+      <edge id="207" source="G_Fantasy" target="K_mother daughter relationship" weight="32"/>
+      <edge id="208" source="G_Fantasy" target="K_revenge" weight="36"/>
+      <edge id="209" source="G_Fantasy" target="K_father daughter relationship" weight="50"/>
+      <edge id="210" source="G_Fantasy" target="K_murder" weight="58"/>
+      <edge id="211" source="G_Horror" target="K_mother daughter relationship" weight="45"/>
+      <edge id="212" source="G_Horror" target="K_father daughter relationship" weight="61"/>
+      <edge id="213" source="G_Romance" target="K_female nudity" weight="153"/>
+      <edge id="214" source="G_Romance" target="K_psychotronic film" weight="25"/>
+      <edge id="215" source="G_Romance" target="K_female topless nudity" weight="85"/>
+      <edge id="216" source="G_Romance" target="K_mother daughter relationship" weight="99"/>
+      <edge id="217" source="G_Romance" target="K_father daughter relationship" weight="107"/>
+      <edge id="218" source="G_Thriller" target="K_mother daughter relationship" weight="82"/>
+      <edge id="219" source="G_Thriller" target="K_husband wife relationship" weight="172"/>
+      <edge id="220" source="G_Action" target="K_female full frontal nudity" weight="30"/>
+      <edge id="221" source="G_Action" target="K_female rear nudity" weight="53"/>
+      <edge id="222" source="G_Action" target="K_female topless nudity" weight="35"/>
+      <edge id="223" source="G_Action" target="K_sex scene" weight="35"/>
+      <edge id="234" source="G_Drama" target="K_independent film" weight="217"/>
+      <edge id="235" source="G_Drama" target="K_female full frontal nudity" weight="213"/>
+      <edge id="236" source="G_Drama" target="K_female rear nudity" weight="238"/>
+      <edge id="237" source="G_History" target="K_violence" weight="44"/>
+      <edge id="238" source="G_History" target="K_murder" weight="45"/>
+      <edge id="239" source="G_History" target="K_fight" weight="26"/>
+      <edge id="240" source="G_History" target="K_death" weight="44"/>
+      <edge id="241" source="G_History" target="K_blood" weight="34"/>
+      <edge id="242" source="G_History" target="K_independent film" weight="20"/>
+      <edge id="243" source="G_History" target="K_female full frontal nudity" weight="27"/>
+      <edge id="244" source="G_History" target="K_female rear nudity" weight="26"/>
+      <edge id="245" source="G_History" target="K_female topless nudity" weight="23"/>
+      <edge id="246" source="G_History" target="K_sex scene" weight="23"/>
+      <edge id="247" source="G_Horror" target="K_fight" weight="47"/>
+      <edge id="248" source="G_Horror" target="K_independent film" weight="124"/>
+      <edge id="249" source="G_Adventure" target="K_dog" weight="78"/>
+      <edge id="250" source="G_Family" target="K_dog" weight="53"/>
+      <edge id="251" source="G_Fantasy" target="K_dog" weight="51"/>
+      <edge id="252" source="G_Action" target="K_bare chested male" weight="44"/>
+      <edge id="253" source="G_Action" target="K_love" weight="32"/>
+      <edge id="254" source="G_Action" target="K_kiss" weight="50"/>
+      <edge id="255" source="G_Action" target="K_female nudity" weight="78"/>
+      <edge id="256" source="G_Crime" target="K_love" weight="45"/>
+      <edge id="257" source="G_Crime" target="K_kiss" weight="70"/>
+      <edge id="258" source="G_Drama" target="K_love" weight="208"/>
+      <edge id="259" source="G_Thriller" target="K_love" weight="65"/>
+      <edge id="260" source="G_Thriller" target="K_kiss" weight="116"/>
+      <edge id="261" source="G_Action" target="K_dog" weight="56"/>
+      <edge id="262" source="G_Action" target="K_cigarette smoking" weight="68"/>
+      <edge id="263" source="G_Action" target="K_based on novel" weight="47"/>
+      <edge id="264" source="G_Action" target="K_london england" weight="51"/>
+      <edge id="265" source="G_Drama" target="K_corpse" weight="158"/>
+      <edge id="266" source="G_Drama" target="K_dog" weight="223"/>
+      <edge id="267" source="G_Drama" target="K_escape" weight="153"/>
+      <edge id="268" source="G_Drama" target="K_surprise ending" weight="120"/>
+      <edge id="269" source="G_War" target="K_corpse" weight="36"/>
+      <edge id="270" source="G_War" target="K_police" weight="11"/>
+      <edge id="271" source="G_War" target="K_dog" weight="34"/>
+      <edge id="272" source="G_War" target="K_escape" weight="44"/>
+      <edge id="273" source="G_War" target="K_cigarette smoking" weight="52"/>
+      <edge id="274" source="G_War" target="K_violence" weight="43"/>
+      <edge id="275" source="G_War" target="K_murder" weight="61"/>
+      <edge id="276" source="G_War" target="K_based on novel" weight="33"/>
+      <edge id="277" source="G_War" target="K_independent film" weight="29"/>
+      <edge id="278" source="G_War" target="K_surprise ending" weight="15"/>
+      <edge id="279" source="G_War" target="K_london england" weight="20"/>
+      <edge id="280" source="G_Horror" target="K_based on novel" weight="50"/>
+      <edge id="281" source="G_Sci-Fi" target="K_explosion" weight="60"/>
+      <edge id="282" source="G_Sci-Fi" target="K_husband wife relationship" weight="24"/>
+      <edge id="283" source="G_Sci-Fi" target="K_based on novel" weight="26"/>
+      <edge id="284" source="G_Crime" target="K_female protagonist" weight="46"/>
+      <edge id="285" source="G_Crime" target="K_male nudity" weight="65"/>
+      <edge id="286" source="G_Crime" target="K_one word title" weight="64"/>
+      <edge id="287" source="G_Crime" target="K_cigarette smoking" weight="109"/>
+      <edge id="288" source="G_Crime" target="K_dancing" weight="49"/>
+      <edge id="289" source="G_Crime" target="K_title spoken by character" weight="77"/>
+      <edge id="290" source="G_Drama" target="K_gun" weight="163"/>
+      <edge id="291" source="G_Romance" target="K_shot to death" weight="22"/>
+      <edge id="292" source="G_Romance" target="K_female protagonist" weight="79"/>
+      <edge id="293" source="G_Romance" target="K_male nudity" weight="89"/>
+      <edge id="294" source="G_Romance" target="K_gun" weight="45"/>
+      <edge id="295" source="G_Romance" target="K_dancing" weight="112"/>
+      <edge id="296" source="G_Romance" target="K_title spoken by character" weight="80"/>
+      <edge id="297" source="G_Thriller" target="K_female protagonist" weight="93"/>
+      <edge id="298" source="G_Thriller" target="K_one word title" weight="126"/>
+      <edge id="299" source="G_Thriller" target="K_cigarette smoking" weight="183"/>
+      <edge id="300" source="G_Thriller" target="K_dancing" weight="76"/>
+      <edge id="301" source="G_Thriller" target="K_title spoken by character" weight="132"/>
+      <edge id="302" source="G_Adventure" target="K_love" weight="52"/>
+      <edge id="303" source="G_Adventure" target="K_fight" weight="71"/>
+      <edge id="304" source="G_Adventure" target="K_cult film" weight="73"/>
+      <edge id="305" source="G_Adventure" target="K_friendship" weight="66"/>
+      <edge id="306" source="G_Adventure" target="K_based on novel" weight="94"/>
+      <edge id="307" source="G_Comedy" target="K_love" weight="69"/>
+      <edge id="308" source="G_Comedy" target="K_fight" weight="74"/>
+      <edge id="309" source="G_Comedy" target="K_cult film" weight="73"/>
+      <edge id="310" source="G_Drama" target="K_cult film" weight="115"/>
+      <edge id="311" source="G_History" target="K_love" weight="18"/>
+      <edge id="312" source="G_History" target="K_cult film" weight="13"/>
+      <edge id="313" source="G_History" target="K_friendship" weight="31"/>
+      <edge id="314" source="G_History" target="K_based on novel" weight="25"/>
+      <edge id="315" source="G_Romance" target="K_love" weight="131"/>
+      <edge id="316" source="G_Romance" target="K_cult film" weight="35"/>
+      <edge id="317" source="G_Romance" target="K_based on novel" weight="120"/>
+      <edge id="319" source="G_Sport" target="K_fight" weight="8"/>
+      <edge id="321" source="G_Sport" target="K_friendship" weight="12"/>
+      <edge id="323" source="G_Action" target="K_female protagonist" weight="44"/>
+      <edge id="324" source="G_Action" target="K_hospital" weight="41"/>
+      <edge id="325" source="G_Adventure" target="K_london england" weight="48"/>
+      <edge id="326" source="G_Adventure" target="K_surprise ending" weight="64"/>
+      <edge id="327" source="G_Adventure" target="K_female protagonist" weight="42"/>
+      <edge id="328" source="G_Adventure" target="K_psychotronic film" weight="87"/>
+      <edge id="329" source="G_Adventure" target="K_escape" weight="92"/>
+      <edge id="330" source="G_Adventure" target="K_chase" weight="86"/>
+      <edge id="331" source="G_Adventure" target="K_knife" weight="73"/>
+      <edge id="332" source="G_Adventure" target="K_violence" weight="98"/>
+      <edge id="333" source="G_Adventure" target="K_death" weight="90"/>
+      <edge id="334" source="G_Adventure" target="K_murder" weight="107"/>
+      <edge id="335" source="G_Adventure" target="K_fear" weight="54"/>
+      <edge id="336" source="G_Adventure" target="K_pistol" weight="75"/>
+      <edge id="337" source="G_Adventure" target="K_corpse" weight="63"/>
+      <edge id="338" source="G_Adventure" target="K_blood" weight="85"/>
+      <edge id="339" source="G_Adventure" target="K_hospital" weight="21"/>
+      <edge id="340" source="G_Adventure" target="K_shot to death" weight="58"/>
+      <edge id="341" source="G_Adventure" target="K_independent film" weight="73"/>
+      <edge id="342" source="G_Drama" target="K_chase" weight="120"/>
+      <edge id="343" source="G_Horror" target="K_dog" weight="79"/>
+      <edge id="344" source="G_Horror" target="K_london england" weight="35"/>
+      <edge id="345" source="G_Horror" target="K_surprise ending" weight="97"/>
+      <edge id="346" source="G_Horror" target="K_female protagonist" weight="62"/>
+      <edge id="347" source="G_Horror" target="K_escape" weight="73"/>
+      <edge id="348" source="G_Horror" target="K_chase" weight="72"/>
+      <edge id="349" source="G_Horror" target="K_pistol" weight="55"/>
+      <edge id="350" source="G_Horror" target="K_hospital" weight="64"/>
+      <edge id="351" source="G_Horror" target="K_shot to death" weight="75"/>
+      <edge id="352" source="G_Sci-Fi" target="K_dog" weight="31"/>
+      <edge id="353" source="G_Sci-Fi" target="K_london england" weight="16"/>
+      <edge id="354" source="G_Sci-Fi" target="K_surprise ending" weight="45"/>
+      <edge id="355" source="G_Sci-Fi" target="K_female protagonist" weight="17"/>
+      <edge id="356" source="G_Sci-Fi" target="K_escape" weight="44"/>
+      <edge id="357" source="G_Sci-Fi" target="K_chase" weight="35"/>
+      <edge id="358" source="G_Sci-Fi" target="K_violence" weight="58"/>
+      <edge id="359" source="G_Sci-Fi" target="K_death" weight="58"/>
+      <edge id="360" source="G_Sci-Fi" target="K_pistol" weight="41"/>
+      <edge id="361" source="G_Sci-Fi" target="K_blood" weight="72"/>
+      <edge id="362" source="G_Sci-Fi" target="K_hospital" weight="24"/>
+      <edge id="363" source="G_Sci-Fi" target="K_shot to death" weight="40"/>
+      <edge id="364" source="G_Sci-Fi" target="K_independent film" weight="47"/>
+      <edge id="365" source="G_Thriller" target="K_dog" weight="116"/>
+      <edge id="366" source="G_Thriller" target="K_hospital" weight="117"/>
+      <edge id="367" source="G_Comedy" target="K_police" weight="70"/>
+      <edge id="368" source="G_Crime" target="K_cult film" weight="60"/>
+      <edge id="369" source="G_Crime" target="K_dog" weight="63"/>
+      <edge id="370" source="G_Crime" target="K_hospital" weight="62"/>
+      <edge id="371" source="G_Crime" target="K_family relationships" weight="46"/>
+      <edge id="372" source="G_Thriller" target="K_cult film" weight="103"/>
+      <edge id="373" source="G_Thriller" target="K_telephone call" weight="122"/>
+      <edge id="374" source="G_Thriller" target="K_family relationships" weight="72"/>
+      <edge id="375" source="G_Comedy" target="K_chase" weight="49"/>
+      <edge id="376" source="G_Comedy" target="K_explosion" weight="64"/>
+      <edge id="377" source="G_Comedy" target="K_shot to death" weight="34"/>
+      <edge id="378" source="G_Comedy" target="K_murder" weight="81"/>
+      <edge id="379" source="G_Comedy" target="K_violence" weight="71"/>
+      <edge id="380" source="G_Comedy" target="K_blood" weight="73"/>
+      <edge id="381" source="G_Comedy" target="K_fear" weight="47"/>
+      <edge id="382" source="G_Comedy" target="K_revenge" weight="51"/>
+      <edge id="383" source="G_Comedy" target="K_pistol" weight="45"/>
+      <edge id="384" source="G_Comedy" target="K_surprise ending" weight="52"/>
+      <edge id="385" source="G_Biography" target="K_violence" weight="36"/>
+      <edge id="386" source="G_Biography" target="K_one word title" weight="30"/>
+      <edge id="387" source="G_Biography" target="K_female topless nudity" weight="22"/>
+      <edge id="388" source="G_Biography" target="K_explosion" weight="12"/>
+      <edge id="389" source="G_Biography" target="K_female full frontal nudity" weight="26"/>
+      <edge id="390" source="G_Biography" target="K_female rear nudity" weight="26"/>
+      <edge id="391" source="G_Biography" target="K_corpse" weight="13"/>
+      <edge id="392" source="G_Biography" target="K_nudity" weight="29"/>
+      <edge id="393" source="G_Biography" target="K_murder" weight="41"/>
+      <edge id="394" source="G_Biography" target="K_love" weight="27"/>
+      <edge id="395" source="G_Biography" target="K_death" weight="46"/>
+      <edge id="396" source="G_Biography" target="K_blood" weight="28"/>
+      <edge id="397" source="G_Biography" target="K_female protagonist" weight="26"/>
+      <edge id="398" source="G_Biography" target="K_male nudity" weight="31"/>
+      <edge id="399" source="G_Fantasy" target="K_violence" weight="44"/>
+      <edge id="400" source="G_Fantasy" target="K_explosion" weight="40"/>
+      <edge id="401" source="G_Fantasy" target="K_female full frontal nudity" weight="20"/>
+      <edge id="402" source="G_Fantasy" target="K_female rear nudity" weight="25"/>
+      <edge id="403" source="G_Fantasy" target="K_corpse" weight="34"/>
+      <edge id="404" source="G_Fantasy" target="K_nudity" weight="21"/>
+      <edge id="405" source="G_Fantasy" target="K_love" weight="49"/>
+      <edge id="406" source="G_Fantasy" target="K_death" weight="57"/>
+      <edge id="407" source="G_Fantasy" target="K_female protagonist" weight="43"/>
+      <edge id="408" source="G_Fantasy" target="K_male nudity" weight="19"/>
+      <edge id="409" source="G_History" target="K_one word title" weight="28"/>
+      <edge id="410" source="G_History" target="K_explosion" weight="19"/>
+      <edge id="411" source="G_History" target="K_corpse" weight="22"/>
+      <edge id="412" source="G_History" target="K_nudity" weight="25"/>
+      <edge id="413" source="G_History" target="K_female protagonist" weight="13"/>
+      <edge id="414" source="G_History" target="K_male nudity" weight="31"/>
+      <edge id="415" source="G_Mystery" target="K_london england" weight="50"/>
+      <edge id="416" source="G_Mystery" target="K_dog" weight="52"/>
+      <edge id="417" source="G_Mystery" target="K_corpse" weight="74"/>
+      <edge id="418" source="G_Mystery" target="K_blood" weight="114"/>
+      <edge id="419" source="G_Mystery" target="K_female nudity" weight="110"/>
+      <edge id="420" source="G_Mystery" target="K_female protagonist" weight="53"/>
+      <edge id="421" source="G_Mystery" target="K_telephone call" weight="72"/>
+      <edge id="422" source="G_Mystery" target="K_nudity" weight="51"/>
+      <edge id="423" source="G_Mystery" target="K_title spoken by character" weight="51"/>
+      <edge id="424" source="G_Mystery" target="K_psychotronic film" weight="86"/>
+      <edge id="425" source="G_Mystery" target="K_murder" weight="168"/>
+      <edge id="426" source="G_Mystery" target="K_female topless nudity" weight="60"/>
+      <edge id="427" source="G_Mystery" target="K_cigarette smoking" weight="80"/>
+      <edge id="428" source="G_Thriller" target="K_nudity" weight="95"/>
+      <edge id="429" source="G_Action" target="K_flashback" weight="101"/>
+      <edge id="430" source="G_Action" target="K_title spoken by character" weight="84"/>
+      <edge id="431" source="G_Adventure" target="K_explosion" weight="103"/>
+      <edge id="432" source="G_Adventure" target="K_photograph" weight="48"/>
+      <edge id="433" source="G_Adventure" target="K_flashback" weight="84"/>
+      <edge id="434" source="G_Adventure" target="K_gun" weight="51"/>
+      <edge id="435" source="G_Adventure" target="K_title spoken by character" weight="75"/>
+      <edge id="436" source="G_Fantasy" target="K_pistol" weight="20"/>
+      <edge id="437" source="G_Fantasy" target="K_escape" weight="36"/>
+      <edge id="438" source="G_Fantasy" target="K_photograph" weight="29"/>
+      <edge id="439" source="G_Fantasy" target="K_flashback" weight="62"/>
+      <edge id="440" source="G_Fantasy" target="K_knife" weight="33"/>
+      <edge id="441" source="G_Fantasy" target="K_fight" weight="32"/>
+      <edge id="442" source="G_Fantasy" target="K_shot to death" weight="18"/>
+      <edge id="443" source="G_Fantasy" target="K_chase" weight="40"/>
+      <edge id="444" source="G_Fantasy" target="K_hospital" weight="15"/>
+      <edge id="445" source="G_Fantasy" target="K_fear" weight="37"/>
+      <edge id="446" source="G_Fantasy" target="K_gun" weight="26"/>
+      <edge id="447" source="G_Fantasy" target="K_independent film" weight="42"/>
+      <edge id="448" source="G_Fantasy" target="K_title spoken by character" weight="48"/>
+      <edge id="449" source="G_Fantasy" target="K_surprise ending" weight="29"/>
+      <edge id="450" source="G_Sci-Fi" target="K_photograph" weight="19"/>
+      <edge id="451" source="G_Sci-Fi" target="K_flashback" weight="42"/>
+      <edge id="452" source="G_Sci-Fi" target="K_fight" weight="31"/>
+      <edge id="453" source="G_Sci-Fi" target="K_gun" weight="32"/>
+      <edge id="454" source="G_Sci-Fi" target="K_title spoken by character" weight="35"/>
+      <edge id="455" source="G_History" target="K_dog" weight="26"/>
+      <edge id="458" source="G_Biography" target="K_escape" weight="19"/>
+      <edge id="459" source="G_Biography" target="K_independent film" weight="16"/>
+      <edge id="460" source="G_Biography" target="K_husband wife relationship" weight="74"/>
+      <edge id="461" source="G_War" target="K_husband wife relationship" weight="48"/>
+      <edge id="462" source="G_Drama" target="K_flashback" weight="288"/>
+      <edge id="463" source="G_Mystery" target="K_kiss" weight="68"/>
+      <edge id="464" source="G_Mystery" target="K_mother daughter relationship" weight="45"/>
+      <edge id="465" source="G_Mystery" target="K_sex scene" weight="53"/>
+      <edge id="466" source="G_Mystery" target="K_male nudity" weight="47"/>
+      <edge id="467" source="G_Mystery" target="K_flashback" weight="105"/>
+      <edge id="468" source="G_Mystery" target="K_hospital" weight="65"/>
+      <edge id="469" source="G_Mystery" target="K_friendship" weight="58"/>
+      <edge id="470" source="G_Mystery" target="K_dancing" weight="33"/>
+      <edge id="471" source="G_Mystery" target="K_knife" weight="57"/>
+      <edge id="472" source="G_Mystery" target="K_photograph" weight="69"/>
+      <edge id="473" source="G_Mystery" target="K_mother son relationship" weight="51"/>
+      <edge id="474" source="G_Thriller" target="K_sex scene" weight="111"/>
+      <edge id="475" source="G_Thriller" target="K_flashback" weight="209"/>
+      <edge id="476" source="G_Thriller" target="K_mother son relationship" weight="94"/>
+      <edge id="477" source="G_Drama" target="K_female frontal nudity" weight="189"/>
+      <edge id="478" source="G_Action" target="K_one word title" weight="70"/>
+      <edge id="479" source="G_Action" target="K_mother son relationship" weight="33"/>
+      <edge id="480" source="G_Adventure" target="K_one word title" weight="45"/>
+      <edge id="481" source="G_Adventure" target="K_mother son relationship" weight="52"/>
+      <edge id="482" source="G_Horror" target="K_mother son relationship" weight="51"/>
+      <edge id="483" source="G_Horror" target="K_title spoken by character" weight="57"/>
+      <edge id="484" source="G_Sci-Fi" target="K_one word title" weight="30"/>
+      <edge id="485" source="G_Sci-Fi" target="K_mother son relationship" weight="15"/>
+      <edge id="486" source="G_Action" target="K_cult film" weight="64"/>
+      <edge id="487" source="G_Adventure" target="K_kiss" weight="56"/>
+      <edge id="488" source="G_Sci-Fi" target="K_cult film" weight="40"/>
+      <edge id="489" source="G_Action" target="K_nudity" weight="25"/>
+      <edge id="490" source="G_Action" target="K_male nudity" weight="23"/>
+      <edge id="491" source="G_Crime" target="K_female full frontal nudity" weight="50"/>
+      <edge id="492" source="G_Crime" target="K_nudity" weight="46"/>
+      <edge id="493" source="G_Crime" target="K_female rear nudity" weight="64"/>
+      <edge id="494" source="G_Thriller" target="K_female full frontal nudity" weight="90"/>
+      <edge id="495" source="G_Thriller" target="K_female rear nudity" weight="123"/>
+      <edge id="496" source="G_Horror" target="K_photograph" weight="72"/>
+      <edge id="497" source="G_Adventure" target="K_police" weight="25"/>
+      <edge id="498" source="G_Adventure" target="K_telephone call" weight="20"/>
+      <edge id="499" source="G_Adventure" target="K_husband wife relationship" weight="64"/>
+      <edge id="500" source="G_Romance" target="K_pistol" weight="19"/>
+      <edge id="501" source="G_Romance" target="K_independent film" weight="68"/>
+      <edge id="502" source="G_Comedy" target="K_female protagonist" weight="74"/>
+      <edge id="503" source="G_Mystery" target="K_husband wife relationship" weight="82"/>
+      <edge id="504" source="G_Mystery" target="K_based on novel" weight="77"/>
+      <edge id="505" source="G_Mystery" target="K_independent film" weight="73"/>
+      <edge id="506" source="G_Crime" target="K_female frontal nudity" weight="50"/>
+      <edge id="507" source="G_Mystery" target="K_female frontal nudity" weight="57"/>
+      <edge id="508" source="G_Mystery" target="K_gun" weight="58"/>
+      <edge id="509" source="G_Mystery" target="K_violence" weight="92"/>
+      <edge id="510" source="G_Mystery" target="K_chase" weight="63"/>
+      <edge id="511" source="G_Mystery" target="K_death" weight="113"/>
+      <edge id="512" source="G_Mystery" target="K_shot to death" weight="52"/>
+      <edge id="513" source="G_Mystery" target="K_escape" weight="42"/>
+      <edge id="514" source="G_Mystery" target="K_pistol" weight="46"/>
+      <edge id="515" source="G_Mystery" target="K_explosion" weight="32"/>
+      <edge id="516" source="G_Mystery" target="K_fear" weight="72"/>
+      <edge id="517" source="G_Mystery" target="K_surprise ending" weight="83"/>
+      <edge id="518" source="G_Thriller" target="K_female frontal nudity" weight="112"/>
+      <edge id="519" source="G_Horror" target="K_flashback" weight="108"/>
+      <edge id="520" source="G_Action" target="K_female frontal nudity" weight="33"/>
+      <edge id="521" source="G_Action" target="K_husband wife relationship" weight="44"/>
+      <edge id="522" source="G_Action" target="K_father son relationship" weight="50"/>
+      <edge id="523" source="G_Action" target="K_family relationships" weight="17"/>
+      <edge id="524" source="G_Adventure" target="K_female full frontal nudity" weight="20"/>
+      <edge id="525" source="G_Adventure" target="K_female nudity" weight="49"/>
+      <edge id="526" source="G_Adventure" target="K_female rear nudity" weight="36"/>
+      <edge id="527" source="G_Adventure" target="K_female frontal nudity" weight="26"/>
+      <edge id="528" source="G_Adventure" target="K_revenge" weight="67"/>
+      <edge id="529" source="G_Adventure" target="K_father daughter relationship" weight="61"/>
+      <edge id="530" source="G_Adventure" target="K_father son relationship" weight="57"/>
+      <edge id="531" source="G_Adventure" target="K_family relationships" weight="36"/>
+      <edge id="532" source="G_Adventure" target="K_cigarette smoking" weight="42"/>
+      <edge id="533" source="G_Crime" target="K_father son relationship" weight="68"/>
+      <edge id="534" source="G_Crime" target="K_flashback" weight="104"/>
+      <edge id="535" source="G_Mystery" target="K_female full frontal nudity" weight="52"/>
+      <edge id="536" source="G_Mystery" target="K_female rear nudity" weight="68"/>
+      <edge id="537" source="G_Mystery" target="K_revenge" weight="60"/>
+      <edge id="538" source="G_Mystery" target="K_fight" weight="35"/>
+      <edge id="539" source="G_Mystery" target="K_father daughter relationship" weight="65"/>
+      <edge id="540" source="G_Mystery" target="K_father son relationship" weight="45"/>
+      <edge id="541" source="G_Mystery" target="K_family relationships" weight="38"/>
+      <edge id="542" source="G_Thriller" target="K_father son relationship" weight="111"/>
+      <edge id="543" source="G_Family" target="K_psychotronic film" weight="23"/>
+      <edge id="544" source="G_Family" target="K_cult film" weight="25"/>
+      <edge id="545" source="G_Fantasy" target="K_cult film" weight="53"/>
+      <edge id="546" source="G_Horror" target="K_gun" weight="62"/>
+      <edge id="547" source="G_Horror" target="K_cigarette smoking" weight="79"/>
+      <edge id="548" source="G_Adventure" target="K_bare chested male" weight="48"/>
+      <edge id="549" source="G_Comedy" target="K_escape" weight="57"/>
+      <edge id="550" source="G_Comedy" target="K_knife" weight="40"/>
+      <edge id="551" source="G_War" target="K_shot to death" weight="34"/>
+      <edge id="552" source="G_War" target="K_fear" weight="27"/>
+      <edge id="553" source="G_War" target="K_chase" weight="23"/>
+      <edge id="554" source="G_War" target="K_pistol" weight="32"/>
+      <edge id="555" source="G_War" target="K_explosion" weight="52"/>
+      <edge id="556" source="G_War" target="K_death" weight="54"/>
+      <edge id="557" source="G_War" target="K_knife" weight="17"/>
+      <edge id="558" source="G_War" target="K_father son relationship" weight="42"/>
+      <edge id="559" source="G_War" target="K_photograph" weight="34"/>
+      <edge id="560" source="G_War" target="K_title spoken by character" weight="40"/>
+      <edge id="561" source="G_War" target="K_bare chested male" weight="20"/>
+      <edge id="562" source="G_Adventure" target="K_male nudity" weight="16"/>
+      <edge id="563" source="G_Adventure" target="K_female topless nudity" weight="16"/>
+      <edge id="564" source="G_Horror" target="K_friendship" weight="45"/>
+      <edge id="565" source="G_Mystery" target="K_cult film" weight="51"/>
+      <edge id="566" source="G_Biography" target="K_telephone call" weight="33"/>
+      <edge id="567" source="G_Biography" target="K_police" weight="13"/>
+      <edge id="568" source="G_Biography" target="K_mother son relationship" weight="37"/>
+      <edge id="569" source="G_Biography" target="K_gun" weight="19"/>
+      <edge id="570" source="G_Biography" target="K_friendship" weight="34"/>
+      <edge id="571" source="G_Biography" target="K_father son relationship" weight="43"/>
+      <edge id="572" source="G_Biography" target="K_family relationships" weight="24"/>
+      <edge id="573" source="G_Biography" target="K_cigarette smoking" weight="37"/>
+      <edge id="574" source="G_Biography" target="K_mother daughter relationship" weight="34"/>
+      <edge id="575" source="G_Biography" target="K_father daughter relationship" weight="40"/>
+      <edge id="576" source="G_Biography" target="K_pistol" weight="13"/>
+      <edge id="577" source="G_History" target="K_telephone call" weight="19"/>
+      <edge id="578" source="G_History" target="K_police" weight="10"/>
+      <edge id="579" source="G_History" target="K_mother son relationship" weight="34"/>
+      <edge id="580" source="G_History" target="K_gun" weight="15"/>
+      <edge id="581" source="G_History" target="K_father son relationship" weight="42"/>
+      <edge id="582" source="G_History" target="K_family relationships" weight="20"/>
+      <edge id="583" source="G_History" target="K_cigarette smoking" weight="26"/>
+      <edge id="584" source="G_History" target="K_mother daughter relationship" weight="20"/>
+      <edge id="585" source="G_History" target="K_father daughter relationship" weight="34"/>
+      <edge id="586" source="G_History" target="K_pistol" weight="18"/>
+      <edge id="587" source="G_War" target="K_female protagonist" weight="13"/>
+      <edge id="588" source="G_War" target="K_telephone call" weight="25"/>
+      <edge id="589" source="G_War" target="K_mother son relationship" weight="28"/>
+      <edge id="590" source="G_War" target="K_love" weight="22"/>
+      <edge id="591" source="G_War" target="K_gun" weight="29"/>
+      <edge id="592" source="G_War" target="K_friendship" weight="33"/>
+      <edge id="593" source="G_War" target="K_family relationships" weight="23"/>
+      <edge id="594" source="G_War" target="K_blood" weight="48"/>
+      <edge id="595" source="G_War" target="K_mother daughter relationship" weight="31"/>
+      <edge id="596" source="G_War" target="K_father daughter relationship" weight="35"/>
+      <edge id="597" source="G_Sci-Fi" target="K_male nudity" weight="20"/>
+      <edge id="598" source="G_Sci-Fi" target="K_female topless nudity" weight="28"/>
+      <edge id="599" source="G_Sci-Fi" target="K_cigarette smoking" weight="31"/>
+      <edge id="600" source="G_Sci-Fi" target="K_friendship" weight="13"/>
+      <edge id="601" source="G_Sci-Fi" target="K_nudity" weight="24"/>
+      <edge id="602" source="G_Music" target="K_mother son relationship" weight="14"/>
+      <edge id="603" source="G_Music" target="K_love" weight="18"/>
+      <edge id="604" source="G_Music" target="K_father son relationship" weight="13"/>
+      <edge id="605" source="G_Music" target="K_kiss" weight="17"/>
+      <edge id="606" source="G_Music" target="K_bare chested male" weight="9"/>
+      <edge id="607" source="G_Sci-Fi" target="K_love" weight="19"/>
+      <edge id="608" source="G_Sci-Fi" target="K_father son relationship" weight="19"/>
+      <edge id="609" source="G_Sci-Fi" target="K_bare chested male" weight="25"/>
+      <edge id="610" source="G_Fantasy" target="K_father son relationship" weight="39"/>
+      <edge id="611" source="G_Fantasy" target="K_mother son relationship" weight="43"/>
+      <edge id="612" source="G_Fantasy" target="K_family relationships" weight="29"/>
+      <edge id="613" source="G_Fantasy" target="K_police" weight="17"/>
+      <edge id="614" source="G_Horror" target="K_father son relationship" weight="46"/>
+      <edge id="615" source="G_Horror" target="K_family relationships" weight="44"/>
+      <edge id="616" source="G_Horror" target="K_police" weight="62"/>
+      <edge id="617" source="G_Romance" target="K_female frontal nudity" weight="69"/>
+      <edge id="618" source="G_Romance" target="K_sex scene" weight="101"/>
+      <edge id="619" source="G_Romance" target="K_female rear nudity" weight="89"/>
+      <edge id="620" source="G_Romance" target="K_female full frontal nudity" weight="73"/>
+      <edge id="621" source="G_Adventure" target="K_nudity" weight="22"/>
+      <edge id="622" source="G_Adventure" target="K_sex scene" weight="22"/>
+      <edge id="623" source="G_Biography" target="K_chase" weight="8"/>
+      <edge id="624" source="G_Biography" target="K_cult film" weight="10"/>
+      <edge id="625" source="G_Biography" target="K_based on novel" weight="12"/>
+      <edge id="626" source="G_Biography" target="K_sex scene" weight="26"/>
+      <edge id="627" source="G_Biography" target="K_knife" weight="13"/>
+      <edge id="628" source="G_History" target="K_husband wife relationship" weight="57"/>
+      <edge id="629" source="G_History" target="K_chase" weight="10"/>
+      <edge id="630" source="G_History" target="K_knife" weight="9"/>
+      <edge id="631" source="G_History" target="K_shot to death" weight="22"/>
+      <edge id="632" source="G_Comedy" target="K_sex scene" weight="60"/>
+      <edge id="633" source="G_Romance" target="K_chase" weight="30"/>
+      <edge id="634" source="G_Romance" target="K_dog" weight="81"/>
+      <edge id="635" source="G_Romance" target="K_flashback" weight="99"/>
+      <edge id="636" source="G_History" target="K_female frontal nudity" weight="19"/>
+      <edge id="637" source="G_History" target="K_female nudity" weight="37"/>
+      <edge id="638" source="G_History" target="K_title spoken by character" weight="36"/>
+      <edge id="639" source="G_Comedy" target="K_female nudity" weight="115"/>
+      <edge id="640" source="G_Western" target="K_female rear nudity" weight="8"/>
+      <edge id="643" source="G_Western" target="K_father daughter relationship" weight="10"/>
+      <edge id="644" source="G_Western" target="K_dog" weight="8"/>
+      <edge id="645" source="G_Western" target="K_fight" weight="6"/>
+      <edge id="646" source="G_Western" target="K_photograph" weight="6"/>
+      <edge id="647" source="G_Western" target="K_knife" weight="12"/>
+      <edge id="649" source="G_Western" target="K_female nudity" weight="13"/>
+      <edge id="650" source="G_Western" target="K_flashback" weight="14"/>
+      <edge id="651" source="G_Western" target="K_husband wife relationship" weight="8"/>
+      <edge id="652" source="G_Western" target="K_death" weight="14"/>
+      <edge id="653" source="G_Western" target="K_murder" weight="19"/>
+      <edge id="654" source="G_Western" target="K_gun" weight="12"/>
+      <edge id="655" source="G_Western" target="K_cigarette smoking" weight="12"/>
+      <edge id="656" source="G_Western" target="K_blood" weight="15"/>
+      <edge id="657" source="G_Western" target="K_violence" weight="18"/>
+      <edge id="658" source="G_Comedy" target="K_father daughter relationship" weight="97"/>
+      <edge id="659" source="G_Fantasy" target="K_dancing" weight="31"/>
+      <edge id="660" source="G_Horror" target="K_dancing" weight="29"/>
+      <edge id="661" source="G_Horror" target="K_love" weight="28"/>
+      <edge id="662" source="G_Biography" target="K_bare chested male" weight="26"/>
+      <edge id="663" source="G_History" target="K_bare chested male" weight="26"/>
+      <edge id="665" source="G_Comedy" target="K_female topless nudity" weight="57"/>
+      <edge id="666" source="G_Comedy" target="K_female rear nudity" weight="67"/>
+      <edge id="667" source="G_Comedy" target="K_female frontal nudity" weight="35"/>
+      <edge id="668" source="G_Comedy" target="K_female full frontal nudity" weight="32"/>
+      <edge id="669" source="G_Adventure" target="K_dancing" weight="38"/>
+      <edge id="670" source="G_Adventure" target="K_mother daughter relationship" weight="32"/>
+      <edge id="671" source="G_Romance" target="K_escape" weight="27"/>
+      <edge id="672" source="G_Romance" target="K_corpse" weight="26"/>
+      <edge id="673" source="G_War" target="K_sex scene" weight="13"/>
+      <edge id="674" source="G_War" target="K_one word title" weight="26"/>
+      <edge id="675" source="G_War" target="K_dancing" weight="23"/>
+      <edge id="676" source="G_War" target="K_fight" weight="27"/>
+      <edge id="677" source="G_War" target="K_kiss" weight="34"/>
+      <edge id="678" source="G_War" target="K_flashback" weight="30"/>
+      <edge id="681" source="G_Western" target="K_pistol" weight="14"/>
+      <edge id="682" source="G_Western" target="K_escape" weight="7"/>
+      <edge id="683" source="G_Western" target="K_friendship" weight="7"/>
+      <edge id="684" source="G_Western" target="K_corpse" weight="8"/>
+      <edge id="686" source="G_Western" target="K_chase" weight="7"/>
+      <edge id="688" source="G_Western" target="K_kiss" weight="6"/>
+      <edge id="690" source="G_Western" target="K_explosion" weight="8"/>
+      <edge id="692" source="G_Action" target="K_mother daughter relationship" weight="22"/>
+      <edge id="693" source="G_Sci-Fi" target="K_female rear nudity" weight="20"/>
+      <edge id="694" source="G_Sci-Fi" target="K_female full frontal nudity" weight="19"/>
+      <edge id="695" source="G_War" target="K_female nudity" weight="29"/>
+      <edge id="696" source="G_War" target="K_female rear nudity" weight="15"/>
+      <edge id="697" source="G_War" target="K_male nudity" weight="13"/>
+      <edge id="699" source="G_War" target="K_female full frontal nudity" weight="11"/>
+      <edge id="700" source="G_War" target="K_female topless nudity" weight="12"/>
+      <edge id="701" source="G_War" target="K_revenge" weight="19"/>
+      <edge id="702" source="G_Romance" target="K_nudity" weight="67"/>
+      <edge id="703" source="G_Musical" target="K_female protagonist" weight="13"/>
+      <edge id="704" source="G_Musical" target="K_father daughter relationship" weight="9"/>
+      <edge id="705" source="G_Musical" target="K_kiss" weight="12"/>
+      <edge id="707" source="G_Musical" target="K_dancing" weight="14"/>
+      <edge id="708" source="G_Musical" target="K_independent film" weight="16"/>
+      <edge id="709" source="G_Family" target="K_based on novel" weight="51"/>
+      <edge id="710" source="G_Family" target="K_father son relationship" weight="28"/>
+      <edge id="711" source="G_Family" target="K_mother son relationship" weight="33"/>
+      <edge id="713" source="G_Family" target="K_mother daughter relationship" weight="26"/>
+      <edge id="714" source="G_Family" target="K_father daughter relationship" weight="29"/>
+      <edge id="715" source="G_Family" target="K_blood" weight="9"/>
+      <edge id="716" source="G_Family" target="K_flashback" weight="31"/>
+      <edge id="717" source="G_Family" target="K_fear" weight="18"/>
+      <edge id="718" source="G_Family" target="K_photograph" weight="14"/>
+      <edge id="720" source="G_Family" target="K_chase" weight="18"/>
+      <edge id="723" source="G_Music" target="K_telephone call" weight="17"/>
+      <edge id="724" source="G_Music" target="K_cigarette smoking" weight="17"/>
+      <edge id="725" source="G_Biography" target="K_female nudity" weight="48"/>
+      <edge id="726" source="G_Biography" target="K_flashback" weight="46"/>
+      <edge id="727" source="G_Biography" target="K_title spoken by character" weight="37"/>
+      <edge id="728" source="G_Comedy" target="K_gun" weight="50"/>
+      <edge id="729" source="G_Family" target="K_friendship" weight="36"/>
+      <edge id="730" source="G_Family" target="K_murder" weight="13"/>
+      <edge id="731" source="G_Mystery" target="K_bare chested male" weight="40"/>
+      <edge id="732" source="G_Action" target="K_dancing" weight="32"/>
+      <edge id="733" source="G_Fantasy" target="K_telephone call" weight="11"/>
+      <edge id="734" source="G_Mystery" target="K_love" weight="32"/>
+      <edge id="735" source="G_Mystery" target="K_one word title" weight="47"/>
+      <edge id="736" source="G_Fantasy" target="K_kiss" weight="49"/>
+      <edge id="737" source="G_Fantasy" target="K_based on novel" weight="67"/>
+      <edge id="738" source="G_Biography" target="K_hospital" weight="25"/>
+      <edge id="739" source="G_History" target="K_hospital" weight="13"/>
+      <edge id="740" source="G_History" target="K_flashback" weight="32"/>
+      <edge id="741" source="G_Musical" target="K_london england" weight="9"/>
+      <edge id="742" source="G_Musical" target="K_cult film" weight="13"/>
+      <edge id="743" source="G_Romance" target="K_surprise ending" weight="23"/>
+      <edge id="744" source="G_Animation" target="K_mother daughter relationship" weight="12"/>
+      <edge id="745" source="G_Animation" target="K_family relationships" weight="9"/>
+      <edge id="746" source="G_Animation" target="K_father daughter relationship" weight="11"/>
+      <edge id="747" source="G_Animation" target="K_husband wife relationship" weight="7"/>
+      <edge id="748" source="G_Animation" target="K_female protagonist" weight="17"/>
+      <edge id="749" source="G_Animation" target="K_revenge" weight="12"/>
+      <edge id="750" source="G_Animation" target="K_title spoken by character" weight="16"/>
+      <edge id="751" source="G_Animation" target="K_escape" weight="10"/>
+      <edge id="752" source="G_Animation" target="K_flashback" weight="12"/>
+      <edge id="753" source="G_Family" target="K_family relationships" weight="29"/>
+      <edge id="754" source="G_Family" target="K_husband wife relationship" weight="27"/>
+      <edge id="755" source="G_Family" target="K_female protagonist" weight="30"/>
+      <edge id="756" source="G_Family" target="K_revenge" weight="19"/>
+      <edge id="757" source="G_Family" target="K_title spoken by character" weight="30"/>
+      <edge id="758" source="G_Family" target="K_escape" weight="19"/>
+      <edge id="759" source="G_Fantasy" target="K_bare chested male" weight="30"/>
+      <edge id="760" source="G_Fantasy" target="K_friendship" weight="48"/>
+      <edge id="761" source="G_Mystery" target="K_police" weight="68"/>
+      <edge id="762" source="G_Action" target="K_telephone call" weight="32"/>
+      <edge id="763" source="G_Sci-Fi" target="K_telephone call" weight="18"/>
+      <edge id="764" source="G_Sci-Fi" target="K_mother daughter relationship" weight="12"/>
+      <edge id="765" source="G_Sci-Fi" target="K_police" weight="24"/>
+      <edge id="766" source="G_Family" target="K_surprise ending" weight="10"/>
+      <edge id="767" source="G_Musical" target="K_based on novel" weight="17"/>
+      <edge id="768" source="G_Musical" target="K_flashback" weight="6"/>
+      <edge id="769" source="G_Musical" target="K_friendship" weight="10"/>
+      <edge id="770" source="G_Family" target="K_bare chested male" weight="7"/>
+      <edge id="771" source="G_Family" target="K_dancing" weight="13"/>
+      <edge id="772" source="G_War" target="K_hospital" weight="18"/>
+      <edge id="773" source="G_Music" target="K_murder" weight="11"/>
+      <edge id="774" source="G_Music" target="K_independent film" weight="13"/>
+      <edge id="776" source="G_Western" target="K_revenge" weight="18"/>
+      <edge id="777" source="G_Western" target="K_shot to death" weight="14"/>
+      <edge id="780" source="G_War" target="K_cult film" weight="13"/>
+      <edge id="781" source="G_War" target="K_female frontal nudity" weight="15"/>
+      <edge id="782" source="G_War" target="K_nudity" weight="12"/>
+      <edge id="783" source="G_Biography" target="K_fear" weight="11"/>
+      <edge id="784" source="G_Biography" target="K_photograph" weight="26"/>
+      <edge id="785" source="G_Biography" target="K_london england" weight="28"/>
+      <edge id="786" source="G_Biography" target="K_kiss" weight="38"/>
+      <edge id="787" source="G_History" target="K_fear" weight="16"/>
+      <edge id="788" source="G_History" target="K_photograph" weight="25"/>
+      <edge id="789" source="G_History" target="K_london england" weight="19"/>
+      <edge id="790" source="G_History" target="K_kiss" weight="31"/>
+      <edge id="791" source="G_Fantasy" target="K_female frontal nudity" weight="19"/>
+      <edge id="792" source="G_Fantasy" target="K_sex scene" weight="17"/>
+      <edge id="793" source="G_Family" target="K_police" weight="6"/>
+      <edge id="794" source="G_Family" target="K_love" weight="19"/>
+      <edge id="795" source="G_Biography" target="K_female frontal nudity" weight="22"/>
+      <edge id="796" source="G_Family" target="K_fight" weight="10"/>
+      <edge id="797" source="G_Family" target="K_london england" weight="24"/>
+      <edge id="798" source="G_Biography" target="K_dog" weight="30"/>
+      <edge id="799" source="G_Biography" target="K_shot to death" weight="12"/>
+      <edge id="800" source="G_History" target="K_escape" weight="22"/>
+      <edge id="801" source="G_Sci-Fi" target="K_dancing" weight="14"/>
+      <edge id="802" source="G_Biography" target="K_revenge" weight="10"/>
+      <edge id="803" source="G_Biography" target="K_fight" weight="18"/>
+      <edge id="804" source="G_Biography" target="K_dancing" weight="36"/>
+      <edge id="805" source="G_Music" target="K_male nudity" weight="10"/>
+      <edge id="806" source="G_Music" target="K_dog" weight="11"/>
+      <edge id="808" source="G_Music" target="K_mother daughter relationship" weight="14"/>
+      <edge id="809" source="G_Music" target="K_father daughter relationship" weight="14"/>
+      <edge id="812" source="G_Music" target="K_fight" weight="9"/>
+      <edge id="813" source="G_Music" target="K_husband wife relationship" weight="18"/>
+      <edge id="814" source="G_Music" target="K_photograph" weight="10"/>
+      <edge id="815" source="G_Music" target="K_dancing" weight="14"/>
+      <edge id="816" source="G_Music" target="K_female nudity" weight="20"/>
+      <edge id="817" source="G_Music" target="K_nudity" weight="11"/>
+      <edge id="818" source="G_Music" target="K_cult film" weight="14"/>
+      <edge id="819" source="G_Music" target="K_london england" weight="11"/>
+      <edge id="820" source="G_Music" target="K_hospital" weight="8"/>
+      <edge id="821" source="G_Family" target="K_explosion" weight="18"/>
+      <edge id="823" source="G_Family" target="K_knife" weight="9"/>
+      <edge id="824" source="G_Family" target="K_violence" weight="7"/>
+      <edge id="825" source="G_Animation" target="K_mother son relationship" weight="8"/>
+      <edge id="826" source="G_Animation" target="K_father son relationship" weight="9"/>
+      <edge id="827" source="G_Animation" target="K_dog" weight="29"/>
+      <edge id="828" source="G_Animation" target="K_love" weight="16"/>
+      <edge id="829" source="G_Animation" target="K_based on novel" weight="20"/>
+      <edge id="830" source="G_Musical" target="K_love" weight="20"/>
+      <edge id="831" source="G_Musical" target="K_psychotronic film" weight="12"/>
+      <edge id="832" source="G_Comedy" target="K_nudity" weight="57"/>
+      <edge id="833" source="G_History" target="K_revenge" weight="14"/>
+      <edge id="834" source="G_History" target="K_dancing" weight="30"/>
+      <edge id="835" source="G_Sci-Fi" target="K_father daughter relationship" weight="17"/>
+      <edge id="836" source="G_History" target="K_surprise ending" weight="6"/>
+      <edge id="837" source="G_Family" target="K_independent film" weight="18"/>
+      <edge id="840" source="G_Music" target="K_female topless nudity" weight="9"/>
+      <edge id="841" source="G_Music" target="K_friendship" weight="16"/>
+      <edge id="845" source="G_Music" target="K_explosion" weight="8"/>
+      <edge id="846" source="G_Music" target="K_death" weight="14"/>
+      <edge id="847" source="G_Music" target="K_blood" weight="11"/>
+      <edge id="848" source="G_Music" target="K_title spoken by character" weight="10"/>
+      <edge id="850" source="G_Musical" target="K_mother son relationship" weight="10"/>
+      <edge id="851" source="G_Musical" target="K_mother daughter relationship" weight="8"/>
+      <edge id="853" source="G_Musical" target="K_dog" weight="14"/>
+      <edge id="854" source="G_Animation" target="K_one word title" weight="9"/>
+      <edge id="855" source="G_Animation" target="K_independent film" weight="14"/>
+      <edge id="856" source="G_Family" target="K_one word title" weight="14"/>
+      <edge id="857" source="G_Musical" target="K_one word title" weight="11"/>
+      <edge id="867" source="G_Sport" target="K_independent film" weight="6"/>
+      <edge id="868" source="G_Sport" target="K_title spoken by character" weight="10"/>
+      <edge id="869" source="G_Sport" target="K_father son relationship" weight="12"/>
+      <edge id="870" source="G_Sport" target="K_hospital" weight="8"/>
+      <edge id="872" source="G_Sport" target="K_photograph" weight="7"/>
+      <edge id="874" source="G_Sport" target="K_bare chested male" weight="12"/>
+      <edge id="875" source="G_Family" target="K_kiss" weight="16"/>
+      <edge id="879" source="G_Animation" target="K_london england" weight="8"/>
+      <edge id="880" source="G_Animation" target="K_kiss" weight="8"/>
+      <edge id="883" source="G_Animation" target="K_cult film" weight="12"/>
+      <edge id="884" source="G_Documentary" target="K_title spoken by character" weight="6"/>
+      <edge id="886" source="G_Animation" target="K_female nudity" weight="7"/>
+      <edge id="889" source="G_Family" target="K_female nudity" weight="6"/>
+      <edge id="892" source="G_Sport" target="K_male nudity" weight="11"/>
+      <edge id="894" source="G_Music" target="K_flashback" weight="14"/>
+      <edge id="895" source="G_Music" target="K_escape" weight="6"/>
+      <edge id="896" source="G_Sci-Fi" target="K_sex scene" weight="19"/>
+      <edge id="897" source="G_Music" target="K_family relationships" weight="6"/>
+      <edge id="898" source="G_Music" target="K_female protagonist" weight="14"/>
+      <edge id="899" source="G_Music" target="K_one word title" weight="15"/>
+      <edge id="900" source="G_Music" target="K_sex scene" weight="9"/>
+      <edge id="901" source="G_Animation" target="K_friendship" weight="11"/>
+      <edge id="903" source="G_Animation" target="K_fight" weight="8"/>
+      <edge id="904" source="G_Musical" target="K_revenge" weight="8"/>
+      <edge id="905" source="G_Musical" target="K_title spoken by character" weight="18"/>
+      <edge id="907" source="G_Musical" target="K_family relationships" weight="9"/>
+      <edge id="920" source="G_Western" target="K_independent film" weight="8"/>
+      <edge id="922" source="G_Animation" target="K_explosion" weight="6"/>
+      <edge id="923" source="G_Music" target="K_female full frontal nudity" weight="11"/>
+      <edge id="924" source="G_Music" target="K_based on novel" weight="9"/>
+      <edge id="925" source="G_Music" target="K_female rear nudity" weight="9"/>
+      <edge id="927" source="G_Family" target="K_death" weight="12"/>
+      <edge id="936" source="G_Musical" target="K_husband wife relationship" weight="7"/>
+      <edge id="938" source="G_Sport" target="K_kiss" weight="9"/>
+      <edge id="939" source="G_Sport" target="K_flashback" weight="8"/>
+      <edge id="942" source="G_Sport" target="K_cigarette smoking" weight="9"/>
+      <edge id="953" source="G_Musical" target="K_murder" weight="6"/>
+      <edge id="954" source="G_Sport" target="K_husband wife relationship" weight="7"/>
+      <edge id="956" source="G_Sport" target="K_dancing" weight="7"/>
+      <edge id="958" source="G_Music" target="K_police" weight="9"/>
+      <edge id="968" source="G_Sport" target="K_father daughter relationship" weight="6"/>
+      <edge id="969" source="G_Sport" target="K_mother son relationship" weight="8"/>
+      <edge id="970" source="G_Sport" target="K_family relationships" weight="7"/>
+      <edge id="973" source="G_Animation" target="K_violence" weight="6"/>
+      <edge id="976" source="G_Animation" target="K_chase" weight="6"/>
+      <edge id="998" source="G_Animation" target="K_fear" weight="8"/>
+      <edge id="1001" source="G_Music" target="K_female frontal nudity" weight="8"/>
+      <edge id="1006" source="G_Sport" target="K_london england" weight="7"/>
+      <edge id="1027" source="G_Animation" target="K_death" weight="6"/>
+      <edge id="1039" source="G_Animation" target="K_dancing" weight="7"/>
+    </edges>
+  </graph>
+</gexf>
