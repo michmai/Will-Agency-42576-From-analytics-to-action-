@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 ########## ---------- Load data ---------- ##########
 # Specify path
-data_path = "../data/European_data_2000.csv"
+data_path = "/Users/michellemai/Documents/GitHub/Will-Agency-42576-From-analytics-to-action-/Data/European_data_2000.csv"
 
 df = pd.read_csv(
     data_path,
