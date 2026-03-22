@@ -30,7 +30,7 @@ franchises = df[df["franchise_cluster"] != -1]
 print("Movies in franchises:", len(franchises))
 print("Number of franchises:", franchises["franchise_cluster"].nunique())
 
-for cluster_id in sorted(df["franchise_cluster"].unique()):
+for cluster_id in sorted(df["franchise_cluster"].unique())[:10]:
 
     if cluster_id == -1:
         continue
