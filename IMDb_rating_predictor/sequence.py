@@ -35,16 +35,16 @@ for cluster_id in sorted(df["franchise_cluster"].unique())[:10]:
     if cluster_id == -1:
         continue
 
-    print("\nFranchise", cluster_id)
+    #print("\nFranchise", cluster_id)
 
     movies = df[df["franchise_cluster"] == cluster_id]["originalTitle"]
 
-    for movie in movies:
-        print(movie)
+    #for movie in movies:
+    #    print(movie)
 
 sequel_counts = df[df["franchise_cluster"] != -1]
 
-print("Movies that belong to franchises:", len(sequel_counts))
+#print("Movies that belong to franchises:", len(sequel_counts))
 
 # ---------------------------------------------------
 # 1. Prepare franchise data
