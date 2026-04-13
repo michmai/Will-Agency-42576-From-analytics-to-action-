@@ -14,7 +14,7 @@ from scipy.sparse import hstack
 # 1. Load Dataset
 # ---------------------------------------------------
 
-df = pd.read_csv("/Users/michellemai/Documents/GitHub/Will-Agency-42576-From-analytics-to-action-/Data/European_data_2000.csv")
+df = pd.read_csv("/Users/michellemai/Documents/GitHub/Will-Agency-42576-From-analytics-to-action-/Data/Movie_50k.csv")
 
 print("Dataset shape:", df.shape)
 print("\nColumns:")

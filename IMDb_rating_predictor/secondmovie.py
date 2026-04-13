@@ -9,7 +9,7 @@ from itertools import combinations
 # LOAD DATA
 # =========================
 root = Path(__file__).resolve().parents[1]
-df = pd.read_csv(root / "Data" / "European_data_2000.csv")
+df = pd.read_csv(root / "Data" / "Movie_50k.csv")
 
 # Optional: keep only movies if titleType exists
 if "titleType" in df.columns:

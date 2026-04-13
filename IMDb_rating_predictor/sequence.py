@@ -1,7 +1,7 @@
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 
-df = pd.read_csv("Data/European_data_2000.csv")
+df = pd.read_csv("Data/Movie_50k.csv")
 
 titles = df["originalTitle"].dropna().tolist()
 
