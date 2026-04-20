@@ -8,7 +8,9 @@ import pycountry
 
 
 ########## ---------- Load data ---------- ##########
-data_path = "../../data/European_data_2000.csv"
+data_path = "../../Data/Movie_50k.csv"
+county_path = r"/home/husted42/Downloads/110m_cultural/ne_110m_admin_0_countries.shp"
+
 
 df = pd.read_csv(
     data_path,
@@ -41,9 +43,7 @@ country_avg["iso3"] = country_avg["iso2"].apply(iso2_to_iso3)
 # -------------------------
 # Load shapefile (CHANGE PATH)
 # -------------------------
-world = gpd.read_file(
-    r"C:\Users\huste\Downloads\110m_cultural\ne_110m_admin_0_countries.shp"
-)
+world = gpd.read_file(county_path)
 
 # Keep Europe only
 europe = world[world["CONTINENT"].str.contains("Europe", na=False)].copy()

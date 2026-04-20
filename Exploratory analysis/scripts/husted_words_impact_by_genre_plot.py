@@ -1,4 +1,4 @@
-data_path = "/home/husted42/Downloads/European_data_2000.csv"
+data_path = "../../Data/Movie_50k.csv"
 
 # load the data
 import pandas as pd

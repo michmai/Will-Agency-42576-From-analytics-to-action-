@@ -3,7 +3,9 @@ from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_selection import chi2
 
-data_path = "/home/husted42/Downloads/European_data_2000.csv"
+data_path = "../../Data/Movie_50k.csv"
+county_path = r"/home/husted42/Downloads/110m_cultural/ne_110m_admin_0_countries.shp"
+
 
 # load the data
 import pandas as pd

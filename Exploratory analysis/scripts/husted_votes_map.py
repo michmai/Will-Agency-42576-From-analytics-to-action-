@@ -8,7 +8,7 @@ import pycountry
 
 
 ########## ---------- Load data ---------- ##########
-data_path = "../../Data/European_data_2000.csv"
+data_path = "../../Data/Movie_50k.csv"
 county_path = r"/home/husted42/Downloads/110m_cultural/ne_110m_admin_0_countries.shp"
 
 df = pd.read_csv(

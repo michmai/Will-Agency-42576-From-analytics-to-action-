@@ -6,7 +6,7 @@ from sklearn.preprocessing import MultiLabelBinarizer
 
 
 ########## ---------- Load data ---------- ##########
-data_path = "../../data/European_data_2000.csv"
+data_path = "../../Data/Movie_50k.csv"
 
 df = pd.read_csv(
     data_path,
