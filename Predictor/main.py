@@ -38,13 +38,13 @@ for fid, group in df.groupby("franchise_id"):
         continue
     
     group_sorted = group.sort_values("releaseYear")
-    last_movie = group_sorted["originalTitle"].iloc[-1]  # ✅ last movie
+    last_movie = group_sorted["originalTitle"].iloc[-1]  
     
     pred = predict_next_movie(df, model, fid)
     
     results.append({
         "franchise_id": fid,
-        "last_movie": last_movie,  # ✅ NEW
+        "last_movie": last_movie, 
         "num_movies": len(group),
         "predicted_rating": pred["predicted_rating"],
         "should_make_movie": pred["should_make_movie"]

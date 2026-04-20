@@ -7,7 +7,7 @@ def build_features(df):
     for fid, group in df.groupby("franchise_id"):
         group = group.sort_values("releaseYear")
         
-        if len(group) < 2:  # ✅ FIXED
+        if len(group) < 2:
             continue
         
         for i in range(1, len(group)):
