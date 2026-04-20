@@ -1,0 +1,1912 @@
+franchise_id,last_movie,num_movies,predicted_rating,should_make_movie
+2,Kato apo to makigiaz sou,2,4.353965010724574,False
+21,Le Départ de la 2ème étape Ambérieu-en-Bugey-Saint-Vulbas du Tour de l'Ain 2017 (Carnet Filmé: 10 août 2017),6,5.0620000000000065,False
+25,Crossfire,2,5.1066666666666745,False
+56,GENESIS,3,5.1066666666666745,False
+64,Montecarlo,2,5.0620000000000065,False
+92,Johnny Was,3,6.153000000000002,False
+93,Come Back,2,5.103000000000007,False
+126,The Divide,2,6.584833144614907,True
+132,Padre no hay más que uno 5,2,5.1066666666666745,False
+133,I Remember When I Die,2,6.39093238406473,False
+162,Contre vents et marées,2,5.0620000000000065,False
+198,Torrente 3: El protector,2,5.956655913978497,False
+207,Holger & Hanna,2,5.612593799751419,False
+213,Swansong,2,7.527290476190467,True
+221,Die Verschleierte,2,5.0620000000000065,False
+227,The Princess and the Goblin,2,5.1066666666666745,False
+241,Rendel: Cycle of Revenge,2,4.5150216853408045,False
+254,The White Crow,2,6.408080129588684,False
+267,Fata Morgana,3,5.524,False
+273,Sans Rancune,2,5.103000000000007,False
+305,Out of the Fog,2,5.572999999999996,False
+307,Totem,3,5.1066666666666745,False
+315,Orlando,2,5.561645013259408,False
+329,Underverden II,2,6.38095509406873,False
+334,50 Gründe Andalusien zu lieben,2,5.103000000000007,False
+341,Eva,2,5.103000000000007,False
+356,Les bachelières en chaleur,5,5.103000000000007,False
+369,The Harvest,3,5.1066666666666745,False
+373,Mikra Anglia,2,7.530487725455368,True
+381,Victoria & Abdul,2,6.770538744507899,True
+397,Lungo il fiume,2,4.897965359477125,False
+402,Oi arithmimenoi,2,5.848457142857144,False
+404,Amor Eterno,2,5.1066666666666745,False
+411,Bedlam,2,5.1066666666666745,False
+417,The One Eyed Soldiers,3,4.424659681066343,False
+430,Bonobo,2,5.356599612036709,False
+445,Carmina y amén.,2,6.1937932695223505,False
+448,La memoria de Petrer,2,5.103000000000007,False
+463,L'homme de sa vie,2,6.7833333333333306,True
+472,Una ragazza molto viziosa,2,5.221253130177726,False
+478,Lisa,2,5.280444444444445,False
+479,Alice,2,5.1066666666666745,False
+515,Black Heart,2,5.1066666666666745,False
+527,Story for an Empty Theatre,2,5.1066666666666745,False
+529,Barna Hedenhös i världsrymden,2,7.421467081447969,True
+534,La lanterna del diavolo,4,5.0620000000000065,False
+593,Wolves,2,5.1066666666666745,False
+597,Glückliche Tage V - Der Kampf um die Macht,2,5.0620000000000065,False
+603,Echolot,2,4.845587350068235,False
+620,La loca del monasterio,2,5.102666666666674,False
+625,Dragoste la manastire,2,5.102666666666674,False
+632,Taped,2,5.1066666666666745,False
+661,De omweg,2,4.353965010724574,False
+664,Een groot Vlaming is ons ontvallen: Lieven Gevaert,2,5.103000000000007,False
+690,Lehrvideo Hot-Stone-Massage,2,5.102666666666674,False
+701,Stern von Rio,2,5.190500000000003,False
+728,The Elephant Queen,2,7.8461976190476195,True
+732,The Old Curiosity Shop,2,5.472468362630432,False
+743,The Amazing Mr. Blunden,2,7.062362538281795,True
+755,Cocktail,2,6.326965377528865,False
+838,Niels Bukh,2,5.1066666666666745,False
+846,Hollywood Invasion,2,5.103000000000007,False
+850,Dag Max,2,5.103000000000007,False
+856,Back Home,2,5.1066666666666745,False
+859,L'éveillé du pont de l'Alma,2,7.1076155638397,True
+878,Das Mädchen mit den fünf Nullen,2,6.520809068393793,True
+893,The Storms of Jeremy Thomas,3,6.925291666666664,True
+898,The War You Don't See,2,7.883334920634926,True
+900,I sette peccati capitali,2,5.0620000000000065,False
+902,Manchester United vs West Bromwich Albion,2,5.103000000000007,False
+926,Promised Land,3,5.0620000000000065,False
+931,Webcam,2,5.157444444444442,False
+933,Les Sultans,2,4.621,False
+935,La fonico,3,5.107000000000007,False
+937,Der Fluch des Schweigens,2,5.0620000000000065,False
+938,Le fils de Jean,2,6.520809068393793,True
+948,Eden,6,5.5483621536732946,False
+957,In vivo,2,5.1066666666666745,False
+981,"The Tulse Luper Suitcases, Part 2: Vaux to the Sea",4,6.75744079515578,True
+1018,Le 7 fatiche di Alì Babà,2,5.050991166369752,False
+1026,La môme Pigalle,2,5.524522587856236,False
+1051,Am I skilled enough for you?,3,5.1066666666666745,False
+1063,Aspectos de Óbidos,7,5.103000000000007,False
+1069,La chatte sans pudeur,2,6.975647632219258,True
+1071,1990,67,5.1066666666666745,False
+1087,Wenn die Maske fällt,2,5.0620000000000065,False
+1092,Der Henker,2,5.1066666666666745,False
+1119,Danger Zone,2,5.703796797982092,False
+1120,Carogne,2,5.777074484320215,False
+1131,Echo,3,5.323226108171532,False
+1139,Molière,2,7.009661812941956,True
+1152,Die drohende Faust,2,5.1066666666666745,False
+1161,Scuola di ladri - Parte seconda,2,5.0832994505494495,False
+1165,A Sister to Assist 'Er,2,5.0620000000000065,False
+1181,Der Maler,2,6.39093238406473,False
+1195,Suprema confessione,2,5.1066666666666745,False
+1244,Prinsessa,2,6.326965377528865,False
+1247,Cargo,3,5.1066666666666745,False
+1253,Herobrine Origins Part IV,2,5.454666403186991,False
+1259,Planetary,2,6.584833144614907,True
+1277,The Man Who Would Be King,2,6.158303030303034,False
+1283,Wimbledon Official Film 2017,7,5.103000000000007,False
+1336,Wieczór kawalerski,2,5.1066666666666745,False
+1337,Die Harvard-Prämie,2,5.1066666666666745,False
+1349,Into the Woods,3,7.627336363636356,True
+1358,La familia perfecta,2,5.8965,False
+1359,Les armes de la femme,2,5.1066666666666745,False
+1363,The Battle of the Sexes,2,6.633104795533561,True
+1380,Motion,2,5.44773595483174,False
+1383,Palacio Estilistas,2,5.689515924790885,False
+1401,African Movie Channel Original Production - The Keeper,2,5.1066666666666745,False
+1405,Absolution,5,5.1066666666666745,False
+1412,Le paltoquet,7,6.251755490635487,False
+1417,Conte d'été,2,7.011303904428912,True
+1438,Deepthroat and Gag Noises,2,5.1066666666666745,False
+1449,Un fil à la patte,2,5.0620000000000065,False
+1457,Brecht,2,6.161234371663735,False
+1458,So Long Marianne,2,5.130478836613161,False
+1480,Bonobos,2,6.597694388202736,True
+1487,Mattress Men,2,8.009087301587304,True
+1492,Planeta Petrila,2,6.596160714285714,True
+1511,The Baylock Residence,2,3.8099200299700287,False
+1525,I due parà,2,5.746805259123019,False
+1540,Splendor,2,6.380166666666665,False
+1551,La notte americana del dr. Lucio Fulci,2,6.597694388202736,True
+1559,Homa & nero,2,5.610522558033101,False
+1595,Principessa Misteriosa,3,5.1066666666666745,False
+1599,Red Room,2,4.563438503163505,False
+1605,Operation Mincemeat,2,6.852753545982949,True
+1611,Deuxième bureau contre terroristes,2,5.0620000000000065,False
+1618,Idõugrók 4: A végzet lángjai,3,4.3420000000000005,False
+1625,Witchfinder,2,5.1066666666666745,False
+1634,Ken tulta pyytää,2,5.23688791503474,False
+1639,La Fayette,2,6.073465116279071,False
+1640,Beyond Evil: The Dead of Night,2,4.572647180386693,False
+1641,13 Graves,2,5.361840326340326,False
+1663,Monsoon Tide,2,6.640687732819754,True
+1672,Watch porn with me - Milf amateur cum to face fuck porn,4,5.1066666666666745,False
+1675,Birdsong,2,4.911847712418301,False
+1678,Åsa-Nisse på Mallorca,6,4.167307142857144,False
+1680,Triple pénétration,2,5.1319999999999935,False
+1682,Premier League 28. Matchday Manchester City vs Arsenal FC,3,5.103000000000007,False
+1693,§201 bis §220,2,5.0620000000000065,False
+1712,Salvatore: Shoemaker of Dreams,2,6.512667470329316,True
+1727,"Good Night, Vienna",2,6.698636387367408,True
+1732,Reguengos de Monsaraz,2,5.102666666666674,False
+1754,Die teuflischen Schwestern,2,4.89406771284271,False
+1773,Genius Loci,2,5.1066666666666745,False
+1783,Royal Shakespeare Company: Hamlet,2,7.67430102061681,True
+1814,La morte vivante,5,5.2580000000000044,False
+1846,La Légende du Hérisson Doré,3,5.1066666666666745,False
+1852,In Sickness,2,5.1066666666666745,False
+1872,O heimonas,2,6.520809068393793,True
+1874,Dressing like Princess Kate,2,5.1066666666666745,False
+1941,60 Seconds to Di3,2,4.352939862914862,False
+1959,Freedom,3,5.103000000000007,False
+1979,"8 rzeczy, których nie wiecie o facetach",2,4.517135205154324,False
+1985,Parade,3,5.239484076054665,False
+1996,A Munition Girl's Romance,2,5.102666666666674,False
+2003,True Love,2,5.905338671454246,False
+2008,A Royal Divorce,2,5.1066666666666745,False
+2010,Liebe geht seltsame Wege,2,5.0620000000000065,False
+2011,Rembrandt,2,5.1066666666666745,False
+2029,Sunny Side Up,2,5.1066666666666745,False
+2053,Il martirio di Juccy,2,5.1066666666666745,False
+2057,The Curse of Robert the Doll,2,4.099221031746033,False
+2062,Les amateurs,2,5.231797303165219,False
+2071,La tour,2,5.52684358974359,False
+2158,WANG II - The Circle of Shambhala,2,5.1066666666666745,False
+2162,Jelger de Goochelaar en de Schat van Nicolaas,4,5.103000000000007,False
+2165,Alicudi 1 Bella II (Carnet Filmé: 24 avril 2007),3,5.1066666666666745,False
+2179,The Night Guest,4,5.1066666666666745,False
+2204,The Golden Web,2,5.1066666666666745,False
+2228,Cyclone,2,5.1066666666666745,False
+2272,La Dernière des putes,2,4.345766666666668,False
+2346,No todo es vigilia,2,6.651605248539313,True
+2356,Moon,2,5.1066666666666745,False
+2370,Delirium,2,5.1066666666666745,False
+2383,L'indispensabile Camillo,2,5.0620000000000065,False
+2401,Krümelchen in der Sommerfrische,2,5.1066666666666745,False
+2410,La verbena de la Paloma,2,5.472468362630432,False
+2414,Sto ypsos tis haramadas,2,7.530487725455368,True
+2419,Wastelands,2,5.1066666666666745,False
+2425,Prince of Jutland,2,5.356599612036709,False
+2461,On the Run,2,5.103000000000007,False
+2474,Martin Andersen Nexøs sidste rejse,2,5.0620000000000065,False
+2484,Utvandrarna,2,6.596160714285714,True
+2500,The Great Croton,2,5.1066666666666745,False
+2511,Dogging in the sun again,2,5.0620000000000065,False
+2538,Have A Word: The Art Special,4,5.1066666666666745,False
+2549,Le nouveau protocole,2,5.984565033727373,False
+2562,La fille de son père,5,6.397790458663219,False
+2586,A Caribbean Dream,2,6.209568026565466,False
+2599,Living,2,5.1066666666666745,False
+2601,Toya & Heidi,2,5.103000000000007,False
+2620,Supernova,4,5.1066666666666745,False
+2637,Le foto proibite di una signora per bene,2,6.640687732819754,True
+2645,Park '79,2,6.100000000000002,False
+2652,I nuovi mostri,2,6.889247294231161,True
+2673,Babygirl,3,6.136190056346009,False
+2684,Il calvario di Jannette,2,5.0620000000000065,False
+2686,Romeo e Giulietta,2,7.304633291914482,True
+2699,Johnny English Reborn,2,6.134712855830689,False
+2709,Una vergine per un bastardo,3,5.540417324698342,False
+2721,Zavrashtane 2,2,6.148526315789476,False
+2730,Kiki,2,5.103000000000007,False
+2734,Pride,2,5.103000000000007,False
+2772,The Fox,2,5.1066666666666745,False
+2780,"Vincent Nordon, les intellectuels et le cinéma",2,5.0620000000000065,False
+2802,De club van Sinterklaas en het vergeten Pietje,2,6.1193475877192975,False
+2815,Castro,2,5.1066666666666745,False
+2819,The Island of Corpses,2,7.728546681096682,True
+2822,Tony,2,5.498833333333332,False
+2847,This Is My Land,2,6.717110913356493,True
+2872,Qingchun,3,6.569034874391198,True
+2884,Kisses,2,5.0620000000000065,False
+2891,Pettson & Findus - Glömligheter,3,6.043138752052547,False
+2914,Manchester City vs Chelsea,2,5.0620000000000065,False
+2924,Roskilde: The Experience 2006,2,5.102666666666674,False
+2961,Connected,2,5.1066666666666745,False
+2973,Banana Pancakes and the Children of Sticky Rice,2,7.035751993353487,True
+2986,The Hallow,2,5.4513344113402935,False
+3018,The Next of Kin,2,6.770538744507899,True
+3034,Das Land der Verheißung,2,5.102666666666674,False
+3041,La Cinémathèque de Bourgogne présente Ladislas Starewitch (Carnet Filmé: 22 avril 2015),4,5.107000000000007,False
+3043,"Su le mani, cadavere! Sei in arresto",2,5.7458535919757106,False
+3055,Crossing the Line,3,5.103000000000007,False
+3072,Verlorener Horizont,2,5.1066666666666745,False
+3091,L'immorale,3,5.812999999999999,False
+3109,Operació Elefteria,2,5.1066666666666745,False
+3119,Grave,2,4.962126903488669,False
+3124,...Rodem Warszawianin...,2,5.1066666666666745,False
+3185,How to Disappear Completely,2,5.1066666666666745,False
+3189,Memory Books - Damit du mich nie vergisst...,2,6.520809068393793,True
+3219,El pacto,2,5.218288836147028,False
+3231,Revenge in the House of Usher,2,3.3874237207237194,False
+3255,Evelyn,2,6.127150000000003,False
+3264,Improvvisamente a Natale mi sposo,2,4.790446440977327,False
+3274,Tales for Heart and Mind,2,5.1066666666666745,False
+3285,The House Opposite,7,5.0620000000000065,False
+3304,Burn Out,2,5.0620000000000065,False
+3316,"Victoria, 15",3,5.295042899584078,False
+3324,In the Trap,2,3.9127999999999985,False
+3332,Sexton Blake and the Hooded Terror,2,4.778095144506907,False
+3334,Le roi,2,6.115000000000004,False
+3349,The Resisters,2,5.1066666666666745,False
+3353,Open Windows,2,5.168044744861635,False
+3366,Gråtass gir gass,2,5.529757064079654,False
+3392,Ironclad: Battle for Blood,2,4.914798659673661,False
+3398,The History Books,18,5.107000000000007,False
+3402,Amityville Scarecrow 2,2,4.7927,False
+3403,Lo scambio,2,5.1066666666666745,False
+3405,Proie,2,5.218288836147028,False
+3420,La belle et le tzigane,2,5.050991166369752,False
+3441,Das weiße Pferd,2,5.102666666666674,False
+3450,Pas d'histoires!,2,6.479646068695303,False
+3452,Trees,2,5.1066666666666745,False
+3459,Stella,2,5.0620000000000065,False
+3460,Accident Man: Hitman's Holiday,2,5.922175548589341,False
+3472,Hinterland,3,5.229254248366015,False
+3476,Strange Cargo,2,5.1066666666666745,False
+3487,L'hallali,2,5.0620000000000065,False
+3489,Sacrilege,2,5.1066666666666745,False
+3508,Snox,2,5.1066666666666745,False
+3510,Pusher II,2,6.520809068393793,True
+3520,Les misérables,3,8.038250000000007,True
+3533,La caza del oro,3,5.128027717391306,False
+3535,Kiljusen herrasväen uudet seikkailut,2,4.388736219336221,False
+3541,To Have and to Hold,2,5.1066666666666745,False
+3569,Una chica y un señor,2,5.790803772637606,False
+3590,F.P.1,2,5.89524761904762,False
+3604,Stompa forelsker seg,2,5.5649748172974,False
+3609,L'esercito più piccolo del mondo,2,6.239064973786096,False
+3615,El rojo,2,5.218288836147028,False
+3651,L'ordonnance,2,4.850125700708309,False
+3667,Paradiso,2,6.770538744507899,True
+3671,Muri,2,5.1066666666666745,False
+3694,Smart Christmas,2,4.61550140763949,False
+3696,In Search of Haydn,2,7.363862534893726,True
+3727,La vera natura di Caravaggio,2,5.103000000000007,False
+3742,Lore,3,5.083252639047399,False
+3763,Viva la Vida,2,5.1066666666666745,False
+3771,Helium,2,5.610522558033101,False
+3777,The Callback Queen,2,4.543014532689536,False
+3795,O gennitsaros,2,5.1066666666666745,False
+3798,Larysa Kadochnikova. The War,2,5.0620000000000065,False
+3801,Angélique et le roy,2,6.584417997150523,True
+3819,Lady Emanuelle,2,4.606611263336768,False
+3824,Brighton and Hove Albion vs Liverpool,2,5.102666666666674,False
+3825,Liverpool Football Club vs Tottenham Hotspur Football Club,3,5.103000000000007,False
+3830,Mod lyset,2,6.640687732819754,True
+3836,To psonio,2,5.464346372449714,False
+3842,Butterfly 2020,2,5.1066666666666745,False
+3844,La graine et le mulet,2,6.275846664808626,False
+3850,The Three Musketeers,2,4.735333333333332,False
+3851,Der Sohn der weißen Berge,2,5.848457142857144,False
+3872,Staatsanwalt Jordan,2,5.0620000000000065,False
+3890,Tom Meets Zizou: Kein Sommermärchen,2,7.530487725455368,True
+3891,Pink Elephants,2,5.1066666666666745,False
+3931,Dead Destination 2,2,5.1066666666666745,False
+3944,Hey,3,5.331831788472967,False
+3978,The Pilgrimage of Gilbert and George,2,5.206425252525253,False
+4002,Charlie Chaplin: The Spirit of the Tramp,2,5.1066666666666745,False
+4013,Libres,2,6.024999999999999,False
+4017,Duplo Exilio,2,5.2300299831747195,False
+4026,The Ipanema File,2,5.1066666666666745,False
+4031,Fuck Haneke,2,8.058187012987013,True
+4038,Berlin Kidz: Fuck the System,2,5.0620000000000065,False
+4071,Et hjørne af paradis,2,4.353965010724574,False
+4077,Les jours et les nuits d'Eva Blue,2,6.195999999999999,False
+4107,Angelo,2,5.103000000000007,False
+4132,The System,2,5.1066666666666745,False
+4133,Testament,2,5.1066666666666745,False
+4151,El ser,2,4.6229568187617325,False
+4159,Paradise,4,5.492565371865373,False
+4170,Le fils de l'autre,2,6.838190466392666,True
+4173,El Trabajo del Espectador,2,5.103000000000007,False
+4178,Sundown,2,6.597694388202736,True
+4183,Bulldog Drummond,2,5.1066666666666745,False
+4188,Forever,2,5.503499258205445,False
+4215,Otchuzhdenie,2,5.168044744861635,False
+4222,I fidanzati della morte,2,6.640726037851039,True
+4259,To psonistiri tis Omonoias,2,4.28906666666667,False
+4267,Hornets' Nest,2,5.777074484320215,False
+4278,"I, Kamikaze",2,5.695478072577434,False
+4292,Bianco,2,5.1066666666666745,False
+4300,Ekopolis,2,6.326965377528865,False
+4302,Jane Eyre,2,5.1066666666666745,False
+4328,Sisters,2,5.103000000000007,False
+4338,The Emperor of Peru,2,5.356599612036709,False
+4343,Abbronzatissimi 2 - Un anno dopo,2,3.7781289377289387,False
+4368,La donna del lago,2,6.177328787110838,False
+4374,Rites of Spring,2,5.0620000000000065,False
+4400,B.D. în alertã,2,8.576000000000015,True
+4402,L'idéal,2,5.594822222222225,False
+4403,Footloose in Ireland: Dingle Way & Dublin,3,5.103000000000007,False
+4416,En sjöman i frack,2,4.488742234519869,False
+4422,My Nazi Legacy,2,6.651605248539313,True
+4447,Utóélet,2,6.651605248539313,True
+4450,Courts mais GAY: Tome 12,4,5.162465359477125,False
+4452,D.E.P. El club,2,5.1066666666666745,False
+4461,Technology,2,5.1066666666666745,False
+4484,Absolventi Sloboda nie je zadarmo,2,5.1066666666666745,False
+4494,Happily Ever After,2,7.035751993353487,True
+4501,Revolutionsbryllup,2,4.353965010724574,False
+4505,Qu'est-ce qu'on a tous fait au Bon Dieu ?,2,5.947730952380953,False
+4507,Magnatul,2,6.640687732819754,True
+4563,Andalousie,2,5.695478072577434,False
+4586,Portolago: Fantasmata sto Aigaio,2,8.572000000000013,True
+4587,Il supplizio del silenzio,2,5.0620000000000065,False
+4591,Narco,2,6.640687732819754,True
+4594,Les vampires: Satanas,4,6.812207645600676,True
+4598,La bocca dell'inferno,2,5.102666666666674,False
+4608,Dora oder Die sexuellen Neurosen unserer Eltern,2,6.640687732819754,True
+4632,Lombard,2,6.584833144614907,True
+4633,Amelia,2,5.1066666666666745,False
+4643,Freelance,2,6.633104795533561,True
+4651,Vares - Pimeyden tango,3,5.226560279263221,False
+4657,Alma,2,5.1066666666666745,False
+4659,The Angels' Share,2,6.740425774315717,True
+4678,Connections: Sheep to Chanel,2,5.1066666666666745,False
+4682,La figure de proue,2,6.520809068393793,True
+4719,Chelsea FC Season Review 2017/18,5,5.103000000000007,False
+4751,L'Empereur de Paris,2,6.168984158527793,False
+4778,Dva nula,2,6.584833144614907,True
+4804,Les glaneurs et la glaneuse... deux ans après,3,7.020491361580035,True
+4819,De tweeling,2,6.108000000000004,False
+4826,The Great Charade,2,5.050991166369752,False
+4846,Au pays du scalp,2,6.780252110399813,True
+4852,Phantom,2,7.1689931273405,True
+4885,Influenced!,2,5.1066666666666745,False
+4887,Forest,2,5.1066666666666745,False
+4929,Hannah,2,5.1066666666666745,False
+4963,La Lupa,2,5.1066666666666745,False
+4978,The Reluctant Bride,2,5.23688791503474,False
+5000,"China, Hungary and the Soccer",5,5.1066666666666745,False
+5020,Block,2,5.452999999999996,False
+5022,La Tour Paris 13,2,7.304633291914482,True
+5023,Harry & Avis,2,6.770538744507899,True
+5028,Ripper's Revenge,2,3.858411904761906,False
+5037,Why We Fight,2,5.1066666666666745,False
+5043,Exit,5,4.54356263736264,False
+5045,Retrace,2,6.633104795533561,True
+5076,Rest in Poetry IV,2,5.1066666666666745,False
+5083,Moda e amore,3,5.1066666666666745,False
+5111,Le dernier jaguar,2,5.696906003340843,False
+5135,Heimatland,2,5.050991166369752,False
+5151,La sfida dei giganti,2,5.081405758946931,False
+5160,Die Tänzerin von Sanssouci,2,6.675566256605721,True
+5180,Ti-Ti Nallen Joulutohinat,2,5.0620000000000065,False
+5207,Dick Verdult: It Is True But Not Here,2,7.434282251082252,True
+5216,Traceroute,3,6.223413733436829,False
+5219,The Orchard,3,5.0620000000000065,False
+5230,Secret Places,2,5.716999999999996,False
+5233,Der schuldlose Verdacht,2,5.1066666666666745,False
+5237,Die Widerständigen 'also machen wir das weiter...',2,7.7242120809745805,True
+5248,Vincent & Theo,2,6.633104795533561,True
+5252,The Picture of Dorian Gray,2,5.1066666666666745,False
+5253,Bliss!,2,4.895448332060098,False
+5275,A Sereia de Pedra,2,5.1066666666666745,False
+5278,South Africa: Murder Most Foul,2,5.1066666666666745,False
+5279,Laughter in the Dark,2,5.1066666666666745,False
+5287,Displaced,2,5.1066666666666745,False
+5303,Borta,2,5.1066666666666745,False
+5305,In Pursuit of Love,2,5.1066666666666745,False
+5326,Al sur de la fusión,2,5.103000000000007,False
+5334,Fünf Freunde und das Tal der Dinosaurier,3,4.445972222222219,False
+5335,Leiria,3,5.0620000000000065,False
+5340,Almost There,2,5.1854252525252535,False
+5356,Pihalla,2,6.290999999999997,False
+5358,"Un spécialiste, portrait d'un criminel moderne",2,6.520809068393793,True
+5371,Mia zoi stin istoria,2,5.1066666666666745,False
+5393,"Milf under desk, pussy juices and moaning",10,5.1066666666666745,False
+5401,Emergo,2,4.806147030838672,False
+5402,Tongue Play whilst waiting for something to load for work,4,5.1066666666666745,False
+5444,Carmen,6,5.1066666666666745,False
+5449,Dos mil dólares por Coyote,2,4.353965010724574,False
+5457,Losers,2,6.07442589610276,False
+5473,L'amour braque,2,6.017882051282045,False
+5474,Mapa,2,6.633104795533561,True
+5475,Vojna akademija 3,2,5.047031089743593,False
+5476,Princess Catherine: Queen in Waiting,2,5.1066666666666745,False
+5497,Limani,2,7.241696275946275,True
+5504,Vistas de Portugal,2,5.1066666666666745,False
+5543,La scimitarra di Barbarossa,2,5.103000000000007,False
+5566,A Summer in Avignon,2,5.1066666666666745,False
+5576,Clank: Legacy,3,7.6516923076923105,True
+5579,Livets Gøglespil,2,5.1066666666666745,False
+5594,Il sud è niente,2,6.640687732819754,True
+5598,Horizon,2,5.1066666666666745,False
+5608,The Promise,2,5.1066666666666745,False
+5671,Black Jack,3,5.981133179259632,False
+5681,On se calme et on boit frais à Saint-Tropez,2,4.630063564213566,False
+5682,Werther,2,6.779053904428905,True
+5704,Trafficking 2,2,5.1066666666666745,False
+5712,Disparue,2,5.0620000000000065,False
+5726,September,4,5.539797536917502,False
+5727,Verfehlung,2,6.584833144614907,True
+5733,Behind Closed Doors,2,4.941848332060098,False
+5760,6 Songs,2,5.1066666666666745,False
+5772,Invisibles,2,5.0620000000000065,False
+5773,Family,2,5.0620000000000065,False
+5786,La dottoressa sotto il lenzuolo,2,4.996269441463249,False
+5790,Dreams Rewired,2,5.612593799751419,False
+5806,Manchester United vs West Ham United,2,5.103000000000007,False
+5838,Beneath the Skin,2,4.316438641952307,False
+5859,Angel,2,5.1066666666666745,False
+5867,Bank of Dave 2 : The Loan Ranger,2,5.103000000000007,False
+5904,La vie pure,2,6.597694388202736,True
+5907,Memoria,3,5.0620000000000065,False
+5913,Bamse och havets hemlighet,3,5.0620000000000065,False
+5917,The Missing Reel,2,7.366518208399777,True
+5927,Varázslat - A Queen Budapesten,2,8.572000000000013,True
+5930,Spice World,2,4.643069516594515,False
+5932,Free Willy 2: The Adventure Home,2,5.102356105006105,False
+5968,Haven,2,5.1066666666666745,False
+5975,Das Rattenloch,2,5.103000000000007,False
+5977,Vila Viçosa,2,5.0620000000000065,False
+5985,Los silenciosos,2,5.1066666666666745,False
+5990,"Old Mother Riley, Headmistress",6,4.784762514575209,False
+5999,Les témoins,2,6.930921214846705,True
+6016,Transeúntes,2,6.57583646011395,True
+6060,Grozny Blues,2,7.035751993353487,True
+6079,Concert Privé chez Daniel Barenboim,2,5.1066666666666745,False
+6121,Hey Duggee at the Cinema,2,4.874982809784357,False
+6130,The United Way,3,6.602294298245614,True
+6135,The Neighbor,2,5.610522558033101,False
+6136,Anna,4,5.392940404040403,False
+6137,As God Made Her,2,5.218288836147028,False
+6167,Spitfire,2,5.1066666666666745,False
+6221,Katherine of Alexandria,2,3.836248989898988,False
+6260,Der Hochtourist,2,5.300425252525254,False
+6287,À ciel ouvert,2,4.897965359477125,False
+6288,Foxter & Max,2,5.8686632321404515,False
+6296,L'Abbé Pierre: Une vie de combats,2,6.402639637990046,False
+6358,Els oblidats dels oblidats,2,8.799,True
+6368,Astérix et Cléopâtre,2,6.507651925498866,True
+6382,Zwaar verliefd! 2,2,5.498306666666667,False
+6408,Il Medico Dei Pazzi,2,7.571452686202689,True
+6424,Romeo and Juliet,2,6.42766666666667,False
+6425,Kongo,2,5.355162647483237,False
+6439,La Mecànica D'una Vida,2,5.1066666666666745,False
+6450,Elnémult harangok,3,6.050125282084329,False
+6479,Nomen Nescio,2,5.1066666666666745,False
+6494,André Cornélis,2,5.0620000000000065,False
+6499,De boetprocessie te Veurne,4,5.0620000000000065,False
+6511,The Titan: Story of Michelangelo,2,6.597694388202736,True
+6518,"A hentes, a kurva és a félszemü",3,6.129690145502645,False
+6520,The Old Country,3,5.1066666666666745,False
+6540,Die Frau am Wege,2,5.0620000000000065,False
+6556,Le grand cinéma de Jean Renoir,2,5.1066666666666745,False
+6571,La signora delle camelie,2,5.612593799751419,False
+6576,I Go Back Home: Jimmy Scott,2,8.009087301587304,True
+6582,Lugar dos Sonhos,2,5.1066666666666745,False
+6602,Pasmerkti. Kauno Romanas,2,5.983559175722053,False
+6610,Uncle Howard,2,6.651605248539313,True
+6614,Frère et soeur,2,6.069000000000001,False
+6635,Stella,2,3.8383378787878772,False
+6637,Beneath the Bassline - Lost Backstage,2,5.103000000000007,False
+6651,La nuit américaine,3,7.0890882352941205,True
+6661,The Big Day,2,6.2711665079365115,False
+6662,O xypolytos pringips,2,5.085444444444443,False
+6670,The Nanny,2,5.1066666666666745,False
+6680,Meio Metro De Pedra,2,6.520809068393793,True
+6748,Per mille dollari al giorno,2,5.168044744861635,False
+6810,Breast play in the Bath,3,5.1066666666666745,False
+6813,El cura de aldea,2,6.1068749825621955,False
+6819,Les deux gosses,2,5.0620000000000065,False
+6828,A Praia da Rocha,2,5.0620000000000065,False
+6853,Evil Rising,2,6.289999999999993,False
+6855,Mange tes morts - Tu ne diras point,2,6.326965377528865,False
+6859,Alena,2,5.356599612036709,False
+6864,La belle verte,2,6.841735635686437,True
+6869,Accident,2,6.695476215142235,True
+6871,Quo Vadis?,3,5.0620000000000065,False
+6872,Winterstürme,2,5.0620000000000065,False
+6876,O Hotel das Crianças,2,5.0620000000000065,False
+6887,Moor-Monster 2,2,6.375677624170211,False
+6894,Ancora una volta prima di lasciarci,2,5.894480681010229,False
+6935,La paura di amare,5,5.107000000000007,False
+6946,"Neuilly sa mère, sa mère!",2,5.012832051282053,False
+6990,De melaatsheid,2,5.102666666666674,False
+6995,Il peccato degli anni verdi,2,5.692132776545887,False
+7003,Le château des singes,2,5.789640079874609,False
+7024,Nothing Personal,2,6.642723048448492,True
+7033,La comédie du bonheur,2,6.770538744507899,True
+7041,Free Bullet,3,5.1066666666666745,False
+7044,Der letzte Walzer,2,5.5351356218418095,False
+7046,OZORA Festival 2009,3,5.103000000000007,False
+7050,Lazy in Bed Milf Fingering and Butt Slapping,2,5.1066666666666745,False
+7055,Grafir & Bein,2,4.606611263336768,False
+7059,La bambola vivente,2,4.7759909247615155,False
+7065,Prioni II,2,4.8128038321972175,False
+7082,Killing Time,2,5.1066666666666745,False
+7090,Taken 2,2,6.145942824734248,False
+7094,Im Schatten des Berges,2,6.597694388202736,True
+7105,O czym sie nie mówi...,3,5.245425252525252,False
+7141,Point of No Return,3,5.1066666666666745,False
+7155,The Man Upstairs,2,6.122698889499551,False
+7160,La giornata balorda,2,7.022980564782058,True
+7179,Iddu,2,6.209568026565466,False
+7197,La vendetta di Spartacus,6,5.624291666666669,False
+7208,Magic Hour 4,2,5.0620000000000065,False
+7211,Rien à perdre,2,5.76551547987616,False
+7216,The Great Game,2,5.0620000000000065,False
+7258,Heimat,2,5.473735954831739,False
+7271,Der Schuß um Mitternacht,2,5.103000000000007,False
+7279,Yo soy uno entre cien mil,2,7.530487725455368,True
+7293,Les diables,5,6.85852732082558,True
+7316,Watermarks: Three Letters from China,2,6.596160714285714,True
+7336,Kin,2,4.897965359477125,False
+7339,Numb,2,5.1066666666666745,False
+7347,El artista y la modelo,2,5.784937499999992,False
+7362,Au bord du monde,2,7.329828903041402,True
+7372,I neraida kai to palikari,3,5.82147984470829,False
+7377,Km 224,4,5.901000000000003,False
+7378,Agente Z 55 missione disperata,2,4.794971149691549,False
+7403,Paradis perdu,2,5.1066666666666745,False
+7406,Soundtrack to Sixteen,2,5.610522558033101,False
+7408,"Peor imposible, ¿qué puede fallar?",2,4.014870815295814,False
+7411,Free Speech Fear Free,2,7.527290476190467,True
+7420,Medea 21,4,5.1066666666666745,False
+7440,Pause,2,5.983559175722053,False
+7452,Das Geschlecht derer von Ringwall,2,5.1066666666666745,False
+7457,Memento mori,2,4.85112570070831,False
+7483,Hurricane,2,5.612593799751419,False
+7491,Dracula,2,6.157000000000003,False
+7493,Secondo Me,2,7.035751993353487,True
+7526,Vera,2,7.6024526862026915,True
+7580,2020 Cut,2,5.0620000000000065,False
+7581,Mister Mayfair: The Spyce of Life,4,5.705336701618197,False
+7590,The Other World - Darker Vers Realm Systems,3,5.1066666666666745,False
+7621,Rewind,3,5.107000000000007,False
+7674,Galerie Yves: Vernet,6,5.103000000000007,False
+7678,Travel Breakers,2,7.527290476190467,True
+7690,Fathom,3,5.1066666666666745,False
+7691,L'État sauvage,2,5.1066666666666745,False
+7700,Nora,2,5.1066666666666745,False
+7706,"XY, drôle de conception",2,3.892610514485516,False
+7707,La maldición de la bestia,6,5.183125000000002,False
+7714,Passage,2,5.0620000000000065,False
+7737,Pédale dure,2,4.425752661227661,False
+7774,Nemesis,2,4.0571720057720055,False
+7780,Persona Non Grata,2,5.092333333333332,False
+7801,Advent,2,4.776935402016285,False
+7803,Under Stjernerne På Himlen,2,5.1066666666666745,False
+7804,Winter Ridge,2,4.316438641952307,False
+7815,La resa di Titì,2,5.103000000000007,False
+7834,Unspoken,3,5.1066666666666745,False
+7881,National Theatre Live: Jane Eyre,2,7.527290476190467,True
+7899,Closeup of big pussy lips Milf fucking herself,2,5.1066666666666745,False
+7929,El extraño amor de los vampiros,2,5.17527058823529,False
+7932,Mighty Afrin: In the Time of Floods,2,8.009087301587304,True
+7950,Love,2,4.9946439309056965,False
+7969,Dead Man's Mound,2,5.1066666666666745,False
+7972,Le Redoutable,2,6.408080129588684,False
+8011,The Dying Eye,2,5.1066666666666745,False
+8015,On va tout péter,2,5.848457142857144,False
+8070,Never Outshine the Master,4,5.1066666666666745,False
+8087,Bon Bini Holland 2,3,4.430359318996413,False
+8096,CD Leganés vs RCD Espanyol Barcelona,2,5.102666666666674,False
+8099,Kidnep,2,6.479646068695303,False
+8107,Kameleon,3,5.103000000000007,False
+8109,Reunion,2,5.1066666666666745,False
+8127,Gata Oricând!: partea întâi - Eroii de la podul Jiului,2,6.239064973786096,False
+8136,Le roman d'un tricheur,2,6.401344946741245,False
+8190,Shadow of Eons,2,5.0620000000000065,False
+8214,Fausto,2,5.1066666666666745,False
+8222,Sacrifice,5,4.747801556776558,False
+8227,Grenzgänger,2,5.685565371865371,False
+8235,Buses,2,5.1066666666666745,False
+8265,I guappi non si toccano,2,4.877691370402903,False
+8271,Der Schmuggler und sein Weib,2,5.0620000000000065,False
+8283,Magadan: Stadt erbaut auf Knochen,2,7.8821666666666745,True
+8290,Le grand amour,2,7.299498763022995,True
+8328,Dom very,2,5.1066666666666745,False
+8340,Douce France,2,5.181000000000001,False
+8342,The Stranger,13,5.1066666666666745,False
+8358,91:an Karlsson rycker in,3,4.793634028755043,False
+8361,Au beau milieu des bois 2,3,5.1066666666666745,False
+8376,MH17: Het verdriet van Nederland,2,6.640687732819754,True
+8383,Cuisses ouvertes,2,5.610522558033101,False
+8406,Furtuna,3,6.449852631578948,False
+8407,DAU. Natasha,4,6.105216448351043,False
+8412,La tribu,2,6.270000000000003,False
+8420,Die Spione,2,5.1066666666666745,False
+8427,The Shepherd,2,5.0620000000000065,False
+8433,Deathgrip 2,2,5.0620000000000065,False
+8443,Breaking Britain,2,5.1066666666666745,False
+8477,Ego,2,6.739960317460321,True
+8483,Out,2,6.647000000000004,True
+8499,Beast,2,4.881937500000001,False
+8501,Magma,2,5.0620000000000065,False
+8528,Fallen,2,5.1066666666666745,False
+8537,O Quinto Império - Ontem Como Hoje,3,5.976958402135,False
+8549,Le placard,2,6.030358333333336,False
+8551,The Mutation,3,4.8523999999999985,False
+8555,O anthropos tou trainou,2,5.471381410256414,False
+8575,Lampedusa im Winter,2,6.520809068393793,True
+8605,L'attentat,2,4.938000000000002,False
+8607,Monument,2,5.201484076054665,False
+8622,Baraka sur X 13,2,5.356599612036709,False
+8660,"Ve' den, der lyver",2,5.102666666666674,False
+8665,About a Girl,2,6.57583646011395,True
+8670,Home,5,5.1066666666666745,False
+8676,Welcome to the Tempest Hotel,2,5.1066666666666745,False
+8706,La leggenda del fiume sacro,2,5.1066666666666745,False
+8711,To doloma,2,6.71657282859981,True
+8743,Anni facili,2,6.771706501831501,True
+8745,To anthropaki,2,6.3196763888888885,False
+8793,Le tableau volé,2,7.038413271352066,True
+8802,ROMA: Prokletstvo jednog izgnanika,2,5.1066666666666745,False
+8806,Rise of the Footsoldier: Ibiza,2,5.1066666666666745,False
+8844,Boze Cialo,2,5.1664252525252525,False
+8859,Blackbird,3,5.1066666666666745,False
+8861,Thanatos,2,5.1066666666666745,False
+8889,The Best Years,2,4.684114277281886,False
+8909,Les nouveaux riches,2,5.1687570707070725,False
+8913,De dans van de reiger,2,5.0620000000000065,False
+8966,Chelsea vs Liverpool,3,5.103000000000007,False
+8969,2Close2U,2,6.326965377528865,False
+8979,Mon curé chez les riches,3,5.70184791154791,False
+9000,Il labirinto dei sensi,2,5.050991166369752,False
+9048,Der Hilferuf,2,5.1066666666666745,False
+9052,Die Liebe der Sklavin,2,5.102666666666674,False
+9092,Adrenaline,2,5.413999999999995,False
+9122,Ma'a al-Fidda,2,7.304633291914482,True
+9123,Mia gynaika stin Antistasi,2,5.699636363636369,False
+9133,Royal Opera House Live Cinema Season 2016/17: The Sleeping Beauty,2,8.239626695526704,True
+9141,Miss Sixty,2,5.356599612036709,False
+9169,Human Desires,2,5.1066666666666745,False
+9171,Sentinelle,2,5.105209523809528,False
+9175,"I theia mou, i hipissa",2,6.0891186552207115,False
+9178,Der kleine Ritter Trenk,2,5.777074484320215,False
+9205,El diputado,2,6.339041824335093,False
+9211,Finding Forever,2,5.1066666666666745,False
+9223,Grace,2,5.1066666666666745,False
+9248,Francesca,2,5.23688791503474,False
+9273,Real Sociedad vs Manchester United,2,5.0620000000000065,False
+9282,Le pays des sourds,2,7.009661812941956,True
+9295,Solitary,2,5.231797303165219,False
+9297,Obsession,3,5.1066666666666745,False
+9308,Henry V,2,5.1066666666666745,False
+9312,Le vélo de Ghislain Lambert,2,6.597694388202736,True
+9327,HyperNormalisation,2,7.7863619047619075,True
+9366,The Stolen,2,5.537035714285718,False
+9389,Initiation à la suédoise,2,3.5007352980352993,False
+9392,Diario de una ninfómana,2,5.898,False
+9411,Grazia,2,5.1066666666666745,False
+9417,Room 7,2,5.515586911931031,False
+9430,Lepain - 6. Teil,2,5.1066666666666745,False
+9435,Solo,2,5.208450528764693,False
+9438,Fire,2,5.0620000000000065,False
+9449,Comanche blanco,2,4.27590147907648,False
+9459,Alle reden übers Wetter,2,6.326965377528865,False
+9461,Flux,2,5.1066666666666745,False
+9466,Lost in Florence,2,5.168044744861635,False
+9561,Halloween: O Legado,2,6.781174307746153,True
+9568,Westerplatte,2,6.651605248539313,True
+9572,In the Know,2,5.1066666666666745,False
+9581,La Violencia,2,5.1066666666666745,False
+9596,Brothers,5,5.103000000000007,False
+9599,Il pane altrui,2,5.0620000000000065,False
+9613,Chocolat,2,6.239064973786096,False
+9614,The Silencer,3,5.1066666666666745,False
+9617,Off the Rails,2,4.903333333333333,False
+9626,Liebe,2,5.603722374666494,False
+9644,Il mistero di Dante,2,5.751664297122059,False
+9652,Venus,3,5.1066666666666745,False
+9657,Miriam - Il diario,2,5.1066666666666745,False
+9686,Loro 1,2,6.584833144614907,True
+9711,West Ham United vs Liverpool,3,5.103000000000007,False
+9712,Die Spinne,2,5.103000000000007,False
+9721,La triche,2,6.915517633123368,True
+9758,The Chase,2,5.1066666666666745,False
+9793,Idas dagbok,2,6.408080129588684,False
+9794,L'éventail,2,5.1066666666666745,False
+9807,Hemligheten,2,5.0620000000000065,False
+9833,Play,2,4.942848332060098,False
+9838,L'ultimo harem,2,5.0178333333333365,False
+9868,Pravila geymera,2,5.231797303165219,False
+9870,De atletiekkampioenschappen van België,2,5.1066666666666745,False
+9878,Der Bastard,2,5.593666403186992,False
+9886,Oi kavgatzides,2,5.8297413185452704,False
+9889,Les dernier cloutiers,2,5.0620000000000065,False
+9906,1000 Worte deutsch,2,5.1066666666666745,False
+9962,Menteur,2,6.089000000000004,False
+9963,La parade du président Salengro à Toulouse pour célébrer l'annexion de l'Occitanie par Groland,4,5.1066666666666745,False
+9969,Elle,2,4.9429653594771255,False
+10125,The Man Who Watched Trains Go By,2,6.326965377528865,False
+10149,Breathe,3,5.1066666666666745,False
+10157,Les amazones du temple d'or,6,4.6437210338680925,False
+10187,PLAN Z,2,5.1066666666666745,False
+10195,Minuscule 2: Les mandibules du bout du monde,2,6.824283036334213,True
+10232,Ho Ho Ho 2: O loterie de familie,3,6.308660507739626,False
+10233,The Skin Game,2,6.196000000000003,False
+10237,Jack,5,5.1066666666666745,False
+10242,All Inclusive,2,5.0620000000000065,False
+10244,Help,3,4.546411843711845,False
+10254,Forced March,2,6.651605248539313,True
+10261,The Killer with No Hands,2,5.1066666666666745,False
+10267,La terra dei figli,2,6.326965377528865,False
+10272,Die Geschichte des grauen Hauses - 3. Episode: Der Mord aus Verzweiflung,2,5.1066666666666745,False
+10305,All This Can Happen,2,7.500544155844158,True
+10335,Ferry,2,5.1066666666666745,False
+10340,The Girl Who Took the Wrong Turning,2,5.1066666666666745,False
+10355,"Tzigari, a Rom Tale",2,5.1066666666666745,False
+10364,Ask ve Devrim,2,5.524522587856236,False
+10383,Chaos,2,6.711675331893619,True
+10417,Isältä pojalle,2,6.760098047175759,True
+10426,La voce del cuore,2,5.102666666666674,False
+10429,Sekten,2,4.316438641952307,False
+10439,Can I cum in your mouth... pretty please? (Under Desk POV),3,5.1066666666666745,False
+10454,Sara,2,5.103000000000007,False
+10471,Pubmonkey 2,2,5.1066666666666745,False
+10482,L'estate addosso,3,6.386243520528754,False
+10497,Král sokolu,2,6.584833144614907,True
+10522,In America,2,7.9638809523809515,True
+10537,Alien Makers IV,2,5.102666666666674,False
+10566,Ummah - Unter Freunden,2,6.39093238406473,False
+10578,L'oro di Roma,2,6.362755334804453,False
+10580,Ombline,2,6.584833144614907,True
+10583,Blinker en de blixvaten,3,5.900055555555557,False
+10610,Your Christmas or Mine 2,2,5.886455973909132,False
+10623,Les rois du gag,3,5.275000000000002,False
+10632,Losejas,3,6.569034874391198,True
+10653,Chez Nous,2,6.597694388202736,True
+10658,Bota jonë,2,7.035751993353487,True
+10681,The Ambassador,2,5.1066666666666745,False
+10717,Vis-à-vis,2,5.0620000000000065,False
+10730,Outpost 37,2,4.975269441463249,False
+10735,Die tollsten Berliner Parks,2,5.0620000000000065,False
+10767,The Starlit Garden,2,5.102666666666674,False
+10791,Alf's Button Afloat,2,5.121863636363637,False
+10798,Sto katofli tis moiras,2,5.0620000000000065,False
+10804,The Ghost Train,3,5.7180224089635825,False
+10805,Phoenix,3,5.1066666666666745,False
+10811,La reine Margot,2,6.4946306877045465,False
+10824,Niskavuoren Aarne,2,6.3064938492063485,False
+10857,My Brother's Keeper,2,5.1066666666666745,False
+10859,Ta' mej doktorn,2,4.935969336219333,False
+10875,The General,2,5.7239999999999975,False
+10902,The Game,2,5.1066666666666745,False
+10919,El círculo de Raynard,2,7.378781366294513,True
+10933,The Factory,2,5.103000000000007,False
+10939,Heaven Earth,2,6.620643433866401,True
+10970,Le mystère musical coréen,2,5.1066666666666745,False
+10971,Manchester Derby,2,5.103000000000007,False
+11000,Leave Now,2,7.530487725455368,True
+11049,A Very Unlucky Leprechaun,2,5.374200000000001,False
+11052,Enigma,3,5.1066666666666745,False
+11055,Imago,2,5.1066666666666745,False
+11062,Requiem,3,6.446322757904196,False
+11068,Immunity,2,7.378781366294513,True
+11073,Macchie solari,2,5.612593799751419,False
+11077,Mozartbique,2,5.1066666666666745,False
+11113,"Verzauberte Emma oder Hilfe, ich bin ein Junge... !",2,5.610522558033101,False
+11123,The Pirates! In an Adventure with Scientists!,2,6.584833144614907,True
+11144,Zig Zag,2,5.1066666666666745,False
+11171,Camgirl Milf Dripping Juices and Cumming,3,5.102666666666674,False
+11172,Reach Your Limits,2,7.434282251082252,True
+11184,Miséricorde,3,6.224221428571432,False
+11196,La Marseillaise,2,7.2094704032809265,True
+11209,Parenthèse,2,6.326965377528865,False
+11219,Gloria,2,5.103000000000007,False
+11237,Amazing Journey: The Story of The Who,2,7.7863619047619075,True
+11241,Manchester United vs Manchester City,3,5.702298404312801,False
+11254,An...,2,6.633104795533561,True
+11268,The Doctors the Tom Baker Years,2,5.1066666666666745,False
+11277,Justice,2,5.1066666666666745,False
+11299,Kärlek 1-1000,3,4.814476165501166,False
+11312,Chuck Norris vs. Communism,2,7.378781366294513,True
+11335,Not Alone,2,5.1066666666666745,False
+11338,Stranger,2,5.0310983320600995,False
+11360,Mineurs,3,5.0620000000000065,False
+11391,Facing the Music,2,5.0620000000000065,False
+11397,Pekka ja Pätkä salapoliiseina,2,5.593499252858678,False
+11402,Vild på sex,2,4.353965010724574,False
+11408,The Marriage of Reason & Squalor,2,5.777074484320215,False
+11411,Die Verlorenen,2,6.414394390618161,False
+11429,Controra,2,4.5789016937525835,False
+11444,De stille genieter,2,5.0620000000000065,False
+11455,03.ByPass,2,6.366740373120199,False
+11473,Black Water,3,5.1066666666666745,False
+11528,La moglie in bianco... l'amante al pepe,3,5.3874479797979795,False
+11534,Le dernier baiser,2,4.580272233562789,False
+11547,Song of Songs,3,5.1066666666666745,False
+11554,Le sac noir,2,5.1066666666666745,False
+11597,Wind River,2,7.329828903041402,True
+11604,Die 30 erstaunlichsten Berliner Straßen,2,5.1066666666666745,False
+11608,Roger la Honte,2,5.0620000000000065,False
+11621,Bedragaren,2,6.651605248539313,True
+11638,Die Welle,2,6.310092316017321,False
+11680,Schneider Wibbel,2,5.0620000000000065,False
+11688,Leave It to Me,2,5.0620000000000065,False
+11706,Happy Hour,3,5.397390361565199,False
+11713,Touched,2,5.1066666666666745,False
+11716,Den sidste Nat,2,5.103000000000007,False
+11733,Decay,2,5.1066666666666745,False
+11738,Littekens,2,7.329828903041402,True
+11771,War of Art,2,6.651605248539313,True
+11787,Austin Powers 4,2,5.1066666666666745,False
+11862,Thunder,2,5.1066666666666745,False
+11877,No Way Home,2,5.1066666666666745,False
+11892,Only Human,2,5.103000000000007,False
+11922,Det store løb,2,5.945072755949975,False
+11928,In Transit,2,7.035751993353487,True
+11959,Uchronia,2,4.316438641952307,False
+11961,The Confession,2,5.0620000000000065,False
+12028,La doctoresse a des gros seins,7,4.624355769230772,False
+12031,"Lyon, autopsie d'une grande ville (Inventaire des rues du 7ème arrondissement)",3,5.1066666666666745,False
+12042,Alone,2,5.246526283846873,False
+12054,How to Be Happy,2,5.790803772637606,False
+12056,L'inventaire filmé des rues du 2ème arrondissement de Lyon aux Archives Municipales de Lyon (Carnet Filmé: 30 juin 2015),2,5.0620000000000065,False
+12089,Deep in the Mirror,2,5.1066666666666745,False
+12092,Battles,2,5.8686632321404515,False
+12115,Track,2,5.092500000000004,False
+12117,The Myster General 2,2,7.612588095238096,True
+12118,Pan Twardowski,2,5.483403406429992,False
+12120,The Sender,2,5.858620689655171,False
+12132,Busters verden,2,7.035751993353487,True
+12140,5 pravidel,2,5.1066666666666745,False
+12182,Liverpool vs Bournemouth,2,5.102666666666674,False
+12183,Der Roman einer armen Sünderin,2,5.103000000000007,False
+12196,My Camming Setup,3,5.103000000000007,False
+12207,Plätze in Städten,2,6.520809068393793,True
+12212,7 morts sur ordonnance,2,6.640687732819754,True
+12217,Kim,2,6.651605248539313,True
+12219,Cycle,2,4.593529437229442,False
+12248,Les sentiments,2,4.986999999999995,False
+12254,La grande bouffe,4,5.606999999999999,False
+12315,Dunaparti randevú,2,6.651605248539313,True
+12322,152 Days,3,5.1066666666666745,False
+12328,le Roi de la Vallée,2,5.1066666666666745,False
+12333,Der Volontär,2,5.103000000000007,False
+12336,Vanessa,2,6.596160714285714,True
+12361,The Idiot Colony,2,5.1066666666666745,False
+12387,La femme de ma vie,3,7.026109221328013,True
+12408,Le cabanon rose,2,6.145293533665242,False
+12472,Under the Shadow,2,5.883999477740347,False
+12485,Return of the Seven,2,5.81073076923077,False
+12492,Zahradnictví: Dezertér,2,6.640687732819754,True
+12506,Violet,2,5.1066666666666745,False
+12507,Homesick,2,4.7006928321678325,False
+12515,Mothering Sunday,2,5.848457142857144,False
+12533,Exo ftoheia kai kali kardia,2,5.848457142857144,False
+12540,The Soloist,2,6.584833144614907,True
+12549,Brothers in Arms,2,6.596160714285714,True
+12556,Waiting for the Gaps,4,5.1066666666666745,False
+12565,Sissi - Schicksalsjahre einer Kaiserin,2,6.397501986163483,False
+12568,Faux accords,2,5.168044744861635,False
+12577,Sisi und der Kaiserkuß,2,5.751664297122059,False
+12625,Boy #5,3,4.405710714285717,False
+12636,The Apollo Experience: Apollo 17,2,7.868777777777782,True
+12664,The Slave,2,5.1066666666666745,False
+12666,Horror Icons: Lethal Ladies,3,5.1066666666666745,False
+12706,The Spanking Game 2,2,5.102666666666674,False
+12735,Will Work for Free,2,6.596160714285714,True
+12747,Stalker,2,5.05806254856255,False
+12771,Persona,2,5.1066666666666745,False
+12779,Olsenbanden gir seg aldri!,2,6.677667385057472,True
+12780,L'avaro,2,6.140483796296297,False
+12806,Nullpunkt,3,7.416836921850068,True
+12809,La passione,2,6.072291666666671,False
+12841,The Leviathan,3,5.1066666666666745,False
+12842,Die Geisterjagd,2,5.102666666666674,False
+12879,Unhinged,2,5.959999999999996,False
+12882,Sesso profondo,2,4.606611263336768,False
+12891,The Cleaner,2,5.1066666666666745,False
+12919,A Beautiful Tragedy,2,6.838573763955331,True
+12941,The Disappearance of Alice Creed,3,5.884555555555554,False
+12955,Sipelgapesa,2,6.640687732819754,True
+12964,Carnaval de Binche,2,5.103000000000007,False
+13002,S.A. l'Amore,2,5.1066666666666745,False
+13013,Rouge,2,5.103000000000007,False
+13017,Sedam i po,2,7.530487725455368,True
+13044,Rock and Roll's Greatest Failure: Otway the Movie,2,7.009661812941956,True
+13062,Sirocco,2,5.0620000000000065,False
+13067,La citadelle assiégée,2,7.378781366294513,True
+13085,The Creeping,4,4.984404761904765,False
+13095,Peshmerga,2,4.266263311688315,False
+13147,Nocturnes,2,5.0620000000000065,False
+13163,Pupatella,2,5.0620000000000065,False
+13166,O Douro nos Caminhos da Literatura: Trindade Coelho,2,5.1066666666666745,False
+13172,La grand' Place de Bruxelles,2,5.102666666666674,False
+13196,Ladri di barzellette,2,5.356599612036709,False
+13208,London Melody,2,5.300425252525254,False
+13216,Victòria! 3: El seny i la rauxa,2,5.848457142857144,False
+13219,The Twisted Death of a Lonely Madman,2,5.612593799751419,False
+13227,Poles Apart,2,5.1066666666666745,False
+13242,Schweizer Helden,2,6.633104795533561,True
+13290,512 Hours,3,5.192425252525254,False
+13292,The Originals,2,5.1066666666666745,False
+13300,The Guarantee,3,6.073476666666667,False
+13302,72hrs the Hague: Viral,2,5.103000000000007,False
+13313,"7, Hyden Park: La casa maledetta",2,5.695478072577434,False
+13316,Der Judas von Tirol,3,5.580500619006319,False
+13326,La governante,2,6.359452222222227,False
+13362,Amok,2,5.7548223655914015,False
+13378,Hair of the Dog,2,5.1066666666666745,False
+13457,Burnley vs Liverpool,2,5.0620000000000065,False
+13467,Ashens and the Polybius Heist,2,5.933116493921975,False
+13489,Exit 7,2,4.824147030838673,False
+13508,Benoît Brisefer: Les taxis rouges,2,4.5789016937525835,False
+13524,POV Deep Dildo Fuck Milf Moaning,2,5.1066666666666745,False
+13527,Santo frente a la muerte,2,5.356599612036709,False
+13540,I Bet You,2,6.257452222222224,False
+13541,Die Liebe der Bajadere,2,5.0620000000000065,False
+13546,Die büßende Magdalena,2,5.0620000000000065,False
+13547,Dorsvloer vol confetti,2,6.770538744507899,True
+13550,Der Berg ruft!,2,6.837888764595339,True
+13556,Lara Fabian - Mademoiselle Zhivago,2,8.260442857142857,True
+13557,Day Six,2,5.1066666666666745,False
+13575,Wallace & Gromit: Vengeance Most Fowl,2,5.1066666666666745,False
+13618,Breakdown,2,5.1066666666666745,False
+13624,Daleko za sluncem,2,8.009087301587304,True
+13652,Piedone l'africano,2,6.331132099092423,False
+13660,Nostalgia,2,6.584833144614907,True
+13675,Dog Eat Dog,2,5.162857142857145,False
+13680,The Chumscrubber,2,6.770538744507899,True
+13721,The Long Hope,2,6.767378097787145,True
+13772,The Waiting Room,2,5.1066666666666745,False
+13783,El currante,2,4.7953301282051335,False
+13789,Low Flyers: The Europe Trip,2,5.102666666666674,False
+13790,Faith,2,5.1066666666666745,False
+13797,Glauser,2,5.1066666666666745,False
+13803,Four Christmases,2,5.777074484320215,False
+13834,Korczak,2,7.378781366294513,True
+13852,Manchester City F.C. vs Tottenham Hotspur Football Club,2,5.0620000000000065,False
+13862,The Shop at Sly Corner,2,6.124347587719294,False
+13900,Lo ammazzò come un cane... ma lui rideva ancora,2,5.848457142857144,False
+13907,Mortem,2,5.1066666666666745,False
+13949,Festung,2,6.326965377528865,False
+13969,Eva,2,5.0620000000000065,False
+13979,Do Not Disturb,2,5.1066666666666745,False
+14002,Lucy 2,3,5.1066666666666745,False
+14032,Los ilusos,2,6.597694388202736,True
+14046,The Black Sheep,3,5.1066666666666745,False
+14047,Les anges gardiens,2,5.251999999999999,False
+14052,The Browning Version,3,6.3330000000000055,False
+14089,Soof 2,4,6.066384999727028,False
+14091,Der Arzt stellt fest...,2,5.218288836147028,False
+14104,Le cSK,2,5.103000000000007,False
+14110,Waking David,2,6.408080129588684,False
+14112,Swing,3,5.621340326340328,False
+14115,Pas de Deux,3,5.1066666666666745,False
+14166,Masterpiece,2,6.923598975268028,True
+14173,Lost and Found,2,5.98175112707997,False
+14192,"Marina, un vulcano di piacere",2,4.733875921300922,False
+14195,La laude della vita e la laude della morte,2,5.1066666666666745,False
+14199,Les années lumière,2,5.258484076054665,False
+14214,Kuningas jolla ei ollut sydäntä,2,5.695478072577434,False
+14226,Talking Dolls,2,7.527290476190467,True
+14229,The Touch of a Child,2,5.103000000000007,False
+14239,I coltelli del vendicatore,2,5.344444444444443,False
+14243,Liverpool vs Southampton,2,5.102666666666674,False
+14244,Heart of Lightness,2,6.1742741277110875,False
+14249,The Night Watchman,2,4.607782142857145,False
+14258,L'engrenage,2,5.0620000000000065,False
+14276,Jocelyn,2,5.0620000000000065,False
+14340,La moza de cántaro,2,5.106311447811448,False
+14417,La Voix du Ciel de Joud Said à Alexandrie (Carnet filmé: 11 octobre 2019),2,5.1066666666666745,False
+14424,Newcastle United vs Manchester United,2,5.0620000000000065,False
+14431,Ringo del Nebraska,2,5.695478072577434,False
+14453,Brood Parasite,2,5.1066666666666745,False
+14456,Excitation au soleil,3,4.9642575933766935,False
+14470,"Jean Ziegler, le bonheur d'être Suisse",2,5.1066666666666745,False
+14483,Doutes: Chronique du sentiment politique,2,3.7000000000000033,False
+14496,Leo,2,5.97536383810281,False
+14499,Estratto dagli archivi segreti della polizia di una capitale europea,2,5.356599612036709,False
+14518,Les anges sont parmi nous,2,5.0620000000000065,False
+14521,Redemption Song,2,5.1066666666666745,False
+14528,Corpse Collector,2,6.710184871029983,True
+14553,Dvorets dlya Putina. Istoriya samoy bolshoy vzyatki,2,8.572000000000013,True
+14562,Bpm,3,5.1066666666666745,False
+14607,Mind-Bender 2,2,5.1066666666666745,False
+14680,La civil,3,5.032465359477126,False
+14683,Kafti ekdikisis,2,5.777074484320215,False
+14685,One More Time,2,5.1066666666666745,False
+14686,Alma mater,2,5.102666666666674,False
+14713,La Parra,2,6.367522575282902,False
+14729,Õiglus 2,2,4.294072835497838,False
+14730,Svennis,2,7.035751993353487,True
+14755,Horror-Scopes: Volume Three,2,5.103000000000007,False
+14774,Let's Dance,2,5.999154163252182,False
+14798,Georgica,2,5.356599612036709,False
+14816,Cattive inclinazioni,2,4.643069516594515,False
+14818,Mademoiselle Docteur,2,6.046820829918847,False
+14846,El altillo,2,5.1066666666666745,False
+14854,Magdalen,2,5.1066666666666745,False
+14883,La sepolta viva,2,5.1066666666666745,False
+14948,Squat32,2,5.8686632321404515,False
+14955,Viejos,2,5.23688791503474,False
+14971,My 2,2,5.313891220277307,False
+14978,Pierino torna a scuola,2,5.08490484949833,False
+14979,Trial and Error,2,5.0620000000000065,False
+15012,Dealer,2,5.508325125884772,False
+15029,Frou-Frou,3,5.0620000000000065,False
+15036,Terror,2,3.7738065604067663,False
+15051,Hear My Voice,2,5.1066666666666745,False
+15054,Uno di noi,2,5.0620000000000065,False
+15065,Pinocchio,4,5.1066666666666745,False
+15076,Last Man Down 2,2,5.1066666666666745,False
+15094,La corrispondenza,5,6.080666666666673,False
+15109,Pierrot Lunaire,2,4.991218583736522,False
+15147,Les fantômes,2,5.073711753880304,False
+15157,Into the Grey,2,5.1066666666666745,False
+15159,Dunkirk,2,7.530487725455368,True
+15166,La prunelle de mes yeux,2,5.1066666666666745,False
+15187,The Wreck,2,5.050991166369752,False
+15188,The Hunting of the Snark,2,5.714695238095242,False
+15224,Pozyvnyy 'Banderas',2,6.479646068695303,False
+15240,Sled kraja na sveta,2,6.651605248539313,True
+15246,The Cursed Ones,2,6.596160714285714,True
+15260,The Blood of Wynter,2,5.1066666666666745,False
+15261,Operasjon Mumie,2,5.374470774976657,False
+15271,Le spie uccidono in silenzio,2,4.891324028826348,False
+15274,The Kingdom of Zydeco,2,7.468663143487062,True
+15323,Ultimul Zburãtor,2,4.538300785115299,False
+15457,Familia,2,6.675566256605721,True
+15522,Mon maître d'école,2,6.520809068393793,True
+15527,The Boy Who Was a King,2,7.304633291914482,True
+15546,Sabotage!,2,5.168044744861635,False
+15552,Dante,2,5.0620000000000065,False
+15590,Une java,2,5.610797536917501,False
+15611,Mutiny,2,5.1066666666666745,False
+15612,Die Jungfern vom Bischofsberg,2,5.299425252525253,False
+15627,Donna è bello,2,5.696906003340843,False
+15658,First to Fall,2,7.329828903041402,True
+15665,Karsten og Petra ut på tur,2,5.96429460642251,False
+15668,The Kissing Booth 2,2,5.691159531762749,False
+15767,The Sweet Sweetness of Success,2,5.1066666666666745,False
+15771,Fucking Different XXY,3,5.795000000000001,False
+15778,The Gorgon,9,6.323249999999998,False
+15780,Tu pa tam,2,7.035751993353487,True
+15786,Innenkind,2,5.1066666666666745,False
+15790,Take It Back and Start All Over,2,6.640687732819754,True
+15825,Harrison és Barrison II,2,5.102666666666674,False
+15864,Mädchen nach Mitternacht,2,3.8983890775890773,False
+15880,The Deal,2,5.1066666666666745,False
+15882,Life,3,5.1066666666666745,False
+15888,L'union minière du Haut-katanga,2,5.103000000000007,False
+15893,3 Lives,2,3.4488373543123543,False
+15935,Das große Schönheits video,2,5.0620000000000065,False
+15938,La petite mort,3,5.103000000000007,False
+15957,The Green Park,2,6.597694388202736,True
+15985,One More Shot,2,4.861620772946859,False
+15986,"Sarati, le terrible",2,5.43572363766335,False
+15990,Pharmakon,3,6.223413733436829,False
+16068,The Bough Breaks,2,5.0620000000000065,False
+16114,I Am Haiti,3,5.1066666666666745,False
+16115,Anni 90 - Parte II,2,4.901459465534465,False
+16148,Sune - Best Man,2,5.442795275344205,False
+16177,The Wife Whom God Forgot,3,5.1066666666666745,False
+16188,"Aquí llega Condemor, el pecador de la pradera",2,4.121817560217562,False
+16196,Una bara per lo sceriffo,2,5.777074484320215,False
+16198,El sur,2,7.736796681096682,True
+16239,JailBird,2,5.1066666666666745,False
+16270,"Valencia, protectora de la infancia",2,5.0620000000000065,False
+16273,2 Days in January,2,5.0620000000000065,False
+16308,Le serpent,2,6.17570480630107,False
+16321,Operación Camarón,2,5.524522587856236,False
+16352,Der Herr ohne Wohnung,2,5.355162647483237,False
+16375,Waka Waka,2,5.1066666666666745,False
+16392,"Adrian Street Story: You May Be Pretty, But I Am Beautiful",2,7.304633291914482,True
+16394,El colegio de la muerte,3,4.966602223911913,False
+16400,"Guillaume Tell: Royal Opera, London 2015",2,5.1066666666666745,False
+16412,Mademoiselle Josette ma femme,2,5.0620000000000065,False
+16418,Der Leiermann,2,5.103000000000007,False
+16433,Salomé,2,6.309666666666666,False
+16459,Tendres souvenirs d'une belle salope,2,4.382961111111112,False
+16489,Sansonette e i quattro arlecchini,2,5.231797303165219,False
+16505,Prelyubodeyanie,3,4.65825576190665,False
+16512,A Movement of Movement,2,5.1066666666666745,False
+16519,Coplan ouvre le feu à Mexico,2,4.57740359366897,False
+16527,Frontera,2,5.0620000000000065,False
+16544,Polite Society,2,6.408080129588684,False
+16554,STARFIGHTER III,2,5.1066666666666745,False
+16581,El aire de un crimen,2,6.084493055555554,False
+16621,Cicciolina il giorno dopo - Orgia nucleare,2,5.1066666666666745,False
+16650,The Lady from Lisbon,2,5.8686632321404515,False
+16667,Doorways,2,5.610522558033101,False
+16668,Deadline,2,5.1066666666666745,False
+16699,Illusione,2,5.1066666666666745,False
+16713,Guilty Movie,2,6.640687732819754,True
+16720,La discoteca,4,4.810926906426911,False
+16730,Shuttlecock,2,4.606611263336768,False
+16780,O agathiaris kai i atsida,2,4.725916458541457,False
+16785,Liverpool Football Club vs Sunderland A.F.C.,2,5.0620000000000065,False
+16796,"I, Dolours",2,6.8793708706459356,True
+16801,Le secret de Polichinelle,2,5.102666666666674,False
+16812,Il sole di Montecassino,2,4.911686760461759,False
+16816,Black,2,3.8166999999999955,False
+16821,The Grinch,2,6.39093238406473,False
+16836,The ACE of Diamonds,2,5.1066666666666745,False
+16871,"Avant les assises, une affaire de viol",2,5.1066666666666745,False
+16877,Merseyside Derby,2,5.102666666666674,False
+16888,Skal vi leke gjemsel?,2,4.911686760461759,False
+16924,Mercy,2,5.1066666666666745,False
+16942,Klovn the Final,3,6.578487613108652,True
+16945,Vanina oder Die Galgenhochzeit,2,5.664641576864202,False
+16964,Nieobliczalna,2,5.524522587856236,False
+17035,A Christmas Carol,3,5.100265151515153,False
+17039,The Mercenaries,3,5.352818285413744,False
+17041,La caliente niña Julietta,4,4.686660858585862,False
+17051,Two Deaths,2,6.39093238406473,False
+17065,Bad Boa's,2,5.0620000000000065,False
+17132,Around the World in 11 Days,2,5.1066666666666745,False
+17150,Plan B,2,5.1066666666666745,False
+17161,Kill the Poet,2,5.1066666666666745,False
+17190,Zombies from Sector 9,2,5.610522558033101,False
+17198,Ducobu passe au vert!,3,4.814132803591318,False
+17208,Il sindaco del Rione Sanità,2,6.412719307202462,False
+17220,Surveillance,2,5.557999999999997,False
+17223,Iris,3,5.1066666666666745,False
+17254,Der lustige Witwer,3,5.103000000000007,False
+17267,Der Hauptmann,2,6.4603795238095305,False
+17311,My Way,2,5.1066666666666745,False
+17318,Mes lieux d'habitation,2,5.0620000000000065,False
+17320,Actualidades Desportivas,2,5.1066666666666745,False
+17336,Krummerne - Så er det jul igen,3,4.766628205128207,False
+17347,Anonymous: Street Meat,2,5.1066666666666745,False
+17373,Lionheart,2,5.1066666666666745,False
+17413,The Clan,2,6.215999999999997,False
+17437,Carnaby St. the Soho Backstreet That Spawned the Swinging 60s: Part 2,2,5.102666666666674,False
+17457,Bieffekterna,2,4.572647180386693,False
+17458,Nina,4,5.1066666666666745,False
+17481,The Zombie King,2,3.995210164835166,False
+17486,"Good News: Von Kolporteuren, toten Hunden und anderen Wienern",2,7.304633291914482,True
+17501,Hoe duur was de suiker,2,6.770538744507899,True
+17525,The Best of Enemies,2,6.7656678564213015,True
+17526,Hacker's Game,2,4.66387777777778,False
+17553,L'amazzone mascherata,2,5.218288836147028,False
+17561,Let Me Go,2,6.246066666666669,False
+17566,La repubblica di San Gennaro,2,5.610522558033101,False
+17579,Inter Milan vs AC Milan,2,5.0620000000000065,False
+17583,The Films of the Brothers Quay,2,5.1066666666666745,False
+17607,No Land's Song,2,7.009661812941956,True
+17610,Franky,2,5.1066666666666745,False
+17641,I 7 di Marsa Matruh,2,5.168044744861635,False
+17690,In the Land of the Rising Sun - Arcadia World Cosmos Global Travel Films,2,5.0620000000000065,False
+17693,Trip,2,5.0620000000000065,False
+17707,Restless,2,7.184376068376074,True
+17716,Detention,2,5.1066666666666745,False
+17751,Die Wilde Ursula,2,5.1066666666666745,False
+17765,Etudes pour un paysage amoureux,2,5.1066666666666745,False
+17792,Shop of Little Pleasures,2,6.326965377528865,False
+17840,Hello Carter,2,5.695478072577434,False
+17884,Bis früh um fünfe,2,5.1066666666666745,False
+17916,Never A Master Plan,2,5.1066666666666745,False
+17943,Greed,2,5.034860838018191,False
+17951,Brooklyn,3,6.724674432534943,True
+17963,Occhi dalle stelle,2,3.9127999999999985,False
+18017,Hello Stranger,3,5.1066666666666745,False
+18071,La pianiste,2,6.353000000000004,False
+18082,"Wie ich lernte, bei mir selbst Kind zu sein",2,6.408080129588684,False
+18124,V.A.S.,2,5.1066666666666745,False
+18167,The New Man,2,6.024536363636363,False
+18177,Mrs. Thompson,2,5.1066666666666745,False
+18191,Im weißen Rößl,2,5.592722374666494,False
+18201,Decameron 2020,2,7.927333333333338,True
+18223,Königsmark,2,5.8686632321404515,False
+18230,Ce cochon de Morin,2,5.0620000000000065,False
+18290,Angst,2,6.668298018074832,True
+18306,Opfer der Leidenschaft,2,5.0620000000000065,False
+18309,Jail Caesar,2,7.530487725455368,True
+18319,O Meu Mundo,3,5.1066666666666745,False
+18355,La Bohème,3,4.961076470588237,False
+18390,Becoming the Princess Royal,2,5.1066666666666745,False
+18396,El embrujo de Sevilla,2,5.0620000000000065,False
+18404,Die Korallenprinzessin,2,5.1066666666666745,False
+18457,The Killing House,2,5.1066666666666745,False
+18497,Space Adventure Cobra,2,5.1066666666666745,False
+18505,La colline où rugissent les lionnes,2,5.8686632321404515,False
+18546,Das Liebeskarussell,2,4.376850406658189,False
+18557,Oi tembelides tis eforis koiladas,2,6.239064973786096,False
+18576,Natasha,2,4.921448332060098,False
+18587,Kvinden der drømte om en mand,2,5.231797303165219,False
+18590,The Show Must Go On,2,5.93413881673882,False
+18592,The Marriage,2,5.0620000000000065,False
+18639,Styrman Karlssons flammor,2,4.904174860787362,False
+18655,Último deseo,2,5.435104397810091,False
+18702,Solange et les vivants,2,6.640687732819754,True
+18741,Scènes de Crimes,2,5.0620000000000065,False
+18770,Home Sweet Home,2,4.728615837369032,False
+18791,Svinhery 2,2,5.118919660821633,False
+18804,Escuadrón,2,4.316438641952307,False
+18809,Fasandræberne,2,7.035751993353487,True
+18812,Der Tiger von Eschnapur,2,6.162190145502648,False
+18848,Femmes,2,4.316438641952307,False
+18868,A Fábrica de Nada,2,6.761370762310946,True
+18874,Kohlhiesels Töchter,3,5.913985829974628,False
+18881,Le bois des amants,2,5.9953225806451655,False
+18888,La brute,5,5.546,False
+18923,Mortadelo y Filemón. Misión: Salvar la Tierra,2,4.643069516594515,False
+18948,Macbeth,3,5.259484076054665,False
+18957,The Manxman,2,6.877362142355963,True
+19025,Les Lions de Cannes 2019: Les meilleures publicités au monde,2,5.0620000000000065,False
+19026,Der letzte Kampf,4,6.024999999999994,False
+19048,Il sorriso del grande tentatore,2,6.331228550096138,False
+19052,Rough Cut,2,4.66387777777778,False
+19053,Destiny,2,5.102666666666674,False
+19082,Skazhene vesillya 3,2,4.799094871794873,False
+19088,La fracture,2,5.57764501325941,False
+19106,L'Étrangleur,2,6.6677782142448025,True
+19110,Anna,3,6.337921419449006,False
+19123,Fridericus Rex - 4. Teil: Schicksalswende,3,5.1066666666666745,False
+19129,Ator 2: L'invincibile Orion,2,4.128183333333336,False
+19144,Kobiety mafii 2,3,4.700272880116959,False
+19156,Cruel Summer,2,5.356599612036709,False
+19181,Amori e metamorfosi,2,8.799,True
+19193,Seine Majestät das Kind,2,5.0620000000000065,False
+19207,Miedzy nami dobrze jest,2,6.584833144614907,True
+19209,Die Rächerin,2,5.102666666666674,False
+19334,La villa delle anime maledette,2,3.4042338189588186,False
+19335,L'argent des autres,3,7.050325029695005,True
+19337,Vores lykkes fjender,2,7.378781366294513,True
+19420,Two Very Long Days,2,5.695478072577434,False
+19421,Gregor,2,8.572000000000013,True
+19461,Bröderna Östermans bravader,2,4.6790878787878825,False
+19468,Boxing for Freedom,2,6.597694388202736,True
+19472,Famille,2,5.103000000000007,False
+19509,Christus,2,5.0620000000000065,False
+19521,The Double,2,5.416056777518541,False
+19570,Liverpool vs Chelsea,2,5.0620000000000065,False
+19575,À coup sûr,2,4.61550140763949,False
+19577,WildLive Expéditions - Guyane,2,5.1066666666666745,False
+19605,The Pink Panther,2,5.6809999999999965,False
+19665,Miracolul din Tekir,2,5.612593799751419,False
+19674,Gefolterte Herzen - 1. Teil: Ohne Heimat,2,5.1066666666666745,False
+19690,1 Maj 1973,2,5.103000000000007,False
+19694,Le cas du Docteur Laurent,2,5.55608601103013,False
+19751,The People That Time Forgot,2,4.861620772946859,False
+19772,Unsere tollen Tanten in der Südsee,2,4.748470498863885,False
+19815,La ragazza del vagone letto,2,5.231797303165219,False
+19821,Cinderella,2,6.988057258524761,True
+19841,Dead Trust,2,5.1066666666666745,False
+19863,Le gentleman d'Epsom,4,6.421892438985029,False
+19942,Paris 1986,3,5.0620000000000065,False
+19963,Liverpool vs Aston Villa,2,5.102666666666674,False
+19965,Miss Julie,2,6.056636363636369,False
+19968,Relentless,2,5.1066666666666745,False
+19978,No Man's Land,3,5.1066666666666745,False
+20073,S/Kidanje,3,6.323040377528864,False
+20123,Freaks Out,2,6.633104795533561,True
+20173,47 Meters Down: Uncaged,2,4.853221586016321,False
+20176,Cyrano de Bergerac,2,5.0620000000000065,False
+20189,O Primeiro Comboio-Mistério,2,5.1066666666666745,False
+20202,Mayerling,2,5.848457142857144,False
+20237,Bottom of the World,2,5.168044744861635,False
+20256,Banat - Il viaggio,2,5.356599612036709,False
+20258,Dead End,2,5.0620000000000065,False
+20302,Je pense à vous,2,6.115000000000004,False
+20323,Sinfonia de Cristal,2,5.0620000000000065,False
+20329,Arcadia,2,5.0620000000000065,False
+20334,The Plague,2,5.1066666666666745,False
+20359,Hranice Lásky,2,5.695478072577434,False
+20379,Grüsse aus Fukushima,2,6.584833144614907,True
+20423,Julie,2,5.380099591195375,False
+20428,The Vicar of Wakefield,2,5.1066666666666745,False
+20442,Ultus and the Three-Button Mystery,2,5.102666666666674,False
+20463,La inaccesible,2,5.102666666666674,False
+20535,L'idea fissa,2,5.218288836147028,False
+20551,Dom,2,6.94616669272356,True
+20590,La cour des grands,2,5.1066666666666745,False
+20619,Broken Land,2,6.770538744507899,True
+20632,Oorlogswinter,2,6.651605248539313,True
+20640,Moje córki krowy,2,6.584833144614907,True
+20646,Afterlife,2,5.1066666666666745,False
+20670,Maria,4,5.1066666666666745,False
+20709,I efoplistina,5,4.247255372405374,False
+20730,The Walton Sextuplets Hannah Luci Ruth Sarah Kate and Jenny,2,5.1066666666666745,False
+20736,Trying on Stockings (pick your favourite),2,5.1066666666666745,False
+20739,La Habanera,2,6.574085985578639,True
+20765,Alithini idoni,2,5.046633333333334,False
+20811,De brouwerij van Leopoldstad,2,5.1066666666666745,False
+20845,Futura,2,5.758716511527689,False
+20850,A Very Ghostly Murder,2,5.1066666666666745,False
+20869,La sposina,2,4.522369465085138,False
+20874,[Un]Righteous Men,2,7.036999999999995,True
+20880,The Trip to Greece,6,6.51023891280587,True
+20899,Transit,2,6.770538744507899,True
+20935,I'm Still Alive,2,5.1066666666666745,False
+20998,Mater dolorosa,2,5.0620000000000065,False
+20999,The Trap,3,5.1066666666666745,False
+21002,Dance Academy,2,5.966000000000003,False
+21026,Rendezvous,2,5.050991166369752,False
+21031,Harmonie,2,5.0620000000000065,False
+21110,Ursus,2,4.994599780305014,False
+21141,Le monde d'après 3,2,5.102666666666674,False
+21150,The Scapegoat,2,6.489338331644258,False
+21163,Last Chance Love,2,5.050991166369752,False
+21201,Everything Carries Me to You,2,5.1066666666666745,False
+21229,Teit meistä kauniin,2,6.326965377528865,False
+21231,Much Ado,2,4.911847712418301,False
+21289,Saa til søs,2,4.798990924761515,False
+21298,La colmena,2,8.062000000000001,True
+21301,La papesse Jeanne,2,3.3874237207237194,False
+21317,Érase una vez en Euskadi,2,5.848457142857144,False
+21333,Tuareg - Il guerriero del deserto,2,5.524522587856236,False
+21344,Retribution,3,5.1066666666666745,False
+21363,Revolution 3.0,3,5.103000000000007,False
+21413,Risto Räppääjä ja viileä Venla,2,4.488376080803438,False
+21440,The Maids,3,6.055097884416923,False
+21445,Die Wahrheit der Lüge,2,4.66387777777778,False
+21493,Wings,2,5.1066666666666745,False
+21560,Frankenstein,2,5.1066666666666745,False
+21567,Shadows in the Distance,2,5.848457142857144,False
+21592,Forse che sì forse che no,2,5.0620000000000065,False
+21595,Gist,2,5.1066666666666745,False
+21602,Listy do M. 5,2,4.915839743589744,False
+21717,The Prado Museum. A Collection of Wonders,2,6.651605248539313,True
+21760,El perquè de tot plegat,2,5.81727645207831,False
+21839,My Name Is Happy,4,5.325536363636365,False
+21853,Analyse et commentaires sur Au Hasard Balthazar,6,5.103000000000007,False
+21857,Les chatouilles,2,5.7689999999999975,False
+21879,Made in Italy,3,5.570357759610237,False
+21891,The Tower,2,4.8567149987267655,False
+21896,Skinny Love,2,5.225484076054665,False
+21930,O panikos,3,5.584285326086955,False
+21938,Il sogno di un giorno,2,5.1066666666666745,False
+21952,The Hypocrites,2,5.0620000000000065,False
+21954,The Tesla Case,2,8.273250000000012,True
+21968,Internal Combustion,2,5.1066666666666745,False
+21999,Felix 2 - Der Hase und die verflixte Zeitmaschine,2,5.367060058568879,False
+22000,Der Balletterzherzog. Ein Wiener Spiel von Tanz und Liebe,2,6.651605248539313,True
+22007,The House That Jack Built,3,6.764958094513955,True
+22050,Vaterland,3,5.1066666666666745,False
+22071,The Call Box Mystery,5,5.107000000000007,False
+22106,Retour hemel II: Keihard terug op aarde,2,5.1066666666666745,False
+22135,La menzogna,2,5.0620000000000065,False
+22137,Stiller Sommer,2,5.777074484320215,False
+22143,Santarém,3,5.103000000000007,False
+22188,La innocència,2,6.597694388202736,True
+22203,Hanni & Nanni 3,2,4.2328584805545315,False
+22205,VHS Forever? Psychotronic People,2,6.584833144614907,True
+22213,Icon Born,2,5.1066666666666745,False
+22323,Arredores de Torres,2,5.103000000000007,False
+22354,Nasciturus: El que va a nacer,2,4.572647180386693,False
+22391,Unsere kleine Frau,2,5.23688791503474,False
+22412,Basic Instinct 2,2,5.655000000000001,False
+22448,Fighter,2,6.714803751803755,True
+22497,Jean-Noël Mirande filme Cinématon (Carnet Filmé: 21 juin 2011 - 22 juin 2011),2,5.0620000000000065,False
+22513,Der Brand im Varieté Mascotte,2,5.102666666666674,False
+22529,Manchester United vs Liverpool,4,5.103000000000007,False
+22531,Comeback,3,5.797479999999997,False
+22536,Los desamparados,2,5.1066666666666745,False
+22562,Jeunesse,2,5.927946405766963,False
+22563,A través del mar,2,5.064948732459489,False
+22611,Instrumental,2,5.1066666666666745,False
+22638,Le diamant noir,2,5.0620000000000065,False
+22643,Saint-Marcellin vu par Gérard Courant II (2009-2017) (Carnet Filmé: 2 avril 2009 13 avril 2017),2,5.0620000000000065,False
+22661,What's Up Superdoc!,2,4.266763311688315,False
+22664,Suite Française,2,6.651605248539313,True
+22682,La prima notte di quiete,4,6.769500000000001,True
+22739,Solitude,2,5.1066666666666745,False
+22745,Le retour de Marilyn,2,5.700727572427569,False
+22829,Squibs' Honeymoon,2,5.103000000000007,False
+22882,The Stressful Adventures of Boxhead & Roundhead,2,7.304633291914482,True
+22938,Still Loved,2,7.064999999999995,True
+22957,Broken,2,5.1066666666666745,False
+22958,Los inocentes,2,5.423187499999998,False
+23014,Girl,3,5.596481747443818,False
+23022,The Witness Jenya,2,5.1066666666666745,False
+23050,Trampoline,2,5.356599612036709,False
+23165,L'ombra,2,5.103000000000007,False
+23167,The Curse of Sidonia - documentary,2,5.1066666666666745,False
+23191,Flashbacks of a Fool,2,6.770538744507899,True
+23247,Blind Date,2,6.041,False
+23356,Cinque mondi,2,6.408080129588684,False
+23364,Sinterklaas en de pepernoten chaos,4,5.5106553030303065,False
+23370,Amore rosso (Marianna Sirca),2,5.435104397810091,False
+23390,Them,2,5.1066666666666745,False
+23412,Barcelonnabis,2,6.239064973786096,False
+23413,La Jauría,3,5.395599612036709,False
+23434,Hugo in Argentina,2,6.701843286099867,True
+23460,Cold Blood,2,6.734828598378318,True
+23490,California City,2,5.8686632321404515,False
+23512,Living Without Water,2,7.979000000000005,True
+23521,Gente en sitios,2,5.356599612036709,False
+23543,All Night Long,2,6.520809068393793,True
+23560,Cirkusrevyen 2015,3,5.0620000000000065,False
+23570,ZOE,2,5.1066666666666745,False
+23571,Jack et la mécanique du coeur,2,6.633104795533561,True
+23589,The Best Day of My Life,2,5.0620000000000065,False
+23649,Last of the Elephant Men,3,7.416836921850068,True
+23675,A szerzetes,2,5.0620000000000065,False
+23734,Bufera,2,5.0620000000000065,False
+23799,Shooting Clerks,2,5.610522558033101,False
+23806,The Queen's Corgi,2,5.132571428571429,False
+23834,Den skaldede frisør,2,6.625081837856137,True
+23836,Le chouchou de l'asile,2,4.523933333333336,False
+23854,La banda del trucido,2,5.877763772637606,False
+23856,The Extraordinary Tale of the Times Table,2,5.218288836147028,False
+23863,Mia moglie è una bestia,2,4.957833333333337,False
+23912,Gabriel,2,6.1320000000000014,False
+23918,Andel Páne 2,2,6.681098048448493,True
+23979,Blowback,2,5.1066666666666745,False
+24035,Where Demons Hide,2,5.1066666666666745,False
+24094,Enas kontos tha mas sosei!,3,4.74299862490451,False
+24104,Schwarzkopf BRD: Martin Luther King in Berlin!,2,7.530487725455368,True
+24151,Puya: In the Circle of Time,2,5.1066666666666745,False
+24161,Atlantic.,2,6.597694388202736,True
+24164,Der grosse Kanton,2,6.640687732819754,True
+24215,La visite,2,5.0620000000000065,False
+24224,In the Dusk,2,5.848457142857144,False
+24226,Grindsploitation 4: Meltsploitation,2,4.573039024864029,False
+24252,All Human Rights for All,2,5.777074484320215,False
+24329,Offbeat,3,5.1066666666666745,False
+24356,Blücher,2,5.1066666666666745,False
+24382,The Sporting Instinct,2,5.102666666666674,False
+24425,The Love Story of Aliette Brunton,3,5.103000000000007,False
+24443,Dreamcatcher,2,7.035751993353487,True
+24464,Virginia Woolf's Night & Day,2,5.1066666666666745,False
+24474,Science Fiction,2,5.004542452171486,False
+24480,Zagrebacke price vol. 3,2,6.889278556359837,True
+24495,Olsenbanden jr. og det sorte gullet,3,4.751895625942682,False
+24513,The Queen Was in the Parlour,2,5.1066666666666745,False
+24524,Il permesso - 48 ore fuori,2,5.610522558033101,False
+24525,Licínio de Azevedo: Crónicas de Moçambique,2,5.1066666666666745,False
+24542,La Californie,3,5.526896551724142,False
+24551,Nespokoen dom,2,5.234484076054664,False
+24561,Moterys meluoja geriau. Robertelis,2,4.937499999999999,False
+24577,Orgasmo perverso,3,5.1092448574301494,False
+24602,The Kings,2,5.1066666666666745,False
+24727,Liverpool vs Manchester United,2,5.103000000000007,False
+24741,Exodus,2,5.314162647483238,False
+24753,The Child in the Box: Who Killed Ursula Herrmann,2,6.597694388202736,True
+24764,L'Escale,2,5.0620000000000065,False
+24777,Le berceau de cristal,2,5.99066055555556,False
+24786,La guerra del ferro: Ironmaster,2,4.61550140763949,False
+24801,Die Pfefferkörner und der Schatz der Tiefsee,2,6.123026683501683,False
+24823,EVE,3,5.317425252525254,False
+24831,Ghosts,2,5.0620000000000065,False
+24861,Riviera,2,5.1066666666666745,False
+24873,Don't Hang Up,2,5.287715032679737,False
+24900,L'amore non basta,2,5.111024627496685,False
+24903,Q,2,5.524522587856236,False
+24904,De Nood Aan Dansen,2,5.1066666666666745,False
+24936,Cathedrals of Culture,3,6.681909676687615,True
+24941,Les drapeaux de papier,2,5.658999999999993,False
+24965,Dimensão S 2,2,5.103000000000007,False
+24988,Marie la bohémienne,2,5.102666666666674,False
+25052,L'Alliance,2,5.1066666666666745,False
+25069,Till det som är vackert,2,6.633104795533561,True
+25098,Ejersbo,2,6.584833144614907,True
+25140,Quebrando o Tabu,3,7.1384985128433645,True
+25168,Deja Vu,2,5.1066666666666745,False
+25189,Le Printemps des Rennes,2,5.1066666666666745,False
+25221,Scales,2,5.1066666666666745,False
+25257,Alle Zeit der Welt,2,5.0620000000000065,False
+25286,Zero,4,5.1066666666666745,False
+25301,Schaste moe,2,6.770538744507899,True
+25319,Dragen og jordelementet,2,5.1066666666666745,False
+25331,10 Jahre später,3,5.0620000000000065,False
+25336,Ab Negative,2,5.198307767722473,False
+25337,Kokowääh 2,2,5.827831932773109,False
+25405,Max 10,3,5.1066666666666745,False
+25459,One Minute for Conductors,2,7.530487725455368,True
+25464,Berlin Calling,2,6.799181544579559,True
+25493,L'aventure des millions,2,5.102666666666674,False
+25504,Biancaneve & Co...,2,3.892610514485516,False
+25519,U.F.O.,2,3.6886222222222216,False
+25529,The Terror of the Tongs,3,6.069053359683796,False
+25558,L'Chaim!: To Life!,2,7.378781366294513,True
+25571,Il solitario,2,5.23688791503474,False
+25584,La guerrilla,2,6.135456018518518,False
+25585,Melancholia,2,7.035751993353487,True
+25595,Cleaner,2,5.1066666666666745,False
+25632,Tottenham Hotspur vs Liverpool,2,5.102666666666674,False
+25687,The Flying Fifty-Five,5,5.103000000000007,False
+25741,L'iniziazione,2,6.029000000000001,False
+25746,Trapped,4,5.1066666666666745,False
+25780,Drifter,3,5.241254707792209,False
+25797,Mirabilis,2,3.9127999999999985,False
+25798,Un homme en or,2,5.218288836147028,False
+25817,El retorno del hombre lobo,2,5.761143814604427,False
+25865,Streetz Incarcerated Vol 3,2,5.102666666666674,False
+25879,Den blomstertid nu kommer,2,5.8686632321404515,False
+25888,Conclave,2,7.221696275946274,True
+25915,Das Ding aus der Mur Zero,2,5.103000000000007,False
+25971,L'orphelin de Paris,2,5.103000000000007,False
+25979,El arte de no casarse,2,4.606611263336768,False
+25994,On the Nose,2,5.610522558033101,False
+26074,Maciste contre la reine des Amazones,2,3.9127999999999985,False
+26115,Liverpool Football Club vs Arsenal Football Club,3,5.103000000000007,False
+26184,Rose,2,6.172783347008465,False
+26205,Magyar retró 2,2,8.123057746175395,True
+26209,U Pana Boga za miedza,2,6.431227182539685,False
+26224,Crossing Borders,2,5.1066666666666745,False
+26250,Full Speed Ahead,2,5.0620000000000065,False
+26347,El hijo del capitán Blood,2,5.218288836147028,False
+26362,Mirage d'amour avec fanfare,2,6.408080129588684,False
+26372,Go West,2,5.1066666666666745,False
+26386,Happy!,2,5.1066666666666745,False
+26396,La cameriera nera,2,5.079149999999993,False
+26415,Uuno Turhapuro herra Helsingin herra,3,5.939000000000001,False
+26452,Into the Mystic,2,5.1066666666666745,False
+26470,Cougar,2,5.1066666666666745,False
+26498,Taxandria,2,6.17719002001966,False
+26518,Over the Wall,2,5.777074484320215,False
+26557,Der Meisterdetektiv,2,5.7479374999999955,False
+26565,Der falsche Prinz,2,5.0620000000000065,False
+26598,Santa,2,5.1066666666666745,False
+26608,Tape 53,3,5.1066666666666745,False
+26653,Second Coming,2,5.1066666666666745,False
+26667,Blood Money,2,4.572647180386693,False
+26697,Hunt,2,6.217000000000001,False
+26712,O daskalakos itan leventia,5,5.700628638560049,False
+26808,All the Precious Things,2,7.329828903041402,True
+26951,XConfessions Vol. 14,2,5.103000000000007,False
+26971,Cirkus Summarum 2013,2,5.102666666666674,False
+26980,LasseMajas detektivbyrå - Tågrånarens hemlighet,2,4.825999999999996,False
+27032,La honradez de la cerradura,2,5.1259999999999994,False
+27080,Liverpool Football Club vs Manchester City F.C.,2,5.0620000000000065,False
+27095,Aurora,2,6.061555521029509,False
+27116,Irréversible,2,6.520809068393793,True
+27127,Fenster Blau,2,5.1066666666666745,False
+27146,Bob Marley: The Making of a Legend,2,6.659580404497551,True
+27190,Das Frauenhaus von Rio,2,6.39093238406473,False
+27307,35 Cows and a Kalashnikov,2,6.633104795533561,True
+27341,Prání k mání,2,5.961668809155178,False
+27353,Hany,2,5.524522587856236,False
+27391,Ömheten,2,4.5789016937525835,False
+27411,A Strange Love Affair with Ego,2,6.408080129588684,False
+27413,The Bloody Truth,2,6.633104795533561,True
+27432,Altrimenti ci arrabbiamo,2,3.836248989898988,False
+27492,La casa 3,2,5.021000000000002,False
+27609,Le roi des aulnes,2,6.39093238406473,False
+27637,The Hour of the Pig,2,6.744948996565427,True
+27667,Le fil,4,6.081491634491637,False
+27670,The Mummy's Shroud,2,5.792000000000004,False
+27680,"2 temps, 3 mouvements",2,5.789640079874609,False
+27749,Family Goldmine,2,5.1066666666666745,False
+27800,Il grande colpo dei 7 uomini d'oro,2,5.628228114729916,False
+27833,Manchester United vs Chelsea,2,5.103000000000007,False
+27930,Wenn du noch eine Heimat hast,2,5.0620000000000065,False
+27997,The Unravelling,2,5.1066666666666745,False
+28002,Otkrovenie,2,5.1066666666666745,False
+28031,The Outsider,2,5.1066666666666745,False
+28052,Duck Ugly,2,6.326965377528865,False
+28158,Jag är inte beredd att dö än,2,6.633104795533561,True
+28176,Cinema Mon Amour,2,7.012847435897437,True
+28210,Il carnevale di Venezia,2,5.0620000000000065,False
+28232,Louis Theroux: Surviving America's Most Hated Family,2,6.918573763955334,True
+28238,The Snow Queen's Revenge,2,5.192423115702146,False
+28239,Quim Roscas e Zeca Estacionâncio ao VIVO,2,5.0620000000000065,False
+28349,Normal,2,6.118000000000002,False
+28352,La dérobade,3,5.848866666666665,False
+28383,Atlas,2,6.209066666666671,False
+28406,Michel Strogoff,2,6.483277926622736,False
+28432,Dylan Dog: Il trillo del diavolo,2,7.888739971139977,True
+28443,Caresses inavouables,2,5.516566560417269,False
+28493,Je suis avide d'hommes,3,5.1066666666666745,False
+28697,Borussia Mönchengladbach vs Bayern Munich,2,5.102666666666674,False
+28702,The Demonic Doll,2,4.547401154401154,False
+28710,Letters,2,5.57764501325941,False
+28751,Frech und verliebt,2,6.698636387367408,True
+28779,La notte che dormii sotto le stelle,2,5.103000000000007,False
+28806,Super Hard Love,2,5.244144444444443,False
+28818,Les aventures de Rabbi Jacob,2,5.239484076054664,False
+28838,Laulu,2,6.408080129588684,False
+28921,Erotika paihnidia,2,5.039108021837956,False
+28945,Third Person,2,6.326965377528865,False
+28949,The Bridge,15,5.1066666666666745,False
+28967,Safari,2,5.9149999999999965,False
+28969,Jeunes filles à vendre,3,4.791404016734901,False
+29034,L'ordinateur des pompes funèbres,2,5.492160551333769,False
+29071,Toda una vida,2,4.811714998726765,False
+29078,Just Drifting Along,2,6.326965377528865,False
+29104,VHS Love: Cult Cinema Obsession,2,5.167129368038895,False
+29138,A Doctor's Sword,2,7.00993724053724,True
+29203,Per qualche dollaro in più,2,7.48743174603175,True
+29208,Velvet &,2,5.1066666666666745,False
+29306,Monna Vanna,3,5.0620000000000065,False
+29307,Ângelo de Sousa - Tudo o Que Sou Capaz,2,5.1066666666666745,False
+29316,Jego wielka milosc,2,6.675566256605721,True
+29320,The Door,2,6.419999999999995,False
+29385,Campa carogna... la taglia cresce,2,5.356599612036709,False
+29395,Unearthed,2,5.1066666666666745,False
+29426,For Valour,2,5.561111854952408,False
+29431,On the Road 96,2,5.0620000000000065,False
+29444,Soldiers of the Damned,2,3.9127999999999985,False
+29490,Bingo,2,5.0620000000000065,False
+29543,The Executioner,2,5.818837375844131,False
+29548,"Transformacja cz. 2 - Zmienna linia Partii, III wojna swiatowa i raport lokomotywy",2,6.75950405982906,True
+29559,Retreat,3,5.1066666666666745,False
+29564,Os Funerais de D. Manuel de Bragança,3,5.1066666666666745,False
+29570,Madre,2,5.0620000000000065,False
+29586,Cost of Living,2,5.1066666666666745,False
+29599,The Early Bird,2,6.085000000000007,False
+29645,La città canora,2,5.528499357015534,False
+29646,Madame,2,6.712582222222226,True
+29662,Les seins de glace,3,6.018701149425287,False
+29704,La soif de l'or,2,5.371500000000002,False
+29773,Amateur's Upside Down Deepthroat,5,5.1066666666666745,False
+29846,Newcastle United vs Chelsea,2,5.103000000000007,False
+29862,Les gamins,3,5.327000000000002,False
+29880,Die goldene Mumie,2,5.1066666666666745,False
+29883,Les bas de soie noire,13,5.287160296205721,False
+29962,Even Though the Whole World Is Burning,2,8.572000000000013,True
+30033,Janus,2,5.102666666666674,False
+30046,Il natalizio della nonna,2,5.0620000000000065,False
+30096,Une histoire d'amour,2,6.39093238406473,False
+30109,Ti-Ti Nalle Vuodenajat 2,2,5.103000000000007,False
+30180,Reality,2,5.103000000000007,False
+30244,The Cut,2,5.1066666666666745,False
+30420,I bandoleros della dodicesima ora,2,4.606611263336768,False
+30461,Indústria de Madeiras,2,5.103000000000007,False
+30570,Le comte de Monte-Cristo: La trahison,3,6.995361306678115,True
+30596,Hotel Inferno 3: The Castle of Screams,2,4.750339743589741,False
+30602,Pino Daniele - Nero a metà,2,5.0620000000000065,False
+30680,Un si joli village...,2,6.046454794926507,False
+30817,Nick,2,4.606611263336768,False
+30822,El amor no es lo que era,2,5.231797303165219,False
+30863,The Romantic Englishwoman,2,6.012850994423148,False
+30926,La chèvre de monsieur Seguin,2,5.1066666666666745,False
+30943,"The Better 'ole; or, The Romance of Old Bill",2,5.1066666666666745,False
+30965,Murder at Site 3,2,5.0620000000000065,False
+30991,The Noob Movie III: Descent Into Eternal Darkness,2,5.102666666666674,False
+31015,Kaip pavogti zmona,2,7.035751993353487,True
+31244,Bearn o la sala de las muñecas,2,5.744688300001571,False
+31271,In Embryo,2,6.39093238406473,False
+31312,The ODESSA File,2,6.845896748080972,True
+31328,Les éléphants,2,6.326965377528865,False
+31419,Rasputin,2,5.0620000000000065,False
+31425,Game of Death,2,5.231797303165219,False
+31461,Rose of Tralee,2,5.0620000000000065,False
+31490,Tibi,2,7.304633291914482,True
+31504,Belle pazze scatenate - Le ragazze pon pon,2,5.1066666666666745,False
+31517,Il tuo dolce corpo da uccidere,2,5.983559175722053,False
+31576,The Road to London,3,5.0620000000000065,False
+31603,A Snake's Tail,2,6.717604532346746,True
+31618,Il paese della paura,3,5.103000000000007,False
+31654,Es werde Licht! 2. Teil,2,5.1066666666666745,False
+31670,Emanuelle e Lolita,3,4.881246512311217,False
+31730,El sexo de los ángeles,2,6.156866666666668,False
+31834,Blitz,2,5.1066666666666745,False
+31836,A Reason to Leave,2,6.770538744507899,True
+31849,Deconstruint el vi català,2,5.1066666666666745,False
+31850,Mädchen in Weiß,2,5.0620000000000065,False
+31909,Dr. Jason III,2,5.0620000000000065,False
+31928,Cobra,2,5.1066666666666745,False
+32035,Depravity,2,4.584039016539019,False
+32038,Der rätselhafte Tod,3,5.102666666666674,False
+32086,Férfikor,2,5.612593799751419,False
+32117,Jake,2,5.1066666666666745,False
+32126,Far til fire med fuld musik,3,5.780403685819646,False
+32155,C'est quoi cette mamie?!,2,5.066,False
+32171,Lumpenkavaliere,2,5.1066666666666745,False
+32187,Backstage,2,5.17599865967366,False
+32202,Fantastic Beasts: The Secrets of Dumbledore,2,6.843217731197212,True
+32227,Arabella,2,5.0620000000000065,False
+32242,Intermezzo,2,5.0620000000000065,False
+32272,The Beautiful Country,3,6.896454710144931,True
+32281,Le cri du hibou,2,5.865466666666666,False
+32291,Het lied van het linnen,2,5.102666666666674,False
+32332,Propellerblume,2,7.035751993353487,True
+32337,Le deuxième souffle,2,7.662502557165058,True
+32365,La traversée,2,4.3046500000000005,False
+32371,Småstadsliv 4 - Men det skiter man väl i,2,6.148448275862069,False
+32432,The Sniper's Daughter,2,5.1066666666666745,False
+32443,Christina y la reconversión sexual,2,4.572647180386693,False
+32453,Hotel Room,2,5.1066666666666745,False
+32478,The Unholy,6,5.146583333333334,False
+32491,Sasha,2,6.379874442586406,False
+32531,Sedmero krkavcu,2,7.035751993353487,True
+32593,Et mourir de plaisir,2,5.68410029314347,False
+32639,Tristan + Isolde,2,5.724999999999997,False
+32646,Tango 2001,2,5.401839127679677,False
+32670,Arrête ton cinéma!,2,5.231797303165219,False
+32730,L'ospite,2,5.603722374666494,False
+32821,Parthenope,2,5.438503068166305,False
+32828,Den hvide djævel,2,5.1066666666666745,False
+32904,Dance with the Devil: The Legend of Cozy Powell,2,5.1066666666666745,False
+32919,Nymphomaniac: Vol. II,2,6.744948996565427,True
+32943,Transfer,2,5.0620000000000065,False
+32969,Troubles cérébelleux,2,5.1066666666666745,False
+33055,La condesa María,3,5.728000000000003,False
+33080,The Dudesons Movie,2,5.8686632321404515,False
+33123,Könige,2,5.1066666666666745,False
+33127,Il farfallino,2,5.103000000000007,False
+33146,Il medium,2,6.098000000000001,False
+33171,Stonecliff,2,5.1066666666666745,False
+33202,Julemandens datter 3: Den magiske tidsmaskine,2,5.744517962756976,False
+33379,Layla,3,5.1066666666666745,False
+33489,Happy Endings,2,6.584833144614907,True
+33495,The Making of RAGE,2,5.0620000000000065,False
+33535,Johnny Owen: The Long Journey,2,5.1066666666666745,False
+33537,Cinema Jenin: The Story of a Dream,2,6.784378097787146,True
+33611,Video Nasties: Draconian Days,2,7.6636177471970575,True
+33684,General John Regan,2,5.0620000000000065,False
+33774,Die Alpen: Unsere Berge von oben,2,6.633104795533561,True
+33811,Il mondo di notte numero 3,2,5.768666666666669,False
+33883,Those for Whom It's Always Complicated,2,5.8686632321404515,False
+33970,O tsarlatanos,2,6.101291666666673,False
+34017,Senza respiro,2,5.1066666666666745,False
+34080,Another Me,2,4.708999999999996,False
+34129,Flowerman,2,3.892610514485516,False
+34149,La maladie de Sachs,2,6.92573085413658,True
+34177,Kundschafter des Friedens 2,2,5.0620000000000065,False
+34256,God Forsaken,2,5.1066666666666745,False
+34309,Wintersong: A Film on Dakota Suite,2,5.1066666666666745,False
+34436,Rastres de sàndal,2,6.597694388202736,True
+34441,Madrid Derby,2,5.102666666666674,False
+34481,Hollywood Talkies,2,4.61550140763949,False
+34592,Il suo nome gridava vendetta,2,5.356444444444442,False
+34608,Dying to Live,2,5.1066666666666745,False
+34635,Lawrence,2,5.103000000000007,False
+34641,Der neunte Tag,2,6.696816844435114,True
+34739,Storm,2,5.1066666666666745,False
+34768,Pitfall: Disbelief (Live),2,5.1066666666666745,False
+34772,La locandiera,2,5.32283573311332,False
+34774,Ahora o nunca,2,5.218288836147028,False
+34806,La bugiarda,2,6.281132099092423,False
+34837,Planet Ottakring,2,6.326965377528865,False
+34984,La tragedia di un uomo ridicolo,2,6.490634306748177,False
+35242,Aveiro,2,5.0620000000000065,False
+35256,Aus dem Nichts,2,7.022980564782058,True
+35284,Deadly Virtues: Love.Honour.Obey.,2,4.353965010724574,False
+35318,American Woman,2,6.8091344099605875,True
+35349,World Natural Heritage Costa Rica: Guanacaste National Park,2,5.639094702700403,False
+35378,Operación Mata Hari,2,5.61721899449435,False
+35494,Refugees: Who Needs Them?,2,5.1066666666666745,False
+35499,The Secret Hitman,2,5.1066666666666745,False
+35608,Defence of the Realm,2,5.1066666666666745,False
+35609,O Kotsos exo apo to N.A.T.O.,4,4.5566221223221195,False
+35663,Emily,2,5.1066666666666745,False
+35698,The Last British Execution,2,7.009661812941956,True
+35792,Oorlogsgeheimen,2,7.035751993353487,True
+35812,Caravaggio,2,5.1066666666666745,False
+35825,The Awakening,2,5.1066666666666745,False
+35864,Reflections,3,5.0620000000000065,False
+35867,Encontro Silencioso,2,5.392072332938817,False
+35961,La nuora giovane,2,6.54302152704016,True
+35988,Wasp Network,2,5.612593799751419,False
+36039,Phantasmagoria,2,3.836248989898988,False
+36096,L'apprenti Père Noël et le flocon magique,2,6.640687732819754,True
+36202,The List,2,4.316438641952307,False
+36266,Adam,2,5.1066666666666745,False
+36280,Abel Gance: The Charm of Dynamite,2,6.520809068393793,True
+36290,Trouw met mij,2,5.777074484320215,False
+36316,What Rats Won't Do,2,5.848457142857144,False
+36323,Zweiohrküken,2,5.695478072577434,False
+36332,La donna nuda,2,5.0620000000000065,False
+36399,Men Who Sing,2,7.127444444444447,True
+36432,Sitting Next to Zoe,2,6.009113159597948,False
+36451,Conquest,2,5.1066666666666745,False
+36590,O Cônsul de Bordéus,2,6.175723178963601,False
+36630,La leggenda di Bob Wind,2,5.218288836147028,False
+36720,Meet Pursuit Delange: The Movie,2,6.014390254888303,False
+36843,I tre volti,2,6.239000000000002,False
+36864,A Perfect Day,2,5.0620000000000065,False
+36868,Mango,2,5.1066666666666745,False
+36988,Goldfish,3,5.273484076054665,False
+37045,Oslon talviolympialaiset,2,5.1066666666666745,False
+37113,Nel gorgo del peccato,2,6.640687732819754,True
+37199,Zarobljeno vreme,2,7.009661812941956,True
+37226,Carrousel,2,5.0620000000000065,False
+37337,Lost Boy,2,5.1066666666666745,False
+37372,Così parlò Bellavista,2,6.520809068393793,True
+37393,Seat in Shadow,2,5.231797303165219,False
+37456,El delfín: La historia de un soñador,2,3.3874237207237194,False
+37461,Argo 2,2,7.101388461538462,True
+37518,NOSFERATU: A Symphony of Horror (Audio Score by idiedtrying.),2,5.1066666666666745,False
+37540,Grands travaux,2,7.304633291914482,True
+37543,The Unraveling,2,5.111024627496685,False
+37566,Pekko ja muukalainen,2,4.630063564213566,False
+37605,"Plus ça va, moins ça va",2,5.610522558033101,False
+37613,Aleksi,2,5.848457142857144,False
+37626,The Ugly Duckling and Me!,2,6.037000000000003,False
+37805,Arrivano i miei,2,4.308709749555567,False
+37834,Corruption,2,5.1066666666666745,False
+37977,Die Brücke,2,7.378781366294513,True
+37989,Ogniem i mieczem,2,6.651605248539313,True
+38119,The Dawning,2,6.2080000000000055,False
+38174,Liverpool Football Club Season Review 2017-2018,5,5.103000000000007,False
+38215,Dead Slow Ahead,2,6.584833144614907,True
+38255,C'est beau une ville la nuit,2,5.218288836147028,False
+38333,La noche de las gaviotas,4,5.6988415949779085,False
+38378,Gelo,2,5.610522558033101,False
+38386,I promessi sposi,2,5.423999999999995,False
+38428,Consequences,2,5.1066666666666745,False
+38482,La senyora,2,4.7852805042910305,False
+38524,Land in Sicht,2,6.640726037851039,True
+38623,Leningrad Cowboys Meet Moses,2,6.243322580645163,False
+38624,One Way,2,5.524522587856236,False
+38645,Förtroligheten,2,4.5789016937525835,False
+38703,Händelser vid Slussen,2,6.651605248539313,True
+38891,L'ha fatto una signora,2,5.289144444444446,False
+38901,Luc Moullet (et Patricio Guzmán) à Manosque III (Carnet filmé: 4 février 2011),2,5.1066666666666745,False
+38909,Ghost Train,2,5.1066666666666745,False
+38942,The Line,48,5.1066666666666745,False
+38970,Invasion: UFO,3,5.7953442771824655,False
+39133,Easy,3,5.727239580783389,False
+39212,Aphrodite,2,5.1066666666666745,False
+39285,Formula 1 - Febbre della velocità,2,6.584833144614907,True
+39406,Das Lied der Schwarzen Berge,2,7.009661812941956,True
+39436,La cripta de las condenadas: Parte II,2,3.892441206016208,False
+39681,Dali,2,5.1066666666666745,False
+39776,Guerilla,2,5.839751885014054,False
+39915,Soif de pub: Les Lions de Cannes 2012,2,5.102666666666674,False
+39947,Barbarossa,2,4.911686760461759,False
+40111,Liverpool vs Leicester City,3,5.0620000000000065,False
+40136,Peripherie,2,7.009661812941956,True
+40587,Deza-Femijet (Kosovo 2000),2,7.7863619047619075,True
+40611,The Liability,2,5.612593799751419,False
+40676,Le boucher,3,6.645836707152501,True
+40734,Beshoot,2,7.304633291914482,True
+40920,Anemos stin poli,2,7.309379914955177,True
+41005,El testamento de Diego Rocafort,2,5.1066666666666745,False
+41069,Feardotcom,2,3.3874237207237194,False
+41139,Naughty,2,5.1066666666666745,False
+41150,Espiazione,2,5.103000000000007,False
+41162,Anon,2,5.848457142857144,False
+41296,Kärlekslivets offer,2,5.1066666666666745,False
+41724,The Temptation of Carlton Earle,2,5.1066666666666745,False
+41752,United,2,5.1066666666666745,False
+41906,Pueblos Indigenas del Siglo XXI,2,5.1066666666666745,False
+41920,Spherular,2,5.1066666666666745,False
+41942,Vampire United,2,5.1066666666666745,False
+42111,West Bromwich Albion vs Liverpool,2,5.103000000000007,False
+42115,National Theatre Live: Nye,20,8.164416666666675,True
+42169,Deadly Advice,2,5.848457142857144,False
+42192,Shadows of a Stranger,2,5.1070627673576805,False
+42374,Les cinq diables,2,6.542427634966047,True
+42418,Worlds at the Horizon: Balder,2,5.1066666666666745,False
+42526,Les besoins de la chair,2,5.072400000000003,False
+42600,Der Schrecken im Hause Ardon,2,3.8972441003441016,False
+42695,Estoril às Seis,2,5.1066666666666745,False
+42855,Arsenal vs Manchester United,6,5.103000000000007,False
+43011,Van Gogh: Poets & Lovers,2,7.695200000000004,True
+43026,The French Boys 4,2,6.797251133962726,True
+43071,Hamlet,4,5.0620000000000065,False
+43115,La madriguera,2,5.168044744861635,False
+43118,The War Below,2,6.597694388202736,True
+43255,Es hätte schlimmer kommen können - Mario Adorf,2,6.770538744507899,True
+43331,Il primo comando,2,5.102666666666674,False
+43535,Die Straußkiste II,2,5.103000000000007,False
+43982,Ciao Italia,2,5.1066666666666745,False
+44057,The Day the Earth Caught Fire,2,6.761959410298723,True
+44139,Une Cinémathèque et une exposition en Bourgogne (Carnet Filmé: 2 novembre 2017 - 4 novembre 2017),3,5.0620000000000065,False
+44171,The Christmas Drum,2,5.1066666666666745,False
+44212,Suomi kutsuu II - Lounais-Suomi,2,5.1066666666666745,False
+44221,Caligola: La storia mai raccontata,2,4.5789016937525835,False
+44299,Pour l'honneur,2,5.1066666666666745,False
+44357,Redenzione,2,5.0620000000000065,False
+44373,"Per favore, occupati di Amelia",2,4.634444444444448,False
+44393,Albert,2,4.606611263336768,False
+44416,The Descent: Part 2,2,5.777074484320215,False
+44417,Les apparences,2,6.154667460688497,False
+44581,To koritsi tis amartias,3,5.604999999999999,False
+44962,Portraits,2,5.103000000000007,False
+44989,Querida Gina,2,7.530487725455368,True
+45100,Der lebende Tote,2,5.102666666666674,False
+45120,Diana: The Woman Inside,2,4.653937500000003,False
+45360,Doggy Style Dildo Fuck,2,5.1066666666666745,False
+45538,Twice Shy,2,6.408080129588684,False
+45699,House of the Long Shadows,2,6.107086230738317,False
+45745,Il Viaggio di Carta,2,5.1066666666666745,False
+45851,El orfanato,2,7.378781366294513,True
+45971,Embers,2,6.514000000000005,True
+46068,The Train,11,5.0620000000000065,False
+46126,The Greatest Place to Live on Earth: Too,2,5.1066666666666745,False
+46541,Zwei in einem Auto,2,5.848457142857144,False
+46675,Dwa dni w raju,2,5.1066666666666745,False
+47051,Forgotten Transports to Estonia,2,7.557660822510826,True
+47108,French Leave,2,5.0620000000000065,False
+47276,Christmas in the Caribbean,2,4.093798917748917,False
+47500,Zavestanje,2,8.884666666666678,True
+48155,L'inchiesta,2,4.85112570070831,False

@@ -7,23 +7,22 @@ def build_features(df):
     for fid, group in df.groupby("franchise_id"):
         group = group.sort_values("releaseYear")
         
-        if len(group) < 3:
+        if len(group) < 2:  # ✅ FIXED
             continue
         
         for i in range(1, len(group)):
             prev = group.iloc[:i]
             next_movie = group.iloc[i]
             
-            features.append({
-                **compute_features(prev),
-                "target": next_movie["imdbRating"]
-            })
+            feat = compute_features(prev)
+            feat["target"] = next_movie["imdbRating"]
+            
+            features.append(feat)
     
-    return pd.DataFrame(features)  # ✅ correct place
-    
+    return pd.DataFrame(features)
+
+
 def compute_features(group):
-    import numpy as np
-    
     ratings = group["imdbRating"].values
     years = group["releaseYear"].values
     
