@@ -15,7 +15,6 @@ def plot_franchise_sequence(df, franchise_id):
         linewidth=3
     )
 
-    # highlight points
     plt.scatter(
         group["releaseYear"],
         group["imdbRating"],
@@ -23,7 +22,6 @@ def plot_franchise_sequence(df, franchise_id):
         zorder=3
     )
 
-    # annotate nicely
     for _, row in group.iterrows():
         plt.annotate(
             row["originalTitle"],
@@ -83,3 +81,25 @@ def plot_feature_importance(model, feature_names):
     plt.tight_layout()
     plt.savefig("outputs/feature_importance.png", dpi=300) 
     plt.show()
+
+import numpy as np
+
+def plot_with_trend(df, franchise_id):
+    group = df[df["franchise_id"] == franchise_id].sort_values("releaseYear")
+
+    x = np.arange(len(group))
+    y = group["imdbRating"]
+
+    z = np.polyfit(x, y, 1)
+    trend = np.poly1d(z)
+
+    plt.figure(figsize=(10,5))
+    plt.plot(group["releaseYear"], y, marker="o", label="Actual")
+    plt.plot(group["releaseYear"], trend(x), linestyle="--", label="Trend")
+
+    plt.title("Franchise Trend (Improving or Declining)")
+    plt.legend()
+    plt.savefig(f"outputs/franchise_{franchise_id}_trend.png", dpi=300)
+    plt.show()
+
+    

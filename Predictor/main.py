@@ -8,6 +8,7 @@ from features import build_features
 from model import train_model
 from predictor import predict_next_movie
 from visualization import plot_franchise_sequence
+from visualization import plot_with_trend
 from visualization import plot_feature_importance
 from visualization import plot_top_franchises
 
@@ -93,7 +94,7 @@ plt.scatter(
     alpha=0.6
 )
 
-plt.xscale("log")  # IMPORTANT → fixes your earlier issue
+plt.xscale("log") 
 
 plt.title("Profit vs Rating", fontsize=18, weight="bold")
 plt.xlabel("Average Profit (log scale)", fontsize=13)
@@ -103,9 +104,24 @@ plt.grid(alpha=0.3)
 plt.tight_layout()
 plt.show()
 
-# pick a good franchise (not too small, not too big)
-# fid = df.groupby("franchise_id").size().sort_values(ascending=False).index[1]
-# plot_franchise_sequence(df, fid)
+fid = df.groupby("franchise_id").size().sort_values(ascending=False).index[1]
+plot_franchise_sequence(df, fid)
 
 X = feat_df.drop(columns=["target"])
 plot_feature_importance(model, X.columns)
+
+plot_with_trend(df, fid)
+
+grouped = feat_df.copy()
+
+plt.scatter(grouped["profitability"], grouped["rating_trend"], alpha=0.5)
+plt.xlabel("Profitability")
+plt.ylabel("Rating Trend")
+plt.title("Profit vs Quality Trend")
+plt.show()
+
+plt.hist(feat_df["rating_trend"], bins=30)
+plt.title("Distribution of Franchise Trends")
+plt.xlabel("Trend (slope)")
+plt.ylabel("Count")
+plt.show()
