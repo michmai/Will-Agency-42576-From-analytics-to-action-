@@ -25,7 +25,9 @@ def build_features(df):
 def compute_features(group):
     ratings = group["imdbRating"].values
     years = group["releaseYear"].values
-    
+    budgets = group["budget"].values
+    revenues = group["revenue"].values
+
     return {
         "num_movies": len(group),
         "avg_rating": ratings.mean(),
@@ -36,4 +38,9 @@ def compute_features(group):
         "franchise_age": years[-1] - years[0],
         "rating_range": ratings.max() - ratings.min(),
         "recent_trend": ratings[-1] - ratings[-2] if len(ratings) > 1 else 0,
+
+        # Financial features
+        "avg_budget": budgets.mean(),
+        "avg_revenue": revenues.mean(),
+        "profitability": revenues.mean() - budgets.mean(),
     }

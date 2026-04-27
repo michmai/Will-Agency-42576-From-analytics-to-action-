@@ -1,0 +1,121 @@
+franchise_id,last_movie,predicted_rating
+10.0,Rogue One: A Star Wars Story,7.216500000000004
+84.0,Indiana Jones and the Kingdom of the Crystal Skull,5.940000000000003
+119.0,The Lord of the Rings: The Return of the King,7.683500000000004
+151.0,Star Trek VI: The Undiscovered Country,6.388499999999999
+230.0,The Godfather: Part III,6.772000000000007
+263.0,The Dark Knight Rises,7.199500000000008
+264.0,Back to the Future Part III,7.021499999999995
+295.0,Pirates of the Caribbean: Dead Men Tell No Tales,6.593499999999995
+328.0,Jurassic World,6.220500000000004
+399.0,Predators,5.537999999999996
+420.0,The Chronicles of Narnia: The Voyage of the Dawn Treader,6.313499999999998
+495.0,Shaft,5.383500000000001
+528.0,Terminator Genisys,6.323999999999995
+556.0,Spider-Man 3,6.308499999999997
+645.0,Spectre,6.525499999999998
+656.0,Saw: The Final Chapter,5.743000000000002
+735.0,Blade: Trinity,5.6025
+748.0,X-Men: Apocalypse,6.560999999999999
+937.0,Son of the Pink Panther,4.715999999999991
+945.0,Lethal Weapon 4,5.890500000000003
+1006.0,Austin Powers in Goldmember,5.7869999999999955
+1241.0,Harry Potter and the Deathly Hallows: Part 2,7.455500000000009
+1570.0,A Good Day to Die Hard,5.674500000000006
+1575.0,Creed,6.550499999999994
+1582.0,Teenage Mutant Ninja Turtles III,5.387500000000002
+1709.0,Battle for the Planet of the Apes,5.599499999999998
+1733.0,The Mummy: Tomb of the Dragon Emperor,5.164500000000003
+1974.0,The Grudge 3,5.1859999999999955
+2150.0,Shrek Forever After,6.1789999999999985
+2326.0,Underworld: Blood Wars,5.547000000000001
+2344.0,The Matrix Revolutions,6.339499999999996
+2366.0,Jaws: The Revenge,4.442499999999998
+2602.0,Scream 4,5.645999999999997
+2794.0,Riddick,5.814500000000006
+2806.0,American Reunion,5.871500000000001
+2980.0,Ghostbusters,4.837500000000002
+4246.0,Scary Movie 5,4.978499999999998
+5039.0,Rambo,5.926500000000004
+5547.0,RoboCop,5.434000000000001
+8050.0,Highlander: Endgame,4.813499999999996
+8091.0,Alien: Resurrection,5.9709999999999965
+8354.0,Ice Age: Collision Course,6.1010000000000035
+8537.0,Superman Returns,5.418000000000002
+8580.0,The Next Karate Kid,5.073499999999995
+8581.0,A Nightmare on Elm Street,5.501500000000002
+8650.0,Transformers: The Last Knight,6.406500000000002
+8864.0,Final Destination 5,5.6194999999999995
+8917.0,Hellraiser: Bloodline,4.997499999999999
+8936.0,Bridget Jones's Baby,5.8525000000000045
+8945.0,Mad Max: Fury Road,6.425999999999996
+9485.0,The Fate of the Furious,6.7519999999999945
+9518.0,The Transporter Refueled,5.3474999999999975
+9649.0,Once Upon a Time in Mexico,5.855000000000001
+9735.0,Friday the 13th,5.584500000000004
+9743.0,Hannibal Rising,6.1999999999999975
+9888.0,Home Alone 3,4.789000000000004
+10194.0,Toy Story 3,6.932000000000005
+10453.0,Poltergeist III,5.2025
+10456.0,Sudden Impact,6.023499999999999
+10713.0,Universal Soldier: Day of Reckoning,5.135500000000004
+12263.0,Dominion: Prequel to the Exorcist,5.0735
+14377.0,Death Wish 5: The Face of Death,5.122999999999996
+14563.0,Rings,4.942499999999996
+14740.0,Penguins of Madagascar,6.269000000000006
+17178.0,Bad Grandpa,5.814499999999996
+17255.0,Resident Evil: The Final Chapter,5.667500000000001
+30663.0,A Very Harold & Kumar Christmas,5.673499999999997
+31562.0,Jason Bourne,6.060999999999995
+33514.0,The Twilight Saga: Breaking Dawn - Part 2,5.904499999999998
+33938.0,The Concorde... Airport '79,5.1259999999999994
+34055.0,Pokémon: Spell of the Unknown,5.772499999999997
+37139.0,The Naked Gun 33⅓: The Final Insult,6.114499999999995
+41437.0,Paranormal Activity: The Ghost Dimension,5.189000000000001
+43055.0,Red Sonja,5.358000000000004
+43563.0,Friday After Next,5.786499999999998
+48317.0,"The Good, the Bad and the Ugly",7.761999999999984
+51509.0,Little Fockers,5.529000000000007
+52785.0,xXx: Return of Xander Cage,5.220499999999999
+53159.0,The Santa Clause 3: The Escape Clause,5.174999999999996
+70068.0,Ip Man 3,6.260499999999997
+77816.0,Kung Fu Panda 3,6.587500000000008
+85861.0,Beverly Hills Cop III,5.469500000000003
+85943.0,Night at the Museum: Secret of the Tomb,6.181499999999999
+86055.0,Men in Black 3,6.303500000000001
+86066.0,Despicable Me 3,6.120500000000004
+86092.0,Step Up All In,6.492000000000011
+86110.0,Diary of a Wimpy Kid: The Long Haul,5.8734999999999955
+86119.0,The Hangover Part III,5.818500000000003
+86486.0,Spy Kids: All the Time in the World,4.888499999999994
+87118.0,Cars 3,6.518999999999997
+87359.0,Mission: Impossible - Rogue Nation,6.701499999999992
+90863.0,Rush Hour 3,5.975000000000002
+91361.0,Halloween: Resurrection,4.905499999999999
+96665.0,Dumb and Dumber To,5.326499999999998
+101471.0,Return of the Living Dead 3,5.453999999999992
+111751.0,Texas Chainsaw 3D,5.015499999999997
+115570.0,Star Trek: Nemesis,5.798500000000005
+115575.0,Star Trek Beyond,6.796499999999993
+115776.0,Inferno,5.967000000000001
+115840.0,La Vérité si je Mens ! 3,5.154
+120794.0,Batman & Robin,4.9784999999999995
+121938.0,The Hobbit: The Battle of the Five Armies,7.107499999999995
+122123.0,Tri bogatyrya i Shamakhanskaya tsaritsa,5.4495
+123800.0,Before Midnight,6.810000000000006
+126125.0,The Expendables 3,6.13
+131292.0,Iron Man 3,6.733000000000003
+131295.0,Captain America: Civil War,6.8125000000000036
+131635.0,The Hunger Games: Mockingjay - Part 2,6.415499999999998
+134897.0,Smurfs: The Lost Village,6.0624999999999964
+135483.0,Taken 3,5.905499999999997
+142680.0,Alex Cross,5.296
+167613.0,Alvin and the Chipmunks: Chipwrecked,5.392000000000007
+173710.0,War for the Planet of the Apes,6.661499999999998
+176097.0,Barbershop: The Next Cut,5.752499999999999
+192492.0,Jack Ryan: Shadow Recruit,5.847999999999998
+256322.0,The Purge: Election Year,6.020999999999999
+256377.0,Muppets Most Wanted,6.031499999999995
+261590.0,Diary of the Dead,5.939500000000002
+283579.0,Allegiant,5.991999999999999
+453993.0,Logan,6.748999999999994
