@@ -38,7 +38,8 @@ def plot_franchise_sequence(df, franchise_id):
 
     plt.grid(alpha=0.3)
     plt.tight_layout()
-    plt.savefig(f"outputs/franchise_{franchise_id}.png", dpi=300)
+    movie = group["originalTitle"].iloc[-1].replace(" ", "_").replace("/", "_")
+    plt.savefig(f"outputs/franchise_{movie}.png", dpi=300)
     plt.show()
     
 def plot_top_franchises(df, n=10):
@@ -56,7 +57,8 @@ def plot_franchise_clean(df, franchise_id):
 
     plt.xlabel("Year")
     plt.ylabel("Rating")
-    plt.title(f"Franchise Evolution (ID {franchise_id})")
+    movie = group["originalTitle"].iloc[-1].replace(" ", "_").replace("/", "_")
+    plt.title(f"Franchise Evolution ({movie})")
 
     plt.grid()
     plt.show()
@@ -99,7 +101,9 @@ def plot_with_trend(df, franchise_id):
 
     plt.title("Franchise Trend (Improving or Declining)")
     plt.legend()
-    plt.savefig(f"outputs/franchise_{franchise_id}_trend.png", dpi=300)
+    #fetch the name of the last movie in the franchise for naming the file
+    movie = group["originalTitle"].iloc[-1].replace(" ", "_").replace("/", "_")
+    plt.savefig(f"outputs/franchise_{movie}_trend.png", dpi=300)
     plt.show()
 
     
