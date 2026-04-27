@@ -1,39 +1,49 @@
 import matplotlib.pyplot as plt
+import pandas as pd
+
+plt.style.use("seaborn-v0_8")
 
 def plot_franchise_sequence(df, franchise_id):
     group = df[df["franchise_id"] == franchise_id].sort_values("releaseYear")
 
-    if len(group) < 2:
-        print("Not enough movies.")
-        return
+    plt.figure(figsize=(12, 6))
 
-    print("\n🎬 Franchise sequence:\n")
-    for i, row in group.iterrows():
-        print(f"{int(row['releaseYear'])} - {row['originalTitle']} ({row['imdbRating']})")
+    plt.plot(
+        group["releaseYear"],
+        group["imdbRating"],
+        marker="o",
+        linewidth=3
+    )
 
-    plt.figure(figsize=(10, 5))
+    # highlight points
+    plt.scatter(
+        group["releaseYear"],
+        group["imdbRating"],
+        s=80,
+        zorder=3
+    )
 
-    plt.plot(group["releaseYear"], group["imdbRating"], marker="o")
-
-    # label each movie
+    # annotate nicely
     for _, row in group.iterrows():
-        plt.text(
-            row["releaseYear"],
-            row["imdbRating"],
+        plt.annotate(
             row["originalTitle"],
-            fontsize=8,
-            rotation=30
+            (row["releaseYear"], row["imdbRating"]),
+            textcoords="offset points",
+            xytext=(0,10),
+            ha='center',
+            fontsize=9
         )
 
-    plt.xlabel("Release Year")
-    plt.ylabel("IMDb Rating")
-    plt.title(f"Franchise Evolution (ID {franchise_id})")
+    plt.title("Franchise Rating Over Time", fontsize=18, weight="bold")
+    plt.xlabel("Year", fontsize=13)
+    plt.ylabel("IMDb Rating", fontsize=13)
 
-    plt.grid()
+    plt.grid(alpha=0.3)
     plt.tight_layout()
+    plt.savefig(f"outputs/franchise_{franchise_id}.png", dpi=300)
     plt.show()
     
-def plot_top_franchises(df, n=3):
+def plot_top_franchises(df, n=10):
     top_ids = df.groupby("franchise_id").size().sort_values(ascending=False).head(n).index
 
     for fid in top_ids:
@@ -51,4 +61,25 @@ def plot_franchise_clean(df, franchise_id):
     plt.title(f"Franchise Evolution (ID {franchise_id})")
 
     plt.grid()
+    plt.show()
+
+def plot_feature_importance(model, feature_names):
+    import pandas as pd
+
+    importances = model.feature_importances_
+
+    feat_imp = pd.DataFrame({
+        "feature": feature_names,
+        "importance": importances
+    }).sort_values("importance", ascending=True)
+
+    plt.figure(figsize=(10, 6))
+
+    plt.barh(feat_imp["feature"], feat_imp["importance"])
+
+    plt.title("Feature Importance", fontsize=18, weight="bold")
+    plt.xlabel("Importance", fontsize=12)
+
+    plt.tight_layout()
+    plt.savefig("outputs/feature_importance.png", dpi=300) 
     plt.show()

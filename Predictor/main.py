@@ -8,6 +8,8 @@ from features import build_features
 from model import train_model
 from predictor import predict_next_movie
 from visualization import plot_franchise_sequence
+from visualization import plot_feature_importance
+from visualization import plot_top_franchises
 
 # ----------------------------
 # DOWNLOAD DATA
@@ -42,7 +44,7 @@ feat_df.to_csv("outputs/features.csv", index=False)
 # TRAIN MODEL
 # ----------------------------
 model, mae = train_model(feat_df)
-print("\n📉 Model MAE:", mae)
+print("\n Model MAE:", mae)
 
 # ----------------------------
 # PREDICT
@@ -69,28 +71,8 @@ results_df.to_csv("outputs/predictions.csv", index=False)
 # ----------------------------
 # VISUALIZATION 1: TOP FRANCHISES
 # ----------------------------
-top = results_df.sort_values("predicted_rating", ascending=False).head(10)
+plot_top_franchises(df, n=10)
 
-plt.figure()
-plt.barh(top["last_movie"], top["predicted_rating"])
-plt.xlabel("Predicted Rating")
-plt.title("Top 10 Franchises (TMDB)")
-plt.gca().invert_yaxis()
-plt.show()
-
-# ----------------------------
-# VISUALIZATION 2: PREDICTED VS ACTUAL
-# ----------------------------
-X = feat_df.drop(columns=["target"])
-y = feat_df["target"]
-preds = model.predict(X)
-
-plt.figure()
-plt.scatter(y, preds, alpha=0.5)
-plt.xlabel("Actual Rating")
-plt.ylabel("Predicted Rating")
-plt.title("Predicted vs Actual Ratings")
-plt.show()
 
 # ----------------------------
 # VISUALIZATION 3: PROFIT VS RATING
@@ -103,14 +85,27 @@ grouped = df.groupby("franchise_id").agg({
 
 grouped["profit"] = grouped["revenue"] - grouped["budget"]
 
-plt.figure()
-plt.scatter(grouped["profit"], grouped["imdbRating"], alpha=0.5)
-plt.xlabel("Average Profit")
-plt.ylabel("Average Rating")
-plt.title("Profit vs Rating")
+plt.figure(figsize=(9,6))
+
+plt.scatter(
+    grouped["profit"],
+    grouped["imdbRating"],
+    alpha=0.6
+)
+
+plt.xscale("log")  # IMPORTANT → fixes your earlier issue
+
+plt.title("Profit vs Rating", fontsize=18, weight="bold")
+plt.xlabel("Average Profit (log scale)", fontsize=13)
+plt.ylabel("Average Rating", fontsize=13)
+
+plt.grid(alpha=0.3)
+plt.tight_layout()
 plt.show()
 
 # pick a good franchise (not too small, not too big)
-fid = df.groupby("franchise_id").size().sort_values(ascending=False).index[0]
+# fid = df.groupby("franchise_id").size().sort_values(ascending=False).index[1]
+# plot_franchise_sequence(df, fid)
 
-plot_franchise_sequence(df, fid)
+X = feat_df.drop(columns=["target"])
+plot_feature_importance(model, X.columns)
