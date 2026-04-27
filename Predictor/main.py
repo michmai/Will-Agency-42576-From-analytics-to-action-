@@ -11,12 +11,17 @@ os.makedirs("outputs", exist_ok=True)
 
 # Load data
 df = load_data("/Users/michellemai/Documents/GitHub/Will-Agency-42576-From-analytics-to-action-/Data/Movie_50k.csv")
-df, edges = create_franchises(df)
+df["norm"] = df["originalTitle"].str.lower().str.strip()
+df = df.drop_duplicates(subset=["norm", "releaseYear"])
+df = create_franchises(df)
 
 # Stats (moved outside loop)
 print("Total franchises:", df["franchise_id"].nunique())
 
 sizes = df.groupby("franchise_id").size()
+good_ids = sizes[sizes >= 3].index
+
+df = df[df["franchise_id"].isin(good_ids)]
 print("Franchises with >=2 movies:", (sizes >= 2).sum())
 print("Franchises with >=3 movies:", (sizes >= 3).sum())
 
@@ -99,30 +104,4 @@ plt.barh(importance_df["feature"], importance_df["importance"])
 plt.title("Feature Importance")
 
 plt.savefig("outputs/feature_importance.png", dpi=300, bbox_inches="tight")
-plt.show()
-
-# ------------------------
-# Graph visualization (cleaned)
-# ------------------------
-import networkx as nx
-
-G = nx.Graph()
-
-# Add nodes
-for i in df.index:
-    G.add_node(i)
-
-# Use only subset of edges (avoid hairball)
-G.add_edges_from(edges[:200])
-
-largest_id = df["franchise_id"].value_counts().idxmax()
-largest_group = df[df["franchise_id"] == largest_id].index
-
-G_sub = G.subgraph(largest_group)
-
-plt.figure(figsize=(8, 6))
-nx.draw(G_sub, node_size=50, with_labels=False)
-plt.title("Franchise Graph (Sampled)")
-
-plt.savefig("outputs/franchise_graph.png", dpi=300, bbox_inches="tight")
 plt.show()
