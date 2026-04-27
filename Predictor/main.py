@@ -1,6 +1,6 @@
 from data_loader import load_data
-from franchise import create_franchises
 from features import build_features
+from franchise_ml import cluster_movies
 from model import train_model
 from predictor import predict_next_movie
 import numpy as np
@@ -11,17 +11,24 @@ os.makedirs("outputs", exist_ok=True)
 
 # Load data
 df = load_data("/Users/michellemai/Documents/GitHub/Will-Agency-42576-From-analytics-to-action-/Data/Movie_50k.csv")
-df["norm"] = df["originalTitle"].str.lower().str.strip()
+df["norm"] = (
+    df["originalTitle"]
+    .str.lower()
+    .str.replace(r"\(.*?\)", "", regex=True)
+    .str.replace(r"[^\w\s]", "", regex=True)
+    .str.strip()
+)
+
 df = df.drop_duplicates(subset=["norm", "releaseYear"])
-df = create_franchises(df)
+df = cluster_movies(df)
+
+# remove very small clusters
+sizes = df.groupby("franchise_id").size()
+good_ids = sizes[sizes >= 3].index
+df = df[df["franchise_id"].isin(good_ids)]
 
 # Stats (moved outside loop)
 print("Total franchises:", df["franchise_id"].nunique())
-
-sizes = df.groupby("franchise_id").size()
-good_ids = sizes[sizes >= 3].index
-
-df = df[df["franchise_id"].isin(good_ids)]
 print("Franchises with >=2 movies:", (sizes >= 2).sum())
 print("Franchises with >=3 movies:", (sizes >= 3).sum())
 

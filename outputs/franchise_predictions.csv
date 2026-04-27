@@ -1,444 +1,57 @@
 franchise_id,last_movie,num_movies,predicted_rating,should_make_movie
-123,The Life & Times of the Real Robyn Hoode,3,6.355000000000002,False
-208,El Primer Cacharro,4,6.355000000000002,False
-253,La SNCF sous l'Occupation,4,4.708000000000002,False
-336,Pared con pared,3,6.582666666666667,True
-369,Life in Outer Space,4,5.604699999999999,False
-400,Meine Reise in die DDR - 25 Jahre später,3,6.364000000000001,False
-478,Alice,4,6.853000000000005,True
-538,The King of UFOs,4,6.799000000000006,True
-541,I väntan på Jan Myrdals död,3,6.004233333333333,False
-553,"Planète chefs, la suite No. 1: Beatriz González - Mexique",3,6.853000000000005,True
-630,Eigentlich wollten wir zurückkehren,4,6.844000000000006,True
-674,The End Games,3,6.853000000000005,True
-706,Kirn's reconciliation,3,6.348000000000002,False
-716,Sakura Tournament,3,6.355000000000002,False
-866,Phantom Vengeance,3,6.853000000000005,True
-889,A Balaton hullámain,3,6.7690000000000055,True
-941,Hitler e Mussolini: Gli anni degli incontri,3,6.767000000000005,True
-985,The Power of Greed,4,6.853000000000005,True
-989,Cupid's Arrow,4,6.853000000000005,True
-1098,La patrouille des sables,4,6.166,False
-1165,Amacabra - The Metempsychosis of Justine S.,4,5.872999999999999,False
-1193,Are U?,5,6.348000000000002,False
-1233,Eventyr på Mallorca,4,5.692,False
-1300,El placer es mío,4,6.792000000000006,True
-1341,"Expedicio Catalano-Nepalese al Cho Oyu 8201m, Himalaia-Nepal: La sisena muntanya mes alta del mon",3,6.858000000000005,True
-1476,Michelangelo Pistoletto,8,6.365000000000002,False
-1496,Huize Schoonderloo,4,6.557000000000001,True
-1612,Die Dritte Option,3,5.843266666666669,False
-1619,CD Leganés vs SD Huesca,14,6.7240000000000055,True
-1665,Une fille à papa,3,6.0609999999999955,False
-1669,De post en de boerderij van Doma,3,6.853000000000005,True
-1705,Il sibilo lungo della taranta: musiche e poesie sui percorsi del ragno del Salento,3,6.799000000000007,True
-1776,America al bivio,6,6.799000000000006,True
-1822,Bakri ynë,4,6.858000000000005,True
-1860,Kauflanders,3,6.7240000000000055,True
-1908,Des cinemas japonais: Nouveaux territoires,3,6.767000000000005,True
-1944,Blestem,4,6.853000000000005,True
-1987,Vladyka Andrey,3,7.218776190476188,True
-2000,Drapeau Blanc - White Flag,3,6.853000000000005,True
-2050,Larysa Kadochnikova. The War,3,6.812000000000005,True
-2092,Die Huronen,3,6.861000000000005,True
-2256,Venezia liquida,3,6.812000000000005,True
-2292,"Unsung Heroes by Malmö, I Love You: Ali Eftekhari",3,6.7240000000000055,True
-2310,Incertidumbre,4,6.714000000000006,True
-2372,Echo of Ghosts,4,6.853000000000005,True
-2395,The Universe,4,6.853000000000005,True
-2417,Echoes of Him,4,6.853000000000005,True
-2462,Kamilota,4,6.816000000000005,True
-2509,Dogging in the sun again,3,6.782000000000005,True
-2536,Have A Word: The Art Special,4,6.799000000000006,True
-2609,L'Affarista,3,6.853000000000005,True
-2649,Woman and the Glacier,3,6.256176190476185,False
-2668,In Our Blood,3,6.853000000000005,True
-2709,Karolina,3,6.1930000000000005,False
-2716,Destins Brisés,4,5.832000000000001,False
-2742,Crystal Palace vs Chelsea,3,6.7690000000000055,True
-2754,Les frères Castro-Balbi,3,6.747000000000005,True
-2803,There Used to Be a Me,3,6.704000000000005,True
-2821,"Guatemala, Lovely Place",3,6.734000000000005,True
-2824,Plots hel het werd,3,6.799000000000006,True
-2850,Mysafiri,5,5.937033333333333,False
-2861,I Miss Oromia,3,6.5470000000000015,True
-3033,Un Été Violent,3,6.853000000000005,True
-3073,Live Demo: Benefits of ERP for All Staff,5,6.400000000000002,False
-3097,WildLive Expéditions Côte d'Ivoire,4,6.757000000000005,True
-3119,Scootmobiel,3,6.659711111111112,True
-3124,Északi fény,3,6.302000000000001,False
-3131,Le mura di Bergamo,3,4.563083333333338,False
-3154,Robotopia,3,6.734000000000005,True
-3170,Károly bakák,3,6.726000000000004,True
-3174,De obool,3,4.708000000000002,False
-3183,Petak vecher,3,6.93363333333333,True
-3185,Rachael Blackmore: A Grand Year,4,7.169833333333333,True
-3208,Pasen,3,6.757000000000005,True
-3218,Glory to the Heroes,3,6.9888333333333295,True
-3235,Sisulla ja sydämellä,3,5.8740000000000006,False
-3292,Mephistopheles,4,5.89,False
-3312,Ashura in London - A Non Muslim's Experience,7,6.704000000000005,True
-3322,Moevideo,3,6.757000000000005,True
-3503,I'm in Love with My Car,3,5.3820000000000014,False
-3568,Morpheus Mendacious,4,6.853000000000005,True
-3573,Ballett 2,3,6.6030000000000015,True
-3633,Striche ziehen.,3,5.9352,False
-3689,Beat Parade: Viaggio nel mondo dei giovani negli anni sessanta,3,6.062000000000001,False
-3711,Alle für die Mafia,3,6.1002,False
-3744,Nepër ditarët e luftës,8,6.365000000000002,False
-3754,Adásunkat megszakítjuk,3,6.364000000000001,False
-3786,Psychophony,3,6.7210000000000045,True
-3821,Brighton and Hove Albion vs Arsenal,3,6.714000000000006,True
-3886,El nuevo comienzo de Scrooge,3,6.138999999999998,False
-3924,Kazzy,4,6.853000000000005,True
-3933,Pentcho,3,6.472000000000001,False
-3950,Milica,3,6.355000000000002,False
-3974,Der Stand der Bauern,3,6.413200000000002,False
-4057,The Last Immune,3,6.853000000000005,True
-4081,Sotto la Marea,3,6.853000000000005,True
-4118,Notre monde,3,6.726000000000004,True
-4284,Bagelmania,3,6.3370000000000015,False
-4339,Exhuminus Exum - Draculas Wiederkehr,5,6.853000000000005,True
-4371,Upon My Life!,3,6.311000000000002,False
-4600,Himba - det röda folket,9,6.400000000000002,False
-4711,Mujeres de Cántico,4,6.714000000000006,True
-4732,I tesori della Pilotta,4,6.7240000000000055,True
-4761,Izvestniyat nepoznat,3,4.708000000000002,False
-4783,Contre toute lumière,3,6.062000000000001,False
-4798,Herança de Pedra,3,4.708000000000002,False
-4910,Norwich City vs Chelsea,4,6.364000000000001,False
-4920,Juste un mouvement,3,6.634033333333331,True
-5078,Juventus vs Lazio,5,6.367000000000002,False
-5158,Inside Jaws: A Filmumentary,3,7.155166666666663,True
-5175,Ti-Ti Nallen Uudenvuoden Jääshow,6,6.367000000000002,False
-5180,Jim et Jo détectives,3,6.364000000000001,False
-5277,I Met a Murderer,3,6.282333333333332,False
-5281,Purgatory,3,6.853000000000005,True
-5292,Mai ti scorderò,3,6.847000000000005,True
-5343,Zosaliet,3,6.239366666666666,False
-5430,Lorelei,5,6.853000000000005,True
-5436,Zero Hour,3,6.853000000000005,True
-5450,Inversion,3,6.853000000000005,True
-5453,Craciun in Maramures,4,6.714000000000006,True
-5454,Das Neue Normal,3,6.68703333333333,True
-5513,The Strength of Love,3,6.853000000000005,True
-5565,Gutfeeling,7,6.853000000000005,True
-5608,2551.01,3,6.200333333333328,False
-5612,A mi kis Európánk,5,6.411000000000002,False
-5706,Peppino e la vecchia signora,3,4.708000000000002,False
-5812,Fijet që priten,3,6.659633333333329,True
-5901,À l'ombre de l'abbaye de Clairvaux,4,6.400000000000002,False
-6049,A Precipizio,3,6.840000000000006,True
-6152,AC Milan vs Atletico Madrid,5,6.797000000000005,True
-6154,Everybody in the Place: An Incomplete History of Britain 1984-1992,3,6.541499999999998,True
-6229,Trelli... ki' anypantri,3,6.400000000000002,False
-6290,Die kluge Marianne,3,6.195666666666666,False
-6311,Revenge of the Students,5,6.853000000000005,True
-6330,La Bella Destata,4,6.714000000000006,True
-6349,Camí de Marina. Un conte sobre la Voluntat,3,6.364000000000001,False
-6374,The Big Match: Sunderland,4,6.799000000000006,True
-6393,Hoogspanning,3,6.734000000000005,True
-6480,One Direction: Senza Segreti,3,6.714000000000006,True
-6546,Six Little Angels,3,6.766000000000006,True
-6575,Christophe définitivement,5,5.986987301587303,False
-6614,Volharding,4,6.365000000000002,False
-6622,Quand l'hôpital retient son souffle,3,6.589000000000002,True
-6670,Un año más,3,6.318783333333329,False
-6821,Le vite possibili,4,6.441496031746028,False
-6924,Dark Ages,4,5.926866666666667,False
-6952,My War Is Not Over,3,6.365000000000002,False
-7064,The Reign of Queen Ginnarra,4,6.853000000000005,True
-7069,Mimi Pinson,3,6.792000000000006,True
-7073,Scripted,3,6.853000000000005,True
-7095,Self-Made Portrait,3,6.302000000000001,False
-7149,Les anneaux du serpent,3,6.789000000000007,True
-7160,Le Dieu du hasard,4,6.861000000000005,True
-7214,Infinite Potential: The Life & Ideas of David Bohm,3,5.513333333333337,False
-7217,Disturbed,3,6.853000000000005,True
-7226,Schallaburg üzenete,3,6.858000000000005,True
-7257,"Renato Berta, Face caméra",3,6.086000000000001,False
-7265,Saharan Diary,3,6.518183333333331,True
-7296,Das kleine Arschloch und der alte Sack - Sterben ist Scheiße,3,5.3020000000000005,False
-7330,Samadhi: We Are One,3,7.075033333333328,True
-7374,Desde la penumbra,5,6.086000000000001,False
-7391,Florida - Naturally,3,6.853000000000005,True
-7435,Borromini e Bernini. Sfida alla perfezione,4,6.038876190476191,False
-7446,Memento mori,3,5.883000000000001,False
-7478,Das große Schönheits video,6,6.364000000000001,False
-7503,6 Mois 6 jours,3,6.853000000000005,True
-7555,Histoire de ma vie racontée par mes photographies,3,6.757000000000005,True
-7599,Oroslan,3,6.324333333333333,False
-7602,Music As,3,4.708000000000002,False
-7620,La lutte pour la vie,3,6.313666666666665,False
-7642,État de nécessité,4,5.962776190476193,False
-7662,Galerie Yves: Vernet,6,6.714000000000006,True
-7740,Lost & Found,3,4.708000000000002,False
-7964,Az olasz futball magyar mesterei,7,5.832000000000001,False
-8032,A Relationship,3,6.797000000000005,True
-8045,"Gott, Mensch und Teufel",3,6.782000000000005,True
-8051,COSPLAY,4,6.7240000000000055,True
-8093,Waterworld Music Festival,3,7.055533333333333,True
-8117,Magic,3,6.782000000000005,True
-8166,Concerto Italiano - Storia e Storie dell'Unità d'Italia,4,6.847000000000005,True
-8230,Suave é a noite,3,6.799000000000006,True
-8328,Masters of German Art,4,6.799000000000006,True
-8348,Au beau milieu des bois 2,4,6.853000000000005,True
-8360,Zomercapriolen,3,6.802000000000006,True
-8567,Time and Place,3,7.174249999999994,True
-8649,30 and Wild,5,6.853000000000005,True
-8719,Roma golpe capitale,3,6.789000000000007,True
-8742,"Guten Morgen, Madam Mona",3,6.7240000000000055,True
-8757,Trail Baltic. Väljasõit rohelisse,3,6.364000000000001,False
-8814,Swansea City vs Liverpool,4,6.766000000000006,True
-9053,Circus Siblings,7,6.365000000000002,False
-9117,Le chant des oubliés,5,6.367000000000002,False
-9126,Noyz Narcos - Dope Boys Alphabet,4,6.952616666666663,True
-9149,Kapetan i princeza (Captain and the Mermaid),3,6.062000000000001,False
-9178,Le Radar tire sa révérence,5,6.5470000000000015,True
-9186,Root of All Evil,3,6.714000000000006,True
-9254,Real Sociedad vs Manchester United,3,6.812000000000005,True
-9266,The Road from Apocalypse,5,6.853000000000005,True
-9338,Pol Pot Dancing,4,6.9760833333333325,True
-9421,Kush është Vrasësi,3,6.068683333333331,False
-9490,Atomkraft Forever,3,6.9195,True
-9596,Trance,3,6.853000000000005,True
-9724,Die Legende von Shiva und Parvati,4,6.086000000000001,False
-9757,Monument,3,6.74128333333333,True
-9911,Mordkommission Calw - Schattenkrieger,5,6.364000000000001,False
-9959,Geraubte Erde,4,6.5470000000000015,True
-10093,Az élet temploma,5,4.708000000000002,False
-10106,Konzert in Muh,4,6.757000000000005,True
-10130,The dissenters,3,6.853000000000005,True
-10166,Le procès du chien,3,4.6940000000000035,False
-10347,Letër nga mjeku i Kuçit,6,6.592000000000001,True
-10368,Vanitas,4,6.302000000000001,False
-10426,Docs d'Aude 2,9,6.840000000000006,True
-10475,A mi szerelmeink,4,6.292000000000002,False
-10514,"Cipriano, bailarín a pesar suyo",3,6.797000000000005,True
-10628,"Urlamò, Adorazione",3,6.348000000000002,False
-10671,Vissza az úton,3,6.453061904761904,False
-10705,Desert Suite,6,6.365000000000002,False
-10753,Antonio. Un bailarín español,5,6.411000000000002,False
-10830,Escrita Íntima,5,6.365000000000002,False
-10874,Bach and Expression,3,6.552000000000001,True
-10886,AMCOP: Blatant Denial,3,6.726000000000004,True
-10958,Le quai du désir,3,5.981999999999999,False
-10972,Poderoso caballero,4,6.714000000000006,True
-10981,RACCONTI METAFISICI LECCESI,6,6.365000000000002,False
-10993,Juventus F.C. - Associazione Calcio Milan,3,6.018000000000002,False
-11011,The Truckman,3,6.853000000000005,True
-11057,Die Habsburger in Europa - aus dem Dunkel der Zeit,3,6.812000000000005,True
-11060,Fino a farti male,3,5.884333333333334,False
-11149,Artemisia Gentileschi,6,6.734000000000005,True
-11170,Oswald.The Minsk Mystery.,4,6.302000000000001,False
-11228,Life Show,3,6.826000000000005,True
-11239,Mindgame Requiem,6,6.853000000000005,True
-11288,Ménestrel,4,6.7240000000000055,True
-11304,Las huellas del Sendero,3,6.737000000000005,True
-11396,Presque mort,3,6.364000000000001,False
-11419,"Cabrera, el infierno de Napoleón",3,6.816000000000005,True
-11466,Një natë pa dritë,4,6.557000000000001,True
-11469,A kalef (A Moszkva téri galeri),6,6.400000000000002,False
-11562,A dada,4,6.840000000000006,True
-11588,Así es Cataluña: Torres del Principado,4,6.840000000000006,True
-11590,Familjen Persson i främmande land,3,7.172999999999999,True
-11770,AMCOP: Samantha,5,6.799000000000006,True
-11787,The End of Quiet,7,6.853000000000005,True
-11826,Painted Smile,6,6.367000000000002,False
-11832,FA Cup Fifth Round Middlesbrough vs Oxford United,4,6.086000000000001,False
-11861,Horror Icons: Lethal Ladies,5,6.853000000000005,True
-11880,La fabuleuse histoire de la conquête de l'eau,3,6.792000000000006,True
-11921,Our Club,3,6.66253333333333,True
-11951,De orionnevel,3,6.281333333333333,False
-12029,Dans le coeur une hirondelle,9,6.355000000000002,False
-12111,Los secretos del mar,4,6.714000000000006,True
-12117,Den kroniske uskyld,3,6.427000000000003,False
-12186,Real Time,3,6.734000000000005,True
-12207,Chef's Diaries: Scotland,3,7.525466666666662,True
-12237,Le bonheur des uns...,5,5.9933666666666685,False
-12332,Waiting,3,6.525000000000005,True
-12335,Vores krig - en kærlighedshistorie,3,6.789000000000007,True
-12414,The lover of the soil,4,5.832000000000001,False
-12511,Brothers in Arms,3,6.5882833333333295,True
-12994,La science des colères de la terre,3,6.767000000000005,True
-12998,Third Lanark,3,6.714000000000006,True
-13017,Sancta simplicitas,4,6.400000000000002,False
-13115,Mamma lontana,3,6.6030000000000015,True
-13130,Párhuzamos labirintus - Makovecz-Dobai eszmecsere,3,6.086000000000001,False
-13143,Macao oder die Rückseite des Meeres,3,7.088999999999996,True
-13433,Caramellas,5,6.400000000000002,False
-13465,Gott ist tot,4,5.9987,False
-13535,Stoke City vs Liverpool,4,6.840000000000006,True
-13617,I want to see the morning star,6,6.853000000000005,True
-13717,Bed Time Horrors,5,6.853000000000005,True
-13886,Die Zeit des Birkenjungen,5,6.861000000000005,True
-13953,Old Boys,3,4.708000000000002,False
-13964,Borussia Dortmund vs Sevilla,4,6.5470000000000015,True
-14117,Ta marmara tou Parthenona,3,6.714000000000006,True
-14127,Madamme Ivonne,8,6.367000000000002,False
-14226,Secrets of the Forest,4,6.767000000000005,True
-14454,Inter Milan vs Atalanta,4,6.557000000000001,True
-14482,The Drive,3,6.230033333333329,False
-14580,GEN_,3,6.7240000000000055,True
-14614,Abenteuer eines Traumes,3,4.708000000000002,False
-14679,To mega dokoumento,3,6.364000000000001,False
-14824,Rest in Poetry IV,3,6.872000000000005,True
-14989,West Ham United vs Watford,13,6.365000000000002,False
-15059,Barcelona vs Athletic Bilbao,3,6.704000000000005,True
-15266,Wiener Wohnbau Wirklichkeiten,3,6.831000000000005,True
-15335,Wij & Zij,3,4.708000000000002,False
-15396,Angels & Dust,3,4.283333333333337,False
-15540,Becsúszó szerelem,4,6.0322,False
-15791,Ángeles con espada,3,4.677666666666671,False
-15816,Südsee,3,6.7240000000000055,True
-15836,Zapomenuté transporty do Polska,3,6.480733333333331,False
-15914,Electric Shock Hide & Seek,13,6.714000000000006,True
-15937,Il diritto alla felicità,3,4.730750000000004,False
-15949,People of Love and Rage,3,6.259176190476186,False
-15969,Marina unplugged,3,4.573000000000005,False
-15994,Flup chasseur,3,6.726000000000004,True
-16027,Face aux loups,5,6.411000000000002,False
-16082,Joint Affaire?,3,6.737000000000005,True
-16365,"Léo Ferré, un homme libre",4,6.400000000000002,False
-16392,Uomini della montagna,3,6.799000000000006,True
-16393,Racing Through Time - Lotus,6,6.840000000000006,True
-16400,Reclamatie,5,6.311000000000002,False
-16439,Het verloren talent,4,6.367000000000002,False
-16463,Galahad,3,6.853000000000005,True
-16511,La promessa,3,6.853000000000005,True
-16512,Nilde Iotti,3,6.714000000000006,True
-16553,Avni Rustemi,3,6.420376190476194,False
-16577,Flamenco vivo: L'école du flamenco,3,4.708000000000002,False
-16752,La montagne aux mille regards,4,6.400000000000002,False
-16784,Merseyside derby Everton FC vs Liverpool FC,3,6.799000000000006,True
-16807,The Howlers,3,6.853000000000005,True
-16911,Derrière le soleil,3,6.7690000000000055,True
-16917,Rositza,3,6.734000000000005,True
-17041,Izkuplenie,3,6.311000000000002,False
-17061,I clandestini del cinema italiano - Omaggio a Gionata Zarantonello,3,6.355000000000002,False
-17182,"Haïti, une pensée sauvage",4,6.853000000000005,True
-17195,Il diario di Sisifo,4,6.817000000000005,True
-17206,Baustelle Alexanderplatz - Tücken des Untergrundes,3,6.844000000000006,True
-17246,Uno sguardo alla Terra,4,5.999000000000002,False
-17270,Sem'yanin,3,5.492999999999998,False
-17618,Detention,4,6.853000000000005,True
-17931,GG Turbo,3,6.734000000000005,True
-18089,Analyse et commentaires sur Au Hasard Balthazar,6,6.767000000000005,True
-18099,Lampedusa Artica,5,6.858000000000005,True
-18148,A hagyaték,3,6.761000000000006,True
-18217,Margot,3,4.708000000000002,False
-18255,Próbaút,5,6.652149999999998,True
-18355,Quarantena Live - The Film,4,6.400000000000002,False
-18422,Back from the edge,3,6.853000000000005,True
-18429,"Mio papà, un carabiniere",4,6.364000000000001,False
-18506,Bonjour l'angoisse,3,6.116333333333334,False
-18602,Ferien im Duett,3,6.400000000000002,False
-18796,El cuento del lobo,3,6.7240000000000055,True
-18800,La línea infinita,3,6.365000000000002,False
-18805,To Happiness,3,7.652466666666661,True
-19182,One Hope,3,6.807000000000006,True
-19205,Regina Caeli,3,6.840000000000006,True
-19259,The Exam,4,6.557749999999995,True
-19312,Dragen og jordelementet,3,6.853000000000005,True
-19342,Karminsky-Grad,3,6.430000000000002,False
-19413,Vasco Morgado Apresenta,5,6.853000000000005,True
-19427,Happiness at Work,3,5.545476190476194,False
-19632,Voci dal Vajont. 9 ottobre 1963,3,6.840000000000006,True
-19715,Antigoné,3,6.086000000000001,False
-20105,Köntörfalak,3,7.013526190476191,True
-20268,Les petites victoires,3,6.204199999999999,False
-20393,Wo ist Sabrina Sommer?,4,6.853000000000005,True
-20500,"Groenland, een menselijke uitdaging",5,6.757000000000005,True
-20558,The Life of Sir Walter Scott,4,6.018000000000002,False
-20626,A látszat csal,8,6.348000000000002,False
-20648,"Seydou, il sogno non ha colore",4,6.311000000000002,False
-20678,MPS: Jazzin' the Black Forest,3,6.411000000000002,False
-20702,Kay Fisker,3,6.411000000000002,False
-20751,Bayern Munich vs Bayer Leverkusen,4,4.708000000000002,False
-20901,A remény joga,3,6.248000000000002,False
-20931,City of Two Springs,3,5.645699999999998,False
-21060,Iedereen is van de Wereld,3,6.853000000000005,True
-21304,Mi hijo Arturo,3,5.769,False
-21439,Doctor Who: Mudlarks,3,5.832000000000001,False
-21455,Atalanta B.C. - Internazionale Milano,4,6.302000000000001,False
-21490,The Ragged Doll,4,6.853000000000005,True
-21510,The sand eating shark,3,6.311000000000002,False
-21579,La dernière valse,3,6.844000000000006,True
-21610,The Briggs Family,3,7.8028333333333295,True
-21624,Aller Tage Abend,4,6.023666666666667,False
-21816,Bartolomé Bermejo. El despertar de un genio,3,6.086000000000001,False
-22196,Mea culpa,3,6.807000000000006,True
-22383,"Verdammt, wir singen noch!",5,6.302000000000001,False
-22412,L'affaire de la rue de Lourcine,9,5.832000000000001,False
-22682,Realms,3,6.853000000000005,True
-22782,Broken,4,6.853000000000005,True
-22843,French Kick,3,6.853000000000005,True
-22902,Dragoste la manastire,3,6.726000000000004,True
-22926,Magaluf Ghost Town,3,6.3016666666666685,False
-23125,Dataland,3,5.900199999999999,False
-23285,Limunovo drvo,3,5.877199999999999,False
-23369,Dream Team 2023,12,6.853000000000005,True
-23410,Muzej norosti,3,6.751000000000005,True
-23447,Era una volta Roma,4,6.411000000000002,False
-23538,"Long Ma, l'esprit du cheval dragon",3,4.708000000000002,False
-23723,Il terrorista nella testa,3,7.648833333333326,True
-23860,War Is over,4,6.364000000000001,False
-23918,PositivE,3,6.773988888888884,True
-24066,La danse à tout prix,4,5.832000000000001,False
-24080,Domani torno a casa,3,6.682483333333331,True
-24195,How to Save a Dead Friend,4,6.3127833333333285,False
-24253,Milan AC vs Chievo Verona,3,6.726000000000004,True
-24436,Lucien a le coup de foudre,3,6.840000000000006,True
-24512,Hebrides - Riding the Wild Isles,5,6.853000000000005,True
-24530,The Unlock,3,6.853000000000005,True
-24585,Für nichts und wieder nichts,3,6.311000000000002,False
-24866,Mister Universo,3,7.034276190476191,True
-24966,The Trouble with Declan,3,6.062000000000001,False
-25467,The Passengers,3,5.7810000000000015,False
-25633,New Order - Live at the O2 Arena,4,6.840000000000006,True
-25946,Eftheia kai plateia,3,4.708000000000002,False
-26512,Mine Field,3,6.400000000000002,False
-26529,One for the River: The Sava Story,3,6.6895333333333316,True
-26664,Nikias Skapinakis: O Teatro Dos Outros,4,6.086000000000001,False
-27065,Open Land - Meeting John Abercrombie,3,6.861000000000005,True
-27445,Trafficking 2,10,6.853000000000005,True
-28375,Gesto,3,5.931166666666666,False
-28439,The Wolf,3,6.747000000000005,True
-28623,Scènes de Crimes,3,6.292000000000002,False
-28688,Seth,3,5.801666666666666,False
-28727,Platz ist da!,3,6.472000000000001,False
-29254,Anything Goes,4,7.093499999999995,True
-29409,Vidas menores,3,6.479076190476186,False
-29921,Zabranjeno smijanje,3,4.549500000000002,False
-30201,"Hildy, My Sister",4,6.853000000000005,True
-31201,La città di vetro,4,6.840000000000006,True
-31233,Becaaria,3,6.853000000000005,True
-31760,"L'homme sapin, la femme mésange",4,6.364000000000001,False
-31821,Britta fra Bakken,3,6.714000000000006,True
-32116,Les Chevaux Voyageurs,6,6.302000000000001,False
-32269,L'ultima casetta rossa,4,6.311000000000002,False
-32583,Transfer,4,6.364000000000001,False
-32933,Deep Purple - Access All Areas,7,5.832000000000001,False
-33062,Svarta dagar & vita nätter,3,6.714000000000006,True
-33303,L'esprit des lieux,3,6.73598333333333,True
-34995,Palet reeks,3,6.260000000000002,False
-35019,Duften af regn,3,6.853000000000005,True
-35830,Adam,3,6.853000000000005,True
-36084,Virtuosi de nulle part,3,6.062000000000001,False
-36414,Vadkanvadászat,6,5.686333333333331,False
-36479,Les Maîtres des Jeux télé,3,6.411000000000002,False
-37026,Kapela,3,6.434333333333334,False
-37225,Sur le bout de la langue,4,4.703000000000002,False
-37442,Llumeres. Mina y vida a la mar,3,4.708000000000002,False
-37663,Isabelle et les 27 voleurs,3,4.708000000000002,False
-38351,Great Book of Ireland,5,6.364000000000001,False
-38354,"Francisca, la mujer fatal",3,6.111999999999997,False
-38431,I tehni tis krisis: I periptosi tou theatrou,3,6.858000000000005,True
-38995,Belo se pere na devetdeset,3,4.708000000000002,False
-39250,Guerilla,3,6.993250000000002,True
-40761,One in Two,4,6.853000000000005,True
-41414,Amore Mio,3,6.2503333333333355,False
-42551,Ceux de demain,3,5.827000000000001,False
-46235,Fél lélegzet,4,4.708000000000002,False
-47202,Huta '75,4,6.858000000000005,True
-47841,Parookaville,6,6.734000000000005,True
-48531,Copeland,32059,6.853000000000005,True
+0,Copeland,31736,4.791999999999994,False
+1,Prince William: The Future of the Monarchy,9,4.791999999999994,False
+3,Torrente X 2 - Mision en Torrelavega,3,4.656999999999993,False
+4,Astérix & Obélix : L'empire du milieu,7,5.177999999999997,False
+20,The Ballymurphy Precedent,3,7.497999999999993,True
+23,Idõugrók 4: A végzet lángjai,3,5.375000000000001,False
+27,Les enfants rouges,4,6.7379999999999916,True
+30,The Haunted,3,4.643999999999998,False
+31,Enas magas sta salonia,5,5.509999999999998,False
+33,National Theatre Live: King Lear,5,6.784999999999994,True
+34,Marley,4,7.371999999999999,True
+35,La seconda vita,3,6.526999999999995,True
+52,Les misérables,3,6.855999999999992,True
+54,Pethaino gia sena!,8,5.125499999999997,False
+55,Angélique et le roy,3,6.406000000000006,False
+65,Haz conmigo lo que quieras,3,5.768199999999996,False
+66,Poly,4,5.814533333333329,False
+68,Oi gennaioi tis Samothrakis,3,5.291499999999997,False
+69,Great Steam Engines: Standard Engines,4,4.791999999999994,False
+77,Tango on a Visit,5,5.427999999999998,False
+78,Of ik gek ben,3,4.865200000000001,False
+88,Nawiedzona Polska,3,4.592,False
+89,Freddie,3,7.037000000000002,True
+100,La corona partida,3,5.930999999999995,False
+106,Der Berg,3,5.392999999999997,False
+113,Czarnobyl: Ludzie ze stali,4,5.457399999999996,False
+114,Souper lykeio: Akros koufo & palavo,4,5.67,False
+128,Royal Opera House Live Cinema Season 2016/17: The Dream/Symphonic Variations/Marguerite and Armand,7,4.7389999999999946,False
+129,Halloween: The Hunt of Michael Myers,3,4.753999999999994,False
+132,The Hound of the Baskervilles,3,4.933000000000002,False
+147,Mr. Holmes,5,6.717999999999995,True
+148,AMCOP: Samantha,3,4.806999999999993,False
+149,The Last Shaman,3,5.117,False
+153,Chopin. Pragnienie milosci,3,5.490199999999996,False
+159,Who Killed JFK: The Conspiracies,4,6.893499999999997,True
+171,Sisi & Ich,4,5.498166666666665,False
+172,Je le jure,7,4.715999999999993,False
+176,Pacific Conquest: WWII,3,4.737999999999994,False
+181,"Athens, for Example",4,4.638999999999993,False
+183,Deaf The Musical,3,4.806999999999993,False
+188,Die Leugnung - Die Türkei und ihre Vergangenheit,5,4.654999999999994,False
+197,The United Way,3,6.8829999999999965,True
+202,Amy Winehouse: The Tragic Downfall,4,4.659999999999994,False
+225,Macbeth,3,4.670999999999993,False
+226,Fridericus Rex - 4. Teil: Schicksalswende,3,4.753999999999994,False
+240,Ghoul,4,5.855999999999995,False
+244,Happiness Only Real When Shared,3,4.693999999999993,False
+253,Whose City?,3,5.200999999999998,False
+260,A Christmas Carol,3,4.709199999999999,False
+264,Sinterklaas en de pepernoten chaos,3,6.378250000000003,False
+278,Le temps de l'aventure,3,5.964199999999998,False
+279,Lords of Chaos,3,6.832000000000001,True
+290,Royal Shakespeare Company: Love's Labour's Lost,3,5.397599999999998,False
+298,Wilde,3,6.782499999999998,True
+299,Le Comte de Monte-Cristo,3,7.277999999999997,True
+326,Große Freiheit,4,7.233999999999996,True

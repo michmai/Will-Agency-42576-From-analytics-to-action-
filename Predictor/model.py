@@ -1,5 +1,6 @@
-from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_absolute_error
 from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
 
 def train_model(feat_df):
     X = feat_df.drop(columns=["target"])
@@ -10,5 +11,9 @@ def train_model(feat_df):
     model = RandomForestRegressor(n_estimators=100)
     model.fit(X_train, y_train)
     
-    score = model.score(X_test, y_test)
-    return model, score
+    preds = model.predict(X_test)
+    mae = mean_absolute_error(y_test, preds)
+    
+    print("MAE:", mae)
+    return model, mae
+
